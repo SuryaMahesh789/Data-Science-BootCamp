@@ -1,5 +1,5 @@
 
 # Data Science BootCamp
-## MASTERING-NUMPY-ARRAYS
+### 3.MASTERING-NUMPY-ARRAYS
 
 
