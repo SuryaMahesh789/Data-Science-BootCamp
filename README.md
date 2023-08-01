@@ -6,7 +6,7 @@
 ### 2.OS WITH PYTHON
 ### 3.MASTERING-NUMPY-ARRAYS
 ### 4.DATA ANALYSIS WITH PYTHON
-      #### i.Getting Started with Pandas
+      i.Getting Started with Pandas
 
 
 
