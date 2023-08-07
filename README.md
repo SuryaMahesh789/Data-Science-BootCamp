@@ -6,10 +6,10 @@
 ### 2.OS WITH PYTHON
 ### 3.MASTERING-NUMPY-ARRAYS
 ### 4.DATA ANALYSIS WITH PYTHON
-      i.Getting Started with Pandas
-      ii.statistics
-      iii.Data Preprocessing
-      iv.Data Analysis
+      i. Getting Started with Pandas
+      ii. statistics
+      iii. Data Preprocessing
+      iv. Data Analysis
 
 
 
