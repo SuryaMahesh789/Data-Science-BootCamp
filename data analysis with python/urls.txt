@@ -1,0 +1,8 @@
+Data set URl
+https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
+
+Lab1 URL
+https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-da01fc3749f3fb9bd2185886389b33680a1fb9c9
+
+Lab2 URL
+https://labs.cognitiveclass.ai/v2/tools/jupyterlite?ulid=ulid-324a1f0dc9e0efd06c09cfc364dbfead03355a57
