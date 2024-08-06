@@ -1,0 +1,939 @@
+Country,State,University Name,Type of University,Tie Up with University,School,Technologies/Courses Offered,Course Types,Unplaced %,Corporate Tie Up,Job Offering,Internship,Marketing Strategy,Costing,Hackathons,Services Offered,Scholarships,Tier,Ranking
+Australia,Australian Capital Territory,Australian National University (ANU),Public,Yes,Engineering,AI,Full-time,6.05,Yes,No,No,Community Engagement,$37792,No,Consulting,Yes,Tier 1,55
+Australia,Australian Capital Territory,University of Canberra,Private,No,Science,ML,Full-time,10.06,No,No,No,Radio and tv advertising,$25031,Yes,Both,Yes,Tier 2,367
+Australia,New South Wales,University of Sydney,Public,Yes,Business,ML,Online,10.04,No,Yes,No,SEO,$38461,Yes,Consulting,No,Tier 3,958
+Australia,New South Wales,University of New South Wales (UNSW Sydney),Public,Yes,Business,Data Science,Part-time,19.5,No,Yes,No,Email Marketing,$30242,Yes,Training,No,Tier 2,565
+Australia,New South Wales,University of Newcastle,Public,No,Business,ML,Full-time,19.1,Yes,Yes,No,SEO,$16395,No,Consulting,Yes,Tier 2,962
+Australia,New South Wales,University of Wollongong,Public,Yes,Engineering,ML,Online,18.51,No,No,No,Influencer Marketing,$43663,Yes,Training,No,Tier 1,671
+Australia,New South Wales,Macquarie University,Public,Yes,Arts,Cyber Security,Part-time,13.22,No,Yes,Yes,Print Media,$15594,Yes,Consulting,No,Tier 2,715
+Australia,New South Wales,University of Technology Sydney (UTS),Public,No,Business,Data Science,Full-time,19.22,Yes,No,No,Print Media,$31247,Yes,Training,No,Tier 3,386
+Australia,New South Wales,Charles Sturt University,Public,No,Arts,ML,Online,10.18,Yes,Yes,No,Email Marketing,$48036,Yes,Consulting,No,Tier 2,751
+Australia,New South Wales,Southern Cross University,Public,No,Business,ML,Full-time,5.79,Yes,Yes,No,Community Engagement,$29479,Yes,Training,Yes,Tier 1,432
+Australia,New South Wales,University of Divinity,Public,Yes,Business,IoT,Online,5.98,No,No,Yes,Social Media Advertising,$22000,No,Consulting,Yes,Tier 2,707
+Australia,Victoria,University of Melbourne,Private,Yes,Science,AI,Online,10.31,Yes,Yes,Yes,Direct Engagement,$37446,Yes,Both,No,Tier 1,27
+Australia,Victoria,Monash University,Private,No,Engineering,Cyber Security,Part-time,8.53,Yes,Yes,Yes,Print Media,$30552,Yes,Both,No,Tier 2,131
+Australia,Victoria,RMIT University,Private,No,Business,IoT,Full-time,11.36,No,No,No,Email Marketing,$43390,No,Consulting,No,Tier 2,264
+Australia,Victoria,Deakin University,Private,No,Engineering,ML,Online,16.63,Yes,Yes,Yes,Social Media Advertising,$21661,No,Both,Yes,Tier 3,128
+Australia,Victoria,La Trobe University,Public,No,Science,IoT,Full-time,14.4,No,Yes,Yes,Direct Engagement,$21281,No,Both,Yes,Tier 1,585
+Australia,Victoria,Victoria University,Private,No,Arts,AI,Online,10.76,No,Yes,No,Radio and tv advertising,$19573,Yes,Consulting,Yes,Tier 3,299
+Australia,Queensland,University of Queensland (UQ),Public,No,Business,Cyber Security,Full-time,15.23,No,Yes,No,Search Engine Marketing (SEM),$15721,No,Training,Yes,Tier 1,288
+Australia,Queensland,Queensland University of Technology (QUT),Public,Yes,Arts,AI,Online,5.19,Yes,No,Yes,Influencer Marketing,$18619,No,Training,No,Tier 2,196
+Australia,Queensland,Griffith University,Private,Yes,Arts,Data Science,Part-time,9.43,No,Yes,No,Social Media Advertising,$15466,No,Consulting,No,Tier 3,290
+Australia,Queensland,Bond University,Public,Yes,Science,IoT,Full-time,7.59,No,No,Yes,Direct Engagement,$24541,Yes,Consulting,Yes,Tier 1,230
+Australia,Queensland,Central Queensland University,Private,No,Engineering,IoT,Part-time,6.75,Yes,Yes,Yes,Direct Engagement,$43824,No,Both,Yes,Tier 3,355
+Australia,Queensland,University of the Sunshine Coast,Private,No,Science,IoT,Full-time,7.38,No,Yes,No,Email Marketing,$20010,No,Both,No,Tier 2,346
+Australia,Western Australia,University of Western Australia (UWA),Public,Yes,Business,ML,Online,8.44,Yes,Yes,Yes,Community Engagement,$43217,Yes,Both,Yes,Tier 2,378
+Australia,Western Australia,Curtin University,Private,No,Business,Cyber Security,Online,7.26,No,No,Yes,Email Marketing,$40704,Yes,Consulting,No,Tier 1,167
+Australia,Western Australia,Edith Cowan University (ECU),Private,No,Arts,Data Science,Online,13.52,No,No,No,Community Engagement,$39177,Yes,Training,No,Tier 1,488
+Australia,South Australia,University of Adelaide,Private,Yes,Engineering,IoT,Full-time,17.52,No,Yes,Yes,Influencer Marketing,$32472,Yes,Training,No,Tier 2,958
+Australia,South Australia,University of South Australia (UniSA),Public,No,Business,IoT,Full-time,10.64,Yes,Yes,Yes,Social Media Advertising,$26361,No,Consulting,No,Tier 1,735
+Australia,South Australia,Flinders University,Private,No,Arts,IoT,Part-time,17.54,Yes,No,No,Community Engagement,$42376,Yes,Both,No,Tier 1,701
+Australia,Tasmania,University of Tasmania,Private,No,Business,ML,Online,9.98,No,Yes,Yes,Direct Engagement,$19147,No,Training,Yes,Tier 1,312
+Australia,Northern Territory,Charles Darwin University,Public,No,Science,IoT,Full-time,19.07,No,Yes,Yes,Email Marketing,$37781,No,Both,No,Tier 3,244
+Australia,Multi-State,Australian Catholic University (ACU),Public,No,Engineering,IoT,Full-time,5.64,No,Yes,No,Search Engine Marketing (SEM),$24523,No,Both,No,Tier 3,122
+UAE,Dubai,American University in Dubai (AUD),Public,Yes,Engineering,IoT,Part-time,18.64,Yes,Yes,No,Community Engagement,$43407,Yes,Both,No,Tier 2,521
+UAE,Dubai,University of Dubai,Private,No,Business,Cyber Security,Part-time,7.96,Yes,Yes,Yes,Social Media Advertising,$33230,No,Consulting,Yes,Tier 3,2
+UAE,Dubai,Mohammed bin Rashid University of Medicine and Health Sciences,Public,Yes,Arts,Cyber Security,Part-time,7.78,No,Yes,No,Social Media Advertising,$43172,No,Both,No,Tier 3,603
+UAE,Dubai,Dubai Institute of Design and Innovation (DIDI),Private,No,Engineering,Cyber Security,Full-time,9.61,Yes,Yes,No,Community Engagement,$13884,Yes,Training,No,Tier 3,964
+UAE,Dubai,University of the Arts London - Dubai,Private,Yes,Business,Data Science,Part-time,17.99,Yes,Yes,No,SEO,$43432,Yes,Consulting,Yes,Tier 2,870
+UAE,Dubai,British University in Dubai,Public,No,Engineering,IoT,Part-time,18.37,No,Yes,Yes,Search Engine Marketing (SEM),$25121,No,Training,Yes,Tier 1,606
+UAE,Dubai,Dubai Medical College,Public,No,Business,IoT,Online,14.01,No,Yes,Yes,Direct Engagement,$32561,No,Both,Yes,Tier 1,604
+UAE,Dubai,Heriot-Watt University - Dubai,Public,Yes,Science,Cyber Security,Part-time,13.57,Yes,Yes,No,SEO,$38075,Yes,Training,No,Tier 3,221
+UAE,Abu Dhabi,Khalifa University,Public,Yes,Business,AI,Online,15.96,No,Yes,Yes,Social Media Advertising,$35409,No,Consulting,Yes,Tier 3,921
+UAE,Abu Dhabi,Zayed University,Public,No,Arts,AI,Online,7.77,No,No,No,Search Engine Marketing (SEM),$16056,No,Training,No,Tier 3,879
+UAE,Abu Dhabi,Abu Dhabi University,Private,Yes,Arts,Data Science,Part-time,14.1,No,Yes,Yes,Print Media,$39102,No,Both,No,Tier 3,850
+UAE,Sharjah,American University of Sharjah (AUS),Public,No,Business,IoT,Part-time,18.95,No,No,Yes,Influencer Marketing,$42178,No,Training,Yes,Tier 1,281
+UAE,Sharjah,University of Sharjah,Public,Yes,Arts,Data Science,Online,13.96,Yes,Yes,Yes,Print Media,$10410,Yes,Training,Yes,Tier 3,829
+UAE,Sharjah,Skyline University College,Public,Yes,Engineering,IoT,Full-time,19.14,Yes,No,No,Print Media,$19317,Yes,Both,Yes,Tier 2,249
+UAE,Ajman,Gulf Medical University,Private,No,Business,Data Science,Part-time,18.94,No,No,No,Email Marketing,$46549,No,Consulting,Yes,Tier 2,54
+UAE,Ajman,Gulf University,Private,No,Arts,IoT,Part-time,6.07,No,No,No,Print Media,$12022,Yes,Training,Yes,Tier 3,129
+UAE,Ras Al Khaimah,American University of Ras Al Khaimah,Private,Yes,Science,Data Science,Full-time,19.06,No,No,Yes,Social Media Advertising,$33360,No,Training,Yes,Tier 3,614
+UAE,Fujairah,University of Fujairah,Private,No,Science,ML,Online,18.58,No,Yes,No,SEO,$20417,No,Both,No,Tier 1,626
+Saudi Arabia,Riyadh,King Saud University (KSU),Public,Yes,Arts,IoT,Part-time,14.92,Yes,Yes,Yes,Radio and tv advertising,$40119,No,Consulting,Yes,Tier 2,402
+Saudi Arabia,Riyadh,King Saud bin Abdulaziz University for Health Sciences (KSAU-HS),Private,Yes,Arts,Cyber Security,Online,16.22,No,No,No,Influencer Marketing,$34690,Yes,Training,No,Tier 1,592
+Saudi Arabia,Riyadh,Prince Sultan University (PSU),Private,Yes,Arts,Cyber Security,Online,7.81,Yes,No,No,Radio and tv advertising,$38615,No,Consulting,No,Tier 2,698
+Saudi Arabia,Riyadh,Al-Yamamah University,Private,No,Science,Data Science,Online,6.94,No,No,Yes,Search Engine Marketing (SEM),$32291,Yes,Training,No,Tier 2,689
+Saudi Arabia,Riyadh,Al-Faisal University,Private,Yes,Engineering,ML,Online,12.34,Yes,No,Yes,Search Engine Marketing (SEM),$29058,Yes,Both,Yes,Tier 3,475
+Saudi Arabia,Riyadh,American International University (AIU),Private,Yes,Engineering,Data Science,Part-time,8.19,Yes,No,No,Direct Engagement,$27143,Yes,Both,No,Tier 1,445
+Saudi Arabia,Riyadh,Arab Open University,Private,Yes,Arts,Cyber Security,Part-time,10.41,Yes,No,Yes,Community Engagement,$20112,No,Both,Yes,Tier 1,187
+Saudi Arabia,Riyadh,Saudi Electronic University (SEU),Private,Yes,Arts,IoT,Full-time,17.42,Yes,No,Yes,SEO,$23957,No,Training,No,Tier 3,457
+Saudi Arabia,Jeddah,King Abdulaziz University (KAU),Public,No,Arts,Cyber Security,Part-time,7.59,No,No,No,Community Engagement,$18455,No,Training,No,Tier 2,460
+Saudi Arabia,Jeddah,University of Jeddah,Private,No,Engineering,Cyber Security,Part-time,8.31,Yes,Yes,Yes,SEO,$40403,No,Training,No,Tier 3,7
+Saudi Arabia,Jeddah,Dar Al-Hekma University,Public,No,Business,ML,Full-time,17.45,Yes,No,Yes,Email Marketing,$27652,Yes,Both,No,Tier 2,394
+Saudi Arabia,Jeddah,Effat University,Private,Yes,Science,Data Science,Part-time,14.52,No,Yes,Yes,Community Engagement,$22736,No,Consulting,No,Tier 3,439
+Saudi Arabia,Dhahran,King Fahd University of Petroleum and Minerals (KFUPM),Private,Yes,Arts,AI,Full-time,19.22,Yes,Yes,No,Influencer Marketing,$22379,No,Consulting,No,Tier 1,892
+Saudi Arabia,Abha,King Khalid University (KKU),Private,Yes,Science,Cyber Security,Part-time,7.54,No,Yes,No,Influencer Marketing,$35418,Yes,Training,Yes,Tier 3,719
+Saudi Arabia,Dammam,Imam Abdulrahman Bin Faisal University (IAU),Public,Yes,Engineering,IoT,Full-time,14.97,Yes,No,No,Direct Engagement,$45396,Yes,Both,No,Tier 3,322
+Saudi Arabia,Manama,Kingdom University,Public,Yes,Arts,Cyber Security,Full-time,19.29,No,Yes,No,Community Engagement,$10243,Yes,Both,Yes,Tier 3,304
+Saudi Arabia,Tabuk,Tabuk University,Public,Yes,Arts,Data Science,Full-time,14.72,No,No,No,Direct Engagement,$19489,No,Training,Yes,Tier 3,70
+Saudi Arabia,Buraydah,Qassim University,Public,Yes,Business,AI,Online,15.44,Yes,Yes,Yes,Community Engagement,$35633,No,Consulting,No,Tier 1,768
+Saudi Arabia,Jazan,Jazan University,Public,Yes,Business,AI,Online,6.65,Yes,No,No,Email Marketing,$26719,No,Training,No,Tier 3,296
+Saudi Arabia,Hail,Hail University,Private,Yes,Engineering,ML,Online,11.89,No,No,No,Radio and tv advertising,$28404,Yes,Both,No,Tier 1,87
+Saudi Arabia,Najran,Najran University,Public,No,Business,Data Science,Part-time,18.96,Yes,No,No,Radio and tv advertising,$39788,Yes,Both,Yes,Tier 1,505
+Saudi Arabia,Al Khobar,Prince Mohammad Bin Fahd University (PMU),Public,No,Science,ML,Full-time,10.59,Yes,No,No,Radio and tv advertising,$43901,Yes,Both,Yes,Tier 3,244
+Saudi Arabia,Sakakah,Al-Jouf University,Public,Yes,Arts,Cyber Security,Part-time,5.53,Yes,Yes,No,Community Engagement,$16814,No,Consulting,No,Tier 1,131
+Saudi Arabia,Arar,Northern Borders University,Public,Yes,Engineering,IoT,Part-time,16.01,No,Yes,Yes,Radio and tv advertising,$47464,No,Consulting,Yes,Tier 2,603
+Saudi Arabia,Bisha,University of Bisha,Private,Yes,Science,Cyber Security,Part-time,17.6,Yes,No,No,Email Marketing,$47368,No,Training,Yes,Tier 3,401
+Kuwait,Kuwait City,Kuwait University,Private,No,Engineering,Data Science,Part-time,15.65,No,No,No,Email Marketing,$39630,Yes,Consulting,Yes,Tier 3,439
+Kuwait,Kuwait City,The Public Authority for Applied Education and Training (PAAET),Private,Yes,Arts,Cyber Security,Online,10.77,Yes,No,No,Email Marketing,$47864,Yes,Consulting,Yes,Tier 1,541
+Kuwait,Kuwait City,Kuwait International University,Private,No,Arts,Data Science,Full-time,18.02,No,No,Yes,Search Engine Marketing (SEM),$40701,No,Consulting,Yes,Tier 2,711
+Kuwait,Kuwait City,University of Sharjah (Kuwait Campus),Public,No,Arts,IoT,Online,9.85,Yes,No,No,Search Engine Marketing (SEM),$26298,Yes,Training,No,Tier 2,525
+Kuwait,Kuwait City,Arab Open University,Private,No,Science,AI,Online,13.58,No,Yes,No,SEO,$41387,Yes,Both,Yes,Tier 2,348
+Kuwait,Kuwait City,Alhadi University College,Private,Yes,Engineering,IoT,Part-time,7.85,No,Yes,Yes,Email Marketing,$14302,Yes,Consulting,Yes,Tier 3,463
+Kuwait,Kuwait City,New Kuwait University College,Private,Yes,Science,ML,Online,9.52,No,Yes,No,SEO,$29010,Yes,Both,No,Tier 1,911
+Kuwait,Kuwait City,College of Basic Education,Private,No,Business,ML,Part-time,5.94,No,No,Yes,Influencer Marketing,$31013,Yes,Both,Yes,Tier 2,471
+Kuwait,Egaila,American University of the Middle East,Public,Yes,Business,AI,Full-time,5.2,Yes,No,No,Radio and tv advertising,$25610,Yes,Consulting,Yes,Tier 3,207
+Kuwait,Mubarak Al-Abdullah,Australian College of Kuwait,Public,No,Science,Data Science,Part-time,13.57,Yes,Yes,Yes,Community Engagement,$48733,Yes,Training,Yes,Tier 3,180
+Kuwait,Hawally,Gulf University for Science and Technology,Public,No,Engineering,Data Science,Part-time,8.93,Yes,No,Yes,Search Engine Marketing (SEM),$20965,No,Consulting,Yes,Tier 2,62
+Egypt,Giza,Cairo University,Private,Yes,Science,IoT,Full-time,14.18,Yes,Yes,No,Community Engagement,$12501,Yes,Both,Yes,Tier 1,292
+Egypt,Cairo,American University in Cairo (AUC),Public,Yes,Business,AI,Full-time,9.64,No,Yes,Yes,Email Marketing,$37978,Yes,Training,No,Tier 3,615
+Egypt,Cairo,Ain Shams University,Public,Yes,Engineering,AI,Part-time,9.41,Yes,No,No,Search Engine Marketing (SEM),$20876,Yes,Consulting,Yes,Tier 2,503
+Egypt,Cairo,Helwan University,Public,No,Arts,IoT,Full-time,12.83,No,Yes,Yes,Search Engine Marketing (SEM),$32568,No,Training,Yes,Tier 2,269
+Egypt,Alexandria,Alexandria University,Public,No,Engineering,IoT,Part-time,15.79,Yes,No,No,Print Media,$31965,No,Training,No,Tier 2,376
+Egypt,Zagazig,University of Zagazig,Private,Yes,Business,IoT,Full-time,15.01,No,Yes,No,Direct Engagement,$21388,Yes,Consulting,Yes,Tier 1,915
+Egypt,Mansoura,University of Mansoura,Public,Yes,Arts,Cyber Security,Full-time,18.51,No,No,Yes,SEO,$29137,No,Training,No,Tier 2,375
+Egypt,Assiut,University of Assiut,Public,No,Engineering,Cyber Security,Part-time,15.69,No,No,Yes,Email Marketing,$28799,No,Consulting,Yes,Tier 2,72
+Egypt,Minya,University of Minya,Private,No,Business,ML,Part-time,13.96,Yes,Yes,Yes,Community Engagement,$15537,No,Training,Yes,Tier 3,813
+Egypt,Ismailia,Suez Canal University,Public,Yes,Arts,IoT,Online,5.61,No,Yes,Yes,Email Marketing,$18930,No,Consulting,Yes,Tier 3,867
+Egypt,South Valley,South Valley University,Private,No,Business,IoT,Part-time,11.09,Yes,No,No,Community Engagement,$42772,Yes,Training,Yes,Tier 2,318
+Lebanon,Beirut,Lebanese University (Université Libanaise),Private,Yes,Engineering,IoT,Full-time,12.39,Yes,No,No,Social Media Advertising,$33329,Yes,Training,No,Tier 2,903
+Lebanon,Beirut,American University of Beirut (AUB),Private,No,Engineering,Cyber Security,Part-time,13.37,Yes,Yes,Yes,Social Media Advertising,$35526,No,Consulting,Yes,Tier 1,114
+Lebanon,Beirut,Lebanese American University (LAU),Private,No,Business,Cyber Security,Online,18.77,Yes,Yes,Yes,SEO,$12618,Yes,Training,Yes,Tier 3,122
+Lebanon,Beirut,University of Saint Joseph (USJ),Private,No,Science,Cyber Security,Part-time,12.12,No,No,Yes,Print Media,$15514,Yes,Consulting,Yes,Tier 2,243
+Lebanon,Beirut,Beirut Arab University (BAU),Public,No,Science,IoT,Online,5.12,No,Yes,No,Email Marketing,$37561,Yes,Both,No,Tier 1,192
+Lebanon,Beirut,Lebanese International University (LIU),Private,Yes,Business,Data Science,Part-time,15.04,Yes,No,Yes,Search Engine Marketing (SEM),$27754,No,Consulting,No,Tier 1,314
+Lebanon,Beirut,International University of Beirut (IUB),Private,Yes,Science,AI,Online,12.37,Yes,Yes,Yes,SEO,$29379,Yes,Both,No,Tier 2,768
+Lebanon,Beirut,Modern University for Business and Science (MUBS),Public,No,Science,AI,Full-time,19.15,No,Yes,Yes,SEO,$41495,Yes,Training,Yes,Tier 2,89
+Lebanon,Baabda,Université Antonine,Private,No,Science,AI,Online,15.51,Yes,No,No,Search Engine Marketing (SEM),$34417,Yes,Training,No,Tier 3,535
+Lebanon,Kaslik,Holy Spirit University of Kaslik (USEK),Private,No,Science,Cyber Security,Part-time,14.78,Yes,No,No,Print Media,$44380,No,Training,Yes,Tier 1,646
+Lebanon,Kaslik,Université Saint-Esprit de Kaslik (USEK),Public,Yes,Business,Cyber Security,Online,19.94,Yes,Yes,No,Print Media,$17806,No,Both,No,Tier 2,683
+Lebanon,Byblos,Lebanese American University (LAU),Public,No,Science,AI,Part-time,5.07,No,Yes,No,Radio and tv advertising,$28840,Yes,Both,No,Tier 2,353
+Lebanon,Byblos,American University of Technology (AUT),Public,Yes,Business,Cyber Security,Online,8.09,Yes,Yes,Yes,Influencer Marketing,$20858,Yes,Both,Yes,Tier 2,3
+Lebanon,Louaize,Notre Dame University - Louaize (NDU),Private,No,Science,AI,Part-time,11.02,Yes,No,Yes,Radio and tv advertising,$48071,No,Consulting,No,Tier 2,658
+Lebanon,Tripoli,Al-Manar University of Technology,Private,Yes,Science,AI,Online,16.23,No,Yes,No,Influencer Marketing,$13477,No,Training,Yes,Tier 2,207
+Lebanon,Balamand,University of Balamand,Public,Yes,Arts,Data Science,Online,10.56,Yes,No,No,Influencer Marketing,$29588,Yes,Consulting,No,Tier 3,473
+Syria,Damascus,University of Damascus,Public,No,Science,ML,Part-time,14.9,Yes,No,Yes,SEO,$25241,Yes,Consulting,No,Tier 1,323
+Syria,Damascus,American University of Science and Technology (AUST),Private,Yes,Science,Data Science,Part-time,6.62,No,Yes,Yes,Email Marketing,$30775,No,Consulting,No,Tier 3,872
+Syria,Damascus,Syrian Private University (SPU),Public,Yes,Engineering,IoT,Full-time,10.17,Yes,Yes,No,Community Engagement,$42600,Yes,Training,No,Tier 3,347
+Syria,Damascus,Arab International University (AIU),Private,No,Science,AI,Online,17.91,No,No,No,Email Marketing,$24043,Yes,Consulting,Yes,Tier 2,990
+Syria,Damascus,Al-Maaref University,Private,Yes,Arts,IoT,Part-time,19.24,No,Yes,No,Radio and tv advertising,$15325,Yes,Training,Yes,Tier 2,140
+Syria,Damascus,Sham Private University,Public,Yes,Business,ML,Online,5.04,No,No,No,Influencer Marketing,$42163,No,Consulting,Yes,Tier 1,87
+Syria,Aleppo,University of Aleppo,Public,No,Science,IoT,Full-time,7.13,Yes,Yes,No,Search Engine Marketing (SEM),$16339,Yes,Consulting,No,Tier 3,879
+Syria,Latakia,Tishreen University,Private,No,Arts,AI,Part-time,16.66,Yes,Yes,No,Print Media,$48518,Yes,Both,Yes,Tier 2,626
+Syria,Homs,University of Homs,Public,Yes,Business,IoT,Full-time,10.31,Yes,Yes,No,Direct Engagement,$40424,Yes,Both,Yes,Tier 3,433
+Syria,Homs,Al-Baath University,Public,No,Arts,Data Science,Online,18.83,No,Yes,Yes,Community Engagement,$33333,Yes,Consulting,Yes,Tier 3,790
+Syria,Daraa,University of Daraa,Private,Yes,Engineering,IoT,Part-time,6.81,No,No,Yes,Influencer Marketing,$21337,Yes,Training,No,Tier 2,128
+Syria,Qamishli,University of Qamishli,Private,No,Engineering,ML,Full-time,7.79,Yes,Yes,No,Print Media,$39177,No,Consulting,Yes,Tier 1,927
+Syria,Deir ez-Zor,University of Deir ez-Zor,Public,Yes,Arts,IoT,Full-time,16.01,Yes,No,Yes,Radio and tv advertising,$12232,No,Training,Yes,Tier 2,255
+Syria,Hasaka,University of Hasaka,Private,No,Engineering,IoT,Part-time,11.74,No,No,No,Print Media,$22143,No,Both,No,Tier 2,736
+Iraq,Baghdad,University of Baghdad,Private,Yes,Engineering,AI,Part-time,8.78,Yes,Yes,No,Radio and tv advertising,$22350,Yes,Consulting,Yes,Tier 1,66
+Iraq,Baghdad,Al-Mustansiriya University,Public,Yes,Engineering,Cyber Security,Full-time,18.4,No,No,Yes,SEO,$39679,No,Consulting,No,Tier 2,606
+Iraq,Baghdad,"University of Technology, Iraq",Private,No,Science,ML,Part-time,5.18,Yes,No,Yes,Search Engine Marketing (SEM),$25979,No,Training,No,Tier 2,559
+Iraq,Baghdad,"American University of Iraq, Baghdad",Public,Yes,Engineering,Data Science,Online,6.03,Yes,No,Yes,Email Marketing,$34856,No,Both,No,Tier 2,505
+Iraq,Baghdad,Al-Nahrain University,Public,No,Engineering,Data Science,Full-time,7.23,Yes,No,No,Direct Engagement,$12505,No,Both,Yes,Tier 3,2
+Iraq,Baghdad,Baghdad College of Economic Sciences University,Private,No,Engineering,Data Science,Part-time,10.23,Yes,Yes,No,Search Engine Marketing (SEM),$34539,No,Both,Yes,Tier 2,161
+Iraq,Baghdad,Al-Turath University College,Public,No,Arts,IoT,Part-time,5.5,No,No,Yes,Community Engagement,$20554,Yes,Consulting,Yes,Tier 3,424
+Iraq,Baghdad,Al-Rafidain University College,Public,Yes,Arts,Data Science,Part-time,15.25,Yes,No,No,Radio and tv advertising,$15096,No,Both,No,Tier 1,334
+Iraq,Baghdad,Al-Ma'mun University College,Public,Yes,Engineering,Cyber Security,Full-time,14.83,No,Yes,Yes,Influencer Marketing,$12858,No,Both,No,Tier 3,383
+Iraq,Baghdad,Al-Mansour University College,Private,Yes,Business,ML,Part-time,13.95,Yes,Yes,No,Search Engine Marketing (SEM),$42614,Yes,Consulting,Yes,Tier 1,536
+Iraq,Basrah,University of Basrah,Private,Yes,Business,Data Science,Full-time,12.91,Yes,No,Yes,Radio and tv advertising,$44847,Yes,Both,Yes,Tier 2,5
+Iraq,Mosul,University of Mosul,Private,No,Arts,AI,Online,10.86,Yes,No,No,Radio and tv advertising,$45809,No,Both,Yes,Tier 2,206
+Iraq,Mosul,Al-Hadba University College,Private,Yes,Engineering,AI,Part-time,16.48,Yes,No,Yes,Search Engine Marketing (SEM),$31071,Yes,Training,Yes,Tier 3,39
+Iraq,Najaf,University of Kufa,Public,No,Arts,Data Science,Part-time,8.18,No,Yes,No,Social Media Advertising,$46589,Yes,Training,No,Tier 1,408
+Iraq,Karbala,University of Karbala,Private,No,Arts,Cyber Security,Part-time,12.28,No,No,No,Radio and tv advertising,$18556,No,Training,Yes,Tier 2,259
+Iraq,Baqubah,University of Diyala,Public,Yes,Business,IoT,Full-time,8.39,Yes,No,Yes,Radio and tv advertising,$14396,No,Training,No,Tier 1,263
+Iraq,Ramadi,University of Anbar,Public,Yes,Arts,AI,Online,6.61,Yes,No,No,Email Marketing,$46471,No,Both,No,Tier 3,271
+Iraq,Hillah,University of Babylon,Public,No,Business,Data Science,Full-time,10.44,No,Yes,Yes,Search Engine Marketing (SEM),$45230,Yes,Training,Yes,Tier 2,48
+Iraq,Kirkuk,University of Kirkuk,Private,No,Business,AI,Online,7.91,Yes,No,No,SEO,$43073,No,Training,Yes,Tier 1,951
+Iraq,Tikrit,University of Tikrit,Private,Yes,Business,Data Science,Part-time,15.49,Yes,No,Yes,Search Engine Marketing (SEM),$34494,No,Consulting,No,Tier 3,376
+Iraq,Sulaymaniyah,University of Sulaimani,Public,No,Arts,Cyber Security,Online,5.71,No,No,Yes,Influencer Marketing,$47862,No,Training,Yes,Tier 2,141
+Iraq,Sulaymaniyah,"American University of Iraq, Sulaimani",Private,No,Arts,IoT,Part-time,8.64,No,No,Yes,Social Media Advertising,$40857,No,Training,Yes,Tier 3,485
+Iraq,Sulaymaniyah,Komar University of Science and Technology,Public,No,Science,Cyber Security,Part-time,13.33,Yes,Yes,Yes,Radio and tv advertising,$34458,Yes,Training,No,Tier 2,945
+Iraq,Sulaymaniyah,University of Human Development,Private,Yes,Engineering,Data Science,Full-time,7.41,No,No,Yes,Influencer Marketing,$34294,No,Consulting,No,Tier 3,701
+Iraq,Duhok,University of Duhok,Public,Yes,Science,Cyber Security,Full-time,9.56,No,No,No,Print Media,$20057,No,Both,Yes,Tier 2,158
+Iraq,Duhok,Cihan University,Private,Yes,Engineering,ML,Online,5.63,Yes,Yes,Yes,Print Media,$36562,No,Consulting,No,Tier 3,406
+Iraq,Al Diwaniyah,University of Al-Qadisiyah,Private,No,Arts,Cyber Security,Online,6.19,Yes,Yes,No,Direct Engagement,$21550,Yes,Both,No,Tier 1,232
+Iraq,Nasiriyah,University of Thi-Qar,Public,No,Engineering,IoT,Full-time,9.72,No,No,Yes,Community Engagement,$43711,Yes,Training,No,Tier 1,609
+Iraq,Amarah,University of Misan,Public,Yes,Science,Data Science,Online,17.58,Yes,No,No,Print Media,$44811,No,Consulting,No,Tier 1,52
+Iraq,Kut,University of Wasit,Public,No,Science,Data Science,Online,6.38,No,No,No,Community Engagement,$13877,Yes,Both,Yes,Tier 2,236
+Iraq,Samarra,University of Samarra,Private,No,Science,AI,Online,12.34,Yes,No,No,Influencer Marketing,$30091,No,Training,Yes,Tier 3,176
+Iraq,Fallujah,University of Fallujah,Private,Yes,Science,AI,Full-time,14.12,No,Yes,No,Print Media,$35951,No,Both,Yes,Tier 2,4
+Iraq,Erbil,Cihan University,Private,Yes,Science,AI,Full-time,5.39,No,Yes,No,Print Media,$45469,No,Consulting,No,Tier 1,511
+Iraq,Erbil,SABIS® University,Public,Yes,Business,ML,Online,19.71,No,No,No,Search Engine Marketing (SEM),$31619,Yes,Consulting,No,Tier 3,611
+Iraq,Erbil,Lebanese French University,Public,No,Science,AI,Online,11.76,No,Yes,Yes,Print Media,$13428,No,Consulting,No,Tier 1,953
+Iraq,Erbil,Catholic University in Erbil,Private,Yes,Business,AI,Part-time,13.31,No,No,Yes,Radio and tv advertising,$43745,No,Both,Yes,Tier 2,995
+Iraq,Erbil,University of Kurdistan Hewlêr,Private,Yes,Science,ML,Part-time,11.78,Yes,No,No,Community Engagement,$48704,No,Training,No,Tier 2,395
+Armenia,Yerevan,Yerevan State University,Private,No,Business,AI,Part-time,12.3,Yes,Yes,Yes,Community Engagement,$11435,Yes,Training,No,Tier 2,488
+Armenia,Yerevan,National Polytechnic University of Armenia,Private,No,Business,ML,Full-time,15.97,Yes,Yes,Yes,Radio and tv advertising,$15272,No,Both,No,Tier 1,311
+Armenia,Yerevan,Armenian State Pedagogical University,Private,Yes,Business,AI,Online,9.12,Yes,No,No,Community Engagement,$16351,No,Training,No,Tier 2,928
+Armenia,Yerevan,Yerevan State Medical University,Public,Yes,Business,Cyber Security,Full-time,7.61,Yes,No,Yes,Print Media,$42396,No,Consulting,No,Tier 2,504
+Armenia,Yerevan,Armenian State University of Economics,Private,No,Engineering,ML,Full-time,9.17,Yes,Yes,No,Community Engagement,$28949,No,Training,No,Tier 1,60
+Armenia,Yerevan,Yerevan State University of Architecture and Construction,Private,No,Business,IoT,Full-time,12.73,No,Yes,Yes,Influencer Marketing,$26513,Yes,Both,Yes,Tier 3,394
+Armenia,Yerevan,Yerevan Brusov State University of Languages and Social Sciences,Private,No,Engineering,AI,Part-time,13.17,No,Yes,Yes,Direct Engagement,$32466,No,Training,No,Tier 1,805
+Armenia,Yerevan,Yerevan Komitas State Conservatory,Private,Yes,Arts,Data Science,Online,5.87,No,Yes,No,Search Engine Marketing (SEM),$32938,Yes,Both,No,Tier 1,236
+Armenia,Yerevan,Armenian National Agrarian University,Private,No,Business,IoT,Online,7.84,Yes,Yes,Yes,Influencer Marketing,$23787,Yes,Training,Yes,Tier 1,3
+Armenia,Yerevan,American University of Armenia,Private,No,Science,ML,Part-time,14.38,No,Yes,Yes,Search Engine Marketing (SEM),$44752,Yes,Consulting,Yes,Tier 3,979
+Armenia,Yerevan,French University in Armenia,Private,No,Business,Cyber Security,Full-time,13.34,Yes,No,No,Community Engagement,$16216,Yes,Training,No,Tier 2,352
+Armenia,Yerevan,Russian-Armenian (Slavonic) University,Private,Yes,Science,Cyber Security,Part-time,11.48,No,No,No,Influencer Marketing,$17543,No,Both,Yes,Tier 2,422
+Armenia,Yerevan,Eurasia International University,Public,Yes,Arts,Cyber Security,Online,12.12,No,No,No,Social Media Advertising,$42004,Yes,Training,No,Tier 3,998
+Armenia,Yerevan,European University,Public,Yes,Engineering,Cyber Security,Part-time,19.92,No,Yes,No,Radio and tv advertising,$39014,Yes,Both,Yes,Tier 3,957
+Armenia,Yerevan,Haybusak University of Yerevan,Public,No,Science,ML,Full-time,9.42,No,Yes,No,Print Media,$47361,No,Consulting,Yes,Tier 3,481
+Armenia,Yerevan,Yerevan Gladzor University,Public,No,Business,Cyber Security,Full-time,16.01,Yes,No,Yes,Print Media,$22083,Yes,Consulting,Yes,Tier 1,584
+Armenia,Yerevan,International Scientific-Educational Center of NAS RA,Public,Yes,Arts,Cyber Security,Part-time,8.79,No,Yes,Yes,Radio and tv advertising,$47845,No,Both,Yes,Tier 1,292
+Armenia,Yerevan,Saint Teresa Medical University,Public,No,Arts,ML,Online,7.54,No,Yes,Yes,SEO,$29674,No,Both,No,Tier 3,594
+Armenia,Yerevan,Yerevan University of Management and Information Technologies,Public,No,Arts,ML,Online,7.45,Yes,No,Yes,Community Engagement,$33945,No,Training,No,Tier 2,919
+Armenia,Yerevan,University of Traditional Medicine,Public,Yes,Engineering,AI,Online,13.93,No,Yes,Yes,Print Media,$36028,Yes,Consulting,Yes,Tier 3,537
+Armenia,Yerevan,Anania Shirakatsi University,Private,Yes,Arts,IoT,Full-time,10.66,No,Yes,Yes,Influencer Marketing,$43998,No,Consulting,Yes,Tier 2,654
+Armenia,Yerevan,Armenian State Institute of Physical Culture,Private,No,Business,ML,Online,15.02,No,No,Yes,Direct Engagement,$21316,No,Both,No,Tier 3,488
+Armenia,Yerevan,Ararat University,Public,Yes,Business,Cyber Security,Full-time,16.9,Yes,No,Yes,Community Engagement,$30258,No,Training,No,Tier 1,484
+Armenia,Yerevan,King Danylo University,Private,No,Business,IoT,Online,12.62,No,No,No,Influencer Marketing,$30276,No,Both,No,Tier 1,618
+Armenia,Yerevan,Yerevan Institute of Humanities,Public,Yes,Business,AI,Part-time,17.27,Yes,Yes,No,Direct Engagement,$10200,No,Both,Yes,Tier 2,113
+Armenia,Yerevan,Yerevan International Linguistic and Regional Studies University,Private,Yes,Science,Data Science,Part-time,10.88,Yes,Yes,No,Print Media,$23315,No,Consulting,Yes,Tier 1,706
+Armenia,Gavar,Gavar State University,Public,No,Business,Data Science,Full-time,19.69,Yes,Yes,No,Email Marketing,$30789,Yes,Training,No,Tier 2,590
+Armenia,Gyumri,Gyumri State Pedagogical Institute,Private,No,Arts,AI,Part-time,12.6,No,Yes,Yes,SEO,$45203,Yes,Consulting,Yes,Tier 1,84
+Armenia,Gyumri,Shirak State University,Public,Yes,Engineering,Data Science,Full-time,11.51,No,No,No,Direct Engagement,$46135,No,Training,Yes,Tier 2,196
+Armenia,Vanadzor,Vanadzor State University,Private,Yes,Science,Data Science,Full-time,11.04,Yes,No,Yes,Email Marketing,$49824,Yes,Training,No,Tier 3,376
+Armenia,Vanadzor,Mkhitar Gosh Armenian-Russian International University,Private,No,Engineering,IoT,Online,11.16,No,No,Yes,Email Marketing,$48672,No,Training,No,Tier 1,313
+Armenia,Stepanakert,Artsakh State University,Private,Yes,Science,IoT,Online,17.16,No,Yes,No,Direct Engagement,$49823,Yes,Training,No,Tier 2,984
+Armenia,Stepanakert,Mesrop Mashtots University,Public,No,Engineering,IoT,Online,10.9,Yes,Yes,Yes,Radio and tv advertising,$17566,Yes,Training,No,Tier 2,600
+Azerbaijan,Baku,Baku State University,Public,Yes,Science,ML,Full-time,18.21,No,Yes,Yes,Community Engagement,$10817,No,Training,No,Tier 1,324
+Azerbaijan,Baku,Azerbaijan State Oil and Industry University,Public,Yes,Business,Cyber Security,Full-time,9.46,Yes,No,No,Social Media Advertising,$24541,Yes,Both,No,Tier 2,701
+Azerbaijan,Baku,Azerbaijan Technical University,Private,Yes,Business,AI,Online,9.83,No,No,Yes,Radio and tv advertising,$14743,Yes,Consulting,Yes,Tier 2,502
+Azerbaijan,Baku,Azerbaijan University of Architecture and Construction,Public,Yes,Business,AI,Part-time,15.21,No,Yes,Yes,Direct Engagement,$42736,Yes,Consulting,No,Tier 2,165
+Azerbaijan,Baku,Azerbaijan State Pedagogical University,Private,Yes,Business,Cyber Security,Part-time,10.93,Yes,Yes,Yes,Community Engagement,$31750,No,Consulting,No,Tier 3,516
+Azerbaijan,Baku,Azerbaijan Medical University,Public,Yes,Business,IoT,Full-time,16.3,No,No,Yes,Direct Engagement,$26028,Yes,Training,No,Tier 2,263
+Azerbaijan,Baku,Azerbaijan University of Languages,Private,No,Arts,IoT,Part-time,12.96,No,No,Yes,Radio and tv advertising,$25392,No,Consulting,No,Tier 3,65
+Azerbaijan,Baku,Khazar University,Public,No,Business,ML,Online,8.69,No,No,No,Search Engine Marketing (SEM),$32843,Yes,Training,Yes,Tier 1,168
+Azerbaijan,Baku,Baku Engineering University,Public,No,Engineering,AI,Online,14.4,No,No,No,Direct Engagement,$39220,No,Both,Yes,Tier 2,402
+Azerbaijan,Baku,Azerbaijan State University of Economics,Public,No,Science,Data Science,Online,8.46,Yes,No,No,Social Media Advertising,$25561,No,Consulting,No,Tier 2,230
+Azerbaijan,Baku,Azerbaijan State University of Culture and Arts,Public,No,Business,Cyber Security,Full-time,14.88,No,Yes,Yes,Social Media Advertising,$49798,Yes,Both,No,Tier 3,240
+Azerbaijan,Baku,ADA University,Private,No,Engineering,IoT,Part-time,10.35,No,No,Yes,Search Engine Marketing (SEM),$26334,No,Training,No,Tier 1,580
+Azerbaijan,Baku,Qafqaz University,Public,Yes,Business,Cyber Security,Full-time,10.07,Yes,Yes,Yes,Direct Engagement,$32538,Yes,Consulting,Yes,Tier 3,592
+Azerbaijan,Baku,Western University,Public,Yes,Science,IoT,Full-time,16.33,Yes,Yes,Yes,SEO,$28746,No,Consulting,Yes,Tier 1,952
+Azerbaijan,Baku,Baku Business University,Public,Yes,Arts,Data Science,Part-time,12.31,Yes,No,No,Print Media,$38179,No,Consulting,No,Tier 2,854
+Azerbaijan,Baku,Azerbaijan University of Architecture and Construction,Public,No,Science,AI,Full-time,9.08,No,No,Yes,Email Marketing,$39291,No,Both,Yes,Tier 1,255
+Azerbaijan,Baku,Khazar University,Private,No,Arts,ML,Part-time,16.29,No,No,Yes,Radio and tv advertising,$31935,Yes,Consulting,No,Tier 3,361
+Azerbaijan,Baku,Istanbul University (Azerbaijan Branch),Private,No,Science,IoT,Online,5.38,Yes,No,No,Print Media,$16371,No,Consulting,Yes,Tier 1,351
+Azerbaijan,Baku,Azerbaijan University of Tourism and Management,Public,No,Engineering,IoT,Part-time,13.2,No,Yes,No,SEO,$35169,Yes,Training,Yes,Tier 2,485
+Azerbaijan,Baku,Baku Higher Oil School,Public,No,Engineering,AI,Online,9.09,Yes,No,Yes,Email Marketing,$40270,No,Both,Yes,Tier 3,311
+Azerbaijan,Baku,Caspian University,Private,No,Business,AI,Full-time,7.48,Yes,No,No,Search Engine Marketing (SEM),$26476,No,Both,Yes,Tier 1,36
+Azerbaijan,Baku,Azerbaijan State University of Economics (Private Branch),Private,No,Arts,AI,Full-time,14.31,Yes,No,Yes,Direct Engagement,$35029,No,Training,No,Tier 3,585
+Azerbaijan,Baku,East University,Public,Yes,Engineering,ML,Full-time,11.38,Yes,No,Yes,Community Engagement,$26622,Yes,Training,No,Tier 2,232
+Azerbaijan,Baku,Baku International University,Private,Yes,Arts,AI,Online,16.36,Yes,Yes,No,Search Engine Marketing (SEM),$49430,No,Consulting,Yes,Tier 2,535
+Azerbaijan,Baku,Azerbaijan State Institute of Physical Culture and Sports (Private Branch),Private,No,Science,Cyber Security,Full-time,14.41,Yes,No,Yes,Print Media,$32867,No,Training,No,Tier 3,711
+Azerbaijan,Sumgayit,Sumgayit State University,Public,No,Arts,Data Science,Part-time,19.74,Yes,No,No,Radio and tv advertising,$45321,Yes,Both,No,Tier 1,599
+Azerbaijan,Ganja,Ganja State University,Private,Yes,Engineering,ML,Online,18.03,No,Yes,No,Direct Engagement,$13589,Yes,Consulting,No,Tier 2,937
+Azerbaijan,Ganja,Ganja State University (Private Branch),Public,No,Science,Cyber Security,Part-time,10.8,No,Yes,No,Search Engine Marketing (SEM),$38428,No,Both,Yes,Tier 1,219
+Azerbaijan,Lankaran,Lankaran State University,Public,Yes,Engineering,Cyber Security,Full-time,8.16,No,No,No,SEO,$25046,Yes,Training,No,Tier 3,760
+Azerbaijan,Nakhchivan,Nakhchivan State University,Private,Yes,Engineering,IoT,Full-time,15.62,Yes,No,Yes,Social Media Advertising,$11871,No,Both,No,Tier 1,317
+Bahrain,Sakhir,University of Bahrain,Private,Yes,Engineering,AI,Part-time,9.28,No,Yes,No,Print Media,$23003,Yes,Both,Yes,Tier 2,963
+Bahrain,Manama,Arab Open University - Bahrain Branch,Private,No,Engineering,Cyber Security,Full-time,5.64,No,No,No,Print Media,$34331,Yes,Both,No,Tier 1,72
+Bahrain,Manama,Bahrain University,Public,No,Arts,AI,Full-time,5.58,No,No,No,Social Media Advertising,$19828,No,Consulting,No,Tier 1,264
+Bahrain,Manama,Ahlia University,Public,No,Arts,Data Science,Full-time,11.18,Yes,No,No,Email Marketing,$14212,Yes,Both,Yes,Tier 2,322
+Bahrain,Manama,University College of Bahrain,Private,Yes,Business,ML,Part-time,10.41,Yes,No,Yes,Direct Engagement,$32297,No,Both,No,Tier 2,870
+Bahrain,Manama,University of Kalamoon,Public,Yes,Engineering,AI,Full-time,7.14,No,No,Yes,Print Media,$13751,Yes,Both,No,Tier 2,46
+Bahrain,Manama,College of Health Sciences,Public,No,Business,AI,Full-time,9.13,Yes,Yes,No,Radio and tv advertising,$47221,No,Training,No,Tier 1,281
+Bahrain,Manama,Bahrain Institute of Banking and Finance,Private,Yes,Science,ML,Full-time,18.72,Yes,Yes,No,Search Engine Marketing (SEM),$26133,No,Training,Yes,Tier 2,70
+Bahrain,Manama,Gulf University,Private,No,Arts,IoT,Full-time,18.51,No,No,Yes,Direct Engagement,$37726,No,Both,No,Tier 2,150
+Bahrain,Manama,Dhofar University - Bahrain Branch,Public,No,Arts,Cyber Security,Online,15.22,Yes,Yes,Yes,SEO,$39298,Yes,Consulting,No,Tier 3,902
+Bahrain,Manama,Ibn Khaldun University,Private,No,Arts,ML,Part-time,8.98,No,Yes,Yes,Print Media,$22770,No,Both,Yes,Tier 3,367
+Bahrain,Manama,Bahrain Polytechnic,Public,No,Business,Data Science,Online,5.79,Yes,No,No,Search Engine Marketing (SEM),$39192,No,Consulting,No,Tier 3,862
+Bahrain,Riffa,Royal University for Women,Public,No,Science,ML,Online,10.55,No,Yes,Yes,Community Engagement,$17104,Yes,Consulting,No,Tier 3,432
+Bahrain,Riffa,American University of Bahrain,Private,Yes,Business,AI,Full-time,5.56,Yes,No,Yes,Influencer Marketing,$43822,No,Consulting,Yes,Tier 3,182
+Bangladesh,Dhaka,University of Dhaka,Public,No,Arts,ML,Full-time,13.11,No,Yes,No,Community Engagement,$15087,No,Consulting,No,Tier 1,977
+Bangladesh,Dhaka,Bangladesh University of Engineering and Technology (BUET),Public,Yes,Arts,Cyber Security,Part-time,11.07,Yes,No,No,Social Media Advertising,$49530,No,Both,No,Tier 1,208
+Bangladesh,Dhaka,Bangladesh University of Textiles (BUTEX),Private,No,Science,ML,Full-time,14.48,No,Yes,No,Email Marketing,$26164,Yes,Training,No,Tier 3,427
+Bangladesh,Dhaka,North South University,Public,Yes,Business,Cyber Security,Online,5.1,Yes,No,No,SEO,$38484,Yes,Consulting,Yes,Tier 1,710
+Bangladesh,Dhaka,BRAC University,Public,No,Arts,ML,Full-time,19.71,No,No,Yes,Social Media Advertising,$11124,Yes,Consulting,No,Tier 1,656
+Bangladesh,Dhaka,United International University,Private,No,Business,Cyber Security,Online,16.92,No,Yes,No,Influencer Marketing,$48278,No,Consulting,Yes,Tier 1,656
+Bangladesh,Dhaka,East West University,Public,Yes,Science,Data Science,Full-time,16.8,No,No,Yes,Print Media,$48211,Yes,Both,No,Tier 3,853
+Bangladesh,Dhaka,Daffodil International University,Private,Yes,Arts,ML,Online,5.62,Yes,Yes,Yes,Direct Engagement,$47054,Yes,Both,No,Tier 1,562
+Bangladesh,Dhaka,Ahsanullah University of Science and Technology,Private,No,Arts,Data Science,Full-time,9.24,Yes,No,Yes,Print Media,$19058,No,Consulting,Yes,Tier 3,496
+Bangladesh,Dhaka,Green University of Bangladesh,Private,Yes,Arts,Cyber Security,Part-time,17.75,Yes,No,Yes,Search Engine Marketing (SEM),$39658,No,Consulting,Yes,Tier 2,353
+Bangladesh,Dhaka,American International University-Bangladesh (AIUB),Public,Yes,Arts,Data Science,Online,6.48,No,No,Yes,Influencer Marketing,$17001,No,Consulting,Yes,Tier 3,713
+Bangladesh,Dhaka,University of Liberal Arts Bangladesh (ULAB),Private,Yes,Science,AI,Full-time,11.29,Yes,Yes,Yes,Direct Engagement,$45189,No,Training,Yes,Tier 3,991
+Bangladesh,Dhaka,Monash University Malaysia - Dhaka Campus,Private,No,Engineering,Cyber Security,Full-time,8.35,Yes,No,Yes,Print Media,$42122,No,Training,No,Tier 2,169
+Bangladesh,Dhaka,Uttara University,Private,No,Arts,AI,Full-time,15.87,Yes,No,Yes,Email Marketing,$46474,Yes,Consulting,Yes,Tier 3,307
+Bangladesh,Dhaka,World University of Bangladesh,Public,Yes,Business,ML,Part-time,7.59,No,Yes,No,Email Marketing,$12634,Yes,Both,No,Tier 1,254
+Bangladesh,Dhaka,International University of Business Agriculture and Technology (IUBAT),Private,Yes,Science,Data Science,Online,13.45,No,Yes,No,Social Media Advertising,$21610,Yes,Both,Yes,Tier 3,717
+Bangladesh,Dhaka,Bangladesh University,Public,No,Business,ML,Part-time,12.42,No,Yes,No,Search Engine Marketing (SEM),$38826,No,Both,Yes,Tier 1,189
+Bangladesh,Dhaka,Central Women's University,Private,Yes,Business,Cyber Security,Full-time,11.03,Yes,Yes,No,Influencer Marketing,$20109,No,Both,No,Tier 3,305
+Bangladesh,Savar,Jahangirnagar University,Public,No,Business,Data Science,Online,18.03,No,Yes,Yes,Email Marketing,$32117,Yes,Consulting,Yes,Tier 1,435
+Bangladesh,Rajshahi,University of Rajshahi,Public,Yes,Science,ML,Full-time,19.83,No,Yes,Yes,Influencer Marketing,$13675,Yes,Training,Yes,Tier 2,126
+Bangladesh,Rajshahi,Rajshahi University of Engineering and Technology (RUET),Public,No,Engineering,AI,Full-time,18.94,Yes,Yes,Yes,SEO,$49211,Yes,Consulting,No,Tier 1,805
+Bangladesh,Chittagong,University of Chittagong,Private,Yes,Business,IoT,Full-time,12.58,No,Yes,Yes,Social Media Advertising,$39404,No,Consulting,No,Tier 3,88
+Bangladesh,Chittagong,Southern University Bangladesh,Public,No,Engineering,IoT,Part-time,14.11,Yes,No,No,Influencer Marketing,$26292,Yes,Training,Yes,Tier 3,782
+Bangladesh,Chittagong,University of Science and Technology Chittagong (USTC),Private,Yes,Arts,ML,Part-time,9.66,No,Yes,No,SEO,$47601,No,Training,Yes,Tier 3,795
+Bangladesh,Chittagong,BGC Trust University Bangladesh,Private,Yes,Science,IoT,Part-time,7.67,Yes,No,Yes,Radio and tv advertising,$27790,No,Consulting,Yes,Tier 3,532
+Bangladesh,Khulna,Khulna University,Private,No,Business,ML,Part-time,19.26,No,No,No,Direct Engagement,$44004,No,Consulting,Yes,Tier 1,645
+Bangladesh,Sylhet,Sylhet Agricultural University,Public,Yes,Arts,Data Science,Online,12.77,No,No,Yes,Influencer Marketing,$26270,Yes,Both,No,Tier 2,908
+Bangladesh,Sylhet,Shahjalal University of Science and Technology (SUST),Private,Yes,Science,Cyber Security,Online,18.65,No,No,Yes,Radio and tv advertising,$43579,No,Both,No,Tier 1,129
+Bangladesh,Sylhet,Sylhet International University,Public,No,Business,Cyber Security,Part-time,13.18,No,Yes,No,Print Media,$11911,Yes,Training,Yes,Tier 3,766
+Bangladesh,Dinajpur,Hajee Mohammad Danesh Science and Technology University,Public,No,Arts,Data Science,Full-time,13.51,Yes,No,Yes,Direct Engagement,$31490,No,Both,Yes,Tier 3,376
+Bangladesh,Patuakhali,Patuakhali Science and Technology University,Public,Yes,Arts,IoT,Part-time,18.95,No,No,Yes,Email Marketing,$18776,No,Consulting,Yes,Tier 3,647
+Bangladesh,Comilla,Comilla University,Private,No,Arts,Cyber Security,Full-time,8.7,Yes,Yes,Yes,Influencer Marketing,$25105,Yes,Both,No,Tier 2,246
+Bangladesh,Moulvibazar,Jatiyo Kabi Kazi Nazrul Islam University,Private,No,Business,Cyber Security,Online,16.96,No,No,Yes,Direct Engagement,$32317,Yes,Training,No,Tier 3,429
+Bangladesh,Gazipur,National University,Private,No,Arts,Cyber Security,Online,17.15,No,Yes,Yes,Direct Engagement,$42023,No,Both,Yes,Tier 1,138
+Bangladesh,Gazipur,Bangladesh Open University,Public,Yes,Engineering,IoT,Online,11.36,Yes,No,Yes,Email Marketing,$46179,Yes,Consulting,Yes,Tier 3,303
+Bangladesh,Barisal,Barisal University,Private,Yes,Business,ML,Full-time,12.88,No,Yes,No,Social Media Advertising,$10255,Yes,Consulting,No,Tier 3,951
+Bangladesh,Rangpur,Begum Rokeya University,Private,Yes,Science,ML,Full-time,14.95,Yes,No,Yes,Community Engagement,$14370,Yes,Consulting,No,Tier 2,665
+Bangladesh,Tangail,Mawlana Bhashani Science and Technology University,Private,No,Science,ML,Online,14.38,Yes,No,No,Social Media Advertising,$36958,No,Consulting,No,Tier 1,319
+Bangladesh,Kishoreganj,Jatiyo Sanskrit University,Private,Yes,Arts,IoT,Part-time,15.59,Yes,No,No,Print Media,$48798,Yes,Consulting,No,Tier 3,527
+Bangladesh,Mymensingh,Bangladesh Agricultural University,Public,No,Science,AI,Online,15.09,No,Yes,Yes,Radio and tv advertising,$28055,Yes,Consulting,No,Tier 3,498
+Bangladesh,Chandpur,Chandpur Government College,Public,No,Engineering,AI,Part-time,7.87,No,Yes,Yes,Print Media,$35365,No,Consulting,No,Tier 3,844
+Bangladesh,Bogura,Pundra University of Science & Technology,Public,No,Arts,IoT,Online,14.74,Yes,Yes,Yes,Search Engine Marketing (SEM),$49995,Yes,Training,Yes,Tier 2,205
+Bhutan,Thimphu,Royal University of Bhutan (RUB),Public,Yes,Science,Data Science,Part-time,7.5,Yes,No,No,SEO,$43242,Yes,Training,Yes,Tier 3,653
+Bhutan,Thimphu,Royal Thimphu College (RTC),Private,No,Engineering,AI,Full-time,14.23,No,No,Yes,Influencer Marketing,$24343,No,Both,Yes,Tier 3,70
+Bhutan,Thimphu,Palden Drukpa College,Public,Yes,Engineering,ML,Part-time,12.45,Yes,Yes,No,Print Media,$30052,No,Both,Yes,Tier 3,860
+Bhutan,Thimphu,Khesar Gyalpo University of Medical Sciences of Bhutan,Public,No,Arts,Cyber Security,Part-time,8.7,Yes,No,No,Search Engine Marketing (SEM),$12228,Yes,Consulting,Yes,Tier 1,132
+Bhutan,Phuentsholing,College of Science and Technology (CST),Private,Yes,Science,ML,Part-time,17.36,Yes,No,No,SEO,$11720,Yes,Consulting,Yes,Tier 2,911
+Bhutan,Lobesa,College of Natural Resources (CNR),Public,No,Business,Data Science,Full-time,18.34,No,No,Yes,Print Media,$19748,Yes,Consulting,Yes,Tier 2,310
+Bhutan,Kanglung,Sherubtse College,Public,No,Engineering,Data Science,Part-time,18.68,No,No,No,SEO,$19195,No,Both,Yes,Tier 2,477
+Bhutan,Dewathang,Jigme Namgyel Engineering College (JNEC),Private,Yes,Arts,Cyber Security,Full-time,9.0,Yes,No,No,Email Marketing,$33214,No,Consulting,No,Tier 3,245
+Brunei,Bandar Seri Begawan,Universiti Brunei Darussalam (UBD),Public,Yes,Engineering,ML,Online,6.19,Yes,Yes,Yes,Print Media,$11556,No,Training,Yes,Tier 1,587
+Brunei,Bandar Seri Begawan,Universiti Teknologi Brunei (UTB),Public,No,Business,IoT,Part-time,17.97,No,Yes,No,Community Engagement,$18898,No,Both,No,Tier 1,277
+Brunei,Bandar Seri Begawan,Politeknik Brunei (PB),Public,Yes,Science,AI,Full-time,17.59,Yes,Yes,Yes,Search Engine Marketing (SEM),$39697,No,Training,Yes,Tier 2,455
+Brunei,Bandar Seri Begawan,Institut Pendidikan Teknikal Brunei (IPTB),Private,No,Business,Cyber Security,Online,16.92,No,No,Yes,Influencer Marketing,$32853,No,Consulting,No,Tier 3,647
+Brunei,Bandar Seri Begawan,Brunei University of Technology,Private,No,Science,IoT,Online,11.22,Yes,No,No,Influencer Marketing,$24075,Yes,Training,No,Tier 3,135
+Brunei,Bandar Seri Begawan,Brunei International School,Private,Yes,Arts,IoT,Online,6.97,Yes,Yes,Yes,Influencer Marketing,$45294,Yes,Consulting,Yes,Tier 2,176
+Cambodia,Phnom Penh,Royal University of Phnom Penh,Private,Yes,Business,IoT,Full-time,13.05,Yes,Yes,No,Direct Engagement,$38500,Yes,Consulting,No,Tier 2,827
+Cambodia,Phnom Penh,Royal University of Law and Economics,Public,Yes,Business,Cyber Security,Part-time,10.53,No,No,No,Social Media Advertising,$43540,Yes,Both,Yes,Tier 1,684
+Cambodia,Phnom Penh,Royal University of Agriculture,Public,Yes,Science,Data Science,Part-time,5.89,No,No,Yes,Radio and tv advertising,$41801,Yes,Both,Yes,Tier 3,569
+Cambodia,Phnom Penh,University of Health Sciences,Private,Yes,Arts,Cyber Security,Online,14.96,No,No,Yes,Social Media Advertising,$36549,Yes,Consulting,Yes,Tier 2,483
+Cambodia,Phnom Penh,Institute of Technology of Cambodia,Public,No,Arts,AI,Full-time,17.29,No,Yes,No,Social Media Advertising,$18133,Yes,Both,No,Tier 2,792
+Cambodia,Phnom Penh,National University of Management,Public,Yes,Science,ML,Online,15.74,No,Yes,No,Radio and tv advertising,$34429,No,Training,Yes,Tier 1,300
+Cambodia,Phnom Penh,Paññāsāstra University of Cambodia,Public,No,Science,IoT,Online,18.68,Yes,Yes,No,Print Media,$16230,Yes,Both,Yes,Tier 2,117
+Cambodia,Phnom Penh,Norton University,Private,No,Business,Data Science,Online,5.71,No,No,Yes,Community Engagement,$23570,Yes,Consulting,Yes,Tier 1,609
+Cambodia,Phnom Penh,Western University,Public,No,Arts,ML,Full-time,16.53,No,No,Yes,Influencer Marketing,$28259,Yes,Training,No,Tier 3,597
+Cambodia,Phnom Penh,Limkokwing University of Creative Technology,Public,No,Engineering,Data Science,Part-time,8.35,Yes,Yes,No,Social Media Advertising,$24334,No,Consulting,No,Tier 2,758
+Cambodia,Phnom Penh,Cambodian Mekong University,Public,Yes,Science,IoT,Full-time,6.33,Yes,Yes,No,SEO,$45831,No,Training,No,Tier 2,586
+Cambodia,Phnom Penh,University of Cambodia,Public,Yes,Business,Cyber Security,Full-time,18.83,No,Yes,Yes,Community Engagement,$41980,Yes,Training,No,Tier 3,946
+Cambodia,Phnom Penh,Asia Euro University,Private,No,Business,ML,Part-time,19.89,Yes,No,Yes,Radio and tv advertising,$16972,Yes,Consulting,Yes,Tier 1,454
+Cambodia,Phnom Penh,Zaman University,Private,No,Science,Cyber Security,Full-time,8.74,No,No,No,Influencer Marketing,$34357,No,Both,No,Tier 3,495
+Cambodia,Phnom Penh,International University,Public,No,Science,ML,Online,18.76,No,No,No,Influencer Marketing,$42115,Yes,Training,No,Tier 1,556
+Cambodia,Battambang,Build Bright University,Private,No,Business,IoT,Online,10.56,Yes,Yes,Yes,Print Media,$15710,Yes,Training,No,Tier 2,876
+Yemen,Sana'a,University of Sana'a,Private,Yes,Engineering,Cyber Security,Online,6.61,No,Yes,No,Print Media,$12009,No,Training,No,Tier 2,163
+Yemen,Sana'a,Saba University,Public,Yes,Business,Data Science,Online,12.39,No,No,Yes,Radio and tv advertising,$41658,Yes,Both,Yes,Tier 2,569
+Yemen,Sana'a,Yemen University,Private,Yes,Science,Cyber Security,Part-time,19.25,Yes,Yes,Yes,Print Media,$17204,Yes,Both,No,Tier 1,547
+Yemen,Sana'a,University of Science and Technology (UST),Public,Yes,Engineering,Cyber Security,Part-time,7.49,No,No,No,Email Marketing,$13952,No,Training,Yes,Tier 1,961
+Yemen,Sana'a,Al-Eman University,Private,Yes,Engineering,Cyber Security,Part-time,6.81,Yes,No,No,Direct Engagement,$15162,No,Consulting,No,Tier 1,40
+Yemen,Sana'a,Al-Rahma University,Public,No,Science,AI,Full-time,16.49,Yes,No,No,Email Marketing,$20544,No,Training,Yes,Tier 3,972
+Yemen,Sana'a,Al-Hekma University,Private,No,Science,AI,Online,18.2,No,No,Yes,SEO,$45190,Yes,Training,No,Tier 1,234
+Yemen,Sana'a,Ibn Sina University,Private,No,Business,Data Science,Online,8.65,Yes,No,Yes,Print Media,$30013,No,Consulting,Yes,Tier 1,523
+Yemen,Sana'a,Al-Nasser University,Private,No,Science,ML,Online,10.85,No,No,No,Community Engagement,$21933,Yes,Consulting,Yes,Tier 2,340
+Yemen,Sana'a,Sana'a International University,Private,No,Arts,IoT,Full-time,19.09,No,Yes,No,Radio and tv advertising,$49667,No,Training,No,Tier 3,947
+Yemen,Aden,Aden University,Private,No,Business,Cyber Security,Full-time,15.83,Yes,No,Yes,Radio and tv advertising,$47674,No,Consulting,Yes,Tier 3,355
+Yemen,Taiz,Taiz University,Private,No,Engineering,Cyber Security,Online,12.26,No,Yes,Yes,Print Media,$32812,No,Consulting,Yes,Tier 3,720
+Yemen,Taiz,Al-Zahra University,Private,No,Arts,ML,Full-time,13.26,No,Yes,Yes,SEO,$38106,Yes,Consulting,Yes,Tier 3,178
+Yemen,Taiz,Al-Saeed University,Public,No,Science,Cyber Security,Online,13.51,Yes,Yes,Yes,Email Marketing,$25790,Yes,Both,No,Tier 2,706
+Yemen,Ibb,Ibb University,Public,No,Science,IoT,Online,19.92,Yes,No,Yes,Community Engagement,$46419,Yes,Both,No,Tier 3,491
+Yemen,Al Hudaydah,Hodeidah University,Public,Yes,Business,IoT,Full-time,7.35,No,Yes,Yes,Radio and tv advertising,$16944,Yes,Consulting,Yes,Tier 1,712
+Yemen,Al Bayda,Al-Baydha University,Public,Yes,Science,IoT,Online,18.3,Yes,No,No,Community Engagement,$42175,Yes,Consulting,No,Tier 3,121
+Yemen,Dhamar,Dhamar University,Private,Yes,Business,Data Science,Full-time,16.26,Yes,Yes,No,Email Marketing,$38818,No,Training,Yes,Tier 1,643
+Yemen,Hadhramaut,Hadhramout University,Private,Yes,Business,ML,Part-time,7.96,Yes,Yes,No,Social Media Advertising,$16831,Yes,Consulting,No,Tier 1,946
+Yemen,Al Mukalla,Al-Mukalla University,Private,No,Business,Cyber Security,Part-time,12.02,No,No,No,Community Engagement,$33392,No,Training,No,Tier 1,677
+Vietnam,Hanoi,Hanoi University of Science and Technology,Public,No,Science,Cyber Security,Online,6.37,Yes,No,Yes,Community Engagement,$42764,Yes,Both,No,Tier 1,222
+Vietnam,Hanoi,Hanoi University,Private,No,Engineering,IoT,Online,18.48,Yes,No,No,Print Media,$17750,Yes,Training,Yes,Tier 2,443
+Vietnam,Hanoi,University of Hanoi,Public,Yes,Arts,Data Science,Full-time,12.15,Yes,Yes,Yes,Email Marketing,$33664,Yes,Consulting,No,Tier 1,399
+Vietnam,Hanoi,"University of Education, Hanoi",Private,No,Arts,ML,Online,18.66,Yes,Yes,Yes,Community Engagement,$20235,Yes,Consulting,No,Tier 2,710
+Vietnam,Hanoi,Thuy Loi University,Public,No,Arts,AI,Online,16.19,Yes,No,Yes,Search Engine Marketing (SEM),$34948,No,Both,No,Tier 2,818
+Vietnam,Hanoi,Military Medical University,Public,No,Science,IoT,Full-time,10.78,Yes,Yes,Yes,Search Engine Marketing (SEM),$37557,No,Training,Yes,Tier 1,42
+Vietnam,Hanoi,National Economics University,Public,Yes,Arts,Data Science,Online,7.31,Yes,No,Yes,Email Marketing,$48593,No,Both,No,Tier 2,192
+Vietnam,Hanoi,"Vietnam National University, Hanoi",Private,Yes,Arts,AI,Part-time,12.13,Yes,No,Yes,Email Marketing,$26811,No,Consulting,Yes,Tier 2,555
+Vietnam,Hanoi,FPT University,Public,Yes,Business,ML,Full-time,16.99,Yes,No,Yes,Search Engine Marketing (SEM),$19580,Yes,Both,Yes,Tier 2,794
+Vietnam,Da Nang,University of Danang,Public,No,Business,IoT,Full-time,10.99,No,Yes,Yes,Social Media Advertising,$42277,No,Both,No,Tier 1,650
+Vietnam,Da Nang,American University in Vietnam,Private,No,Business,Data Science,Full-time,5.32,No,Yes,Yes,SEO,$45484,No,Both,No,Tier 1,65
+Vietnam,Da Nang,Central International University,Private,Yes,Business,Cyber Security,Online,18.2,No,Yes,Yes,Direct Engagement,$35143,Yes,Training,Yes,Tier 1,249
+Vietnam,Ho Chi Minh City,Ho Chi Minh City University of Technology,Public,Yes,Science,Cyber Security,Full-time,6.03,No,No,No,Radio and tv advertising,$22505,No,Consulting,No,Tier 3,523
+Vietnam,Ho Chi Minh City,Nong Lam University,Public,No,Arts,IoT,Part-time,6.47,Yes,No,No,Radio and tv advertising,$31830,Yes,Both,No,Tier 1,377
+Vietnam,Ho Chi Minh City,Hochiminh City University of Pedagogy,Public,No,Arts,Cyber Security,Online,8.83,No,Yes,No,SEO,$40452,Yes,Training,Yes,Tier 2,609
+Vietnam,Ho Chi Minh City,"Vietnam National University, Ho Chi Minh City",Private,No,Business,Cyber Security,Online,15.01,No,Yes,No,Influencer Marketing,$33261,Yes,Training,No,Tier 2,831
+Vietnam,Ho Chi Minh City,University of Agriculture and Forestry,Public,No,Business,Data Science,Part-time,11.9,No,No,No,Email Marketing,$41666,Yes,Consulting,Yes,Tier 1,122
+Vietnam,Ho Chi Minh City,University of International Business and Economics,Public,No,Science,AI,Part-time,10.69,No,Yes,Yes,Influencer Marketing,$41551,No,Both,No,Tier 3,206
+Vietnam,Ho Chi Minh City,Hong Bang International University,Private,No,Business,Cyber Security,Part-time,18.6,Yes,No,No,SEO,$12201,Yes,Both,Yes,Tier 2,783
+Vietnam,Ho Chi Minh City,Van Lang University,Private,No,Engineering,IoT,Part-time,7.26,No,No,No,Email Marketing,$14278,No,Both,Yes,Tier 1,664
+Vietnam,Ho Chi Minh City,Hoa Sen University,Public,Yes,Arts,Data Science,Online,7.89,No,Yes,Yes,Email Marketing,$35423,Yes,Consulting,Yes,Tier 2,286
+Vietnam,Ho Chi Minh City,Troy University Vietnam,Private,No,Engineering,IoT,Full-time,8.65,No,No,No,Social Media Advertising,$25267,Yes,Both,Yes,Tier 1,363
+Vietnam,Ho Chi Minh City,RMIT University Vietnam,Public,No,Arts,Cyber Security,Part-time,7.99,Yes,No,Yes,Radio and tv advertising,$28396,No,Both,Yes,Tier 1,793
+Vietnam,Ho Chi Minh City,University of Finance and Marketing,Public,Yes,Business,ML,Part-time,19.63,No,Yes,Yes,Search Engine Marketing (SEM),$15765,No,Training,Yes,Tier 1,953
+Vietnam,Hue,Hue University,Private,Yes,Arts,IoT,Part-time,7.47,No,Yes,Yes,Direct Engagement,$42745,Yes,Both,Yes,Tier 3,421
+Vietnam,Can Tho,Can Tho University,Public,No,Arts,ML,Part-time,5.06,No,Yes,No,Community Engagement,$19016,No,Both,No,Tier 2,447
+Vietnam,Vinh,Vinh University,Public,No,Business,Cyber Security,Part-time,16.96,No,Yes,Yes,Search Engine Marketing (SEM),$41208,Yes,Training,Yes,Tier 3,571
+Vietnam,Nam Dinh,Nam Dinh University of Nursing,Public,No,Business,ML,Online,13.12,Yes,Yes,No,Email Marketing,$23799,Yes,Consulting,Yes,Tier 3,552
+China,Beijing,Beijing University of International Business and Economics (Private/Public),Public,No,Business,ML,Online,14.93,No,Yes,Yes,Radio and tv advertising,$25387,No,Training,No,Tier 2,171
+China,Shanghai,Fudan University,Private,Yes,Engineering,AI,Full-time,19.8,Yes,Yes,No,Community Engagement,$44840,Yes,Training,Yes,Tier 1,810
+China,Shanghai,Shanghai Jiao Tong University,Private,No,Science,Cyber Security,Part-time,5.89,No,No,No,Print Media,$29390,No,Training,No,Tier 1,954
+China,Shanghai,Tongji University,Public,No,Business,AI,Full-time,6.25,Yes,No,Yes,SEO,$48039,No,Consulting,No,Tier 2,371
+China,Shanghai,East China Normal University,Public,No,Science,IoT,Part-time,7.95,Yes,Yes,Yes,Direct Engagement,$11889,No,Both,Yes,Tier 2,987
+China,Shanghai,Shanghai International Studies University (SISU),Public,No,Arts,AI,Full-time,11.99,Yes,No,No,Search Engine Marketing (SEM),$48797,Yes,Consulting,No,Tier 2,89
+China,Zhejiang,Zhejiang University,Public,No,Arts,IoT,Part-time,6.64,No,Yes,Yes,SEO,$33487,Yes,Both,Yes,Tier 2,465
+China,Zhejiang,Wenzhou-Kean University,Private,No,Business,IoT,Part-time,6.36,Yes,Yes,Yes,Social Media Advertising,$35198,No,Both,No,Tier 1,266
+China,Zhejiang,Ningbo University of Technology,Private,Yes,Business,IoT,Online,17.8,Yes,Yes,No,Community Engagement,$33344,Yes,Training,Yes,Tier 3,242
+China,Jiangsu,Xi'an Jiaotong-Liverpool University,Private,No,Business,ML,Full-time,12.66,No,Yes,Yes,Social Media Advertising,$49037,Yes,Training,No,Tier 1,465
+China,Anhui,University of Science and Technology of China,Private,No,Engineering,Cyber Security,Online,9.4,Yes,Yes,Yes,Direct Engagement,$32191,Yes,Both,Yes,Tier 1,326
+China,Hubei,Wuhan University,Public,No,Engineering,IoT,Full-time,17.21,Yes,No,No,SEO,$18592,No,Training,No,Tier 2,682
+China,Hubei,Huazhong University of Science and Technology,Private,No,Arts,AI,Online,9.49,Yes,No,No,Email Marketing,$30855,Yes,Both,Yes,Tier 3,477
+China,Guangdong,Sun Yat-sen University,Private,No,Science,Cyber Security,Part-time,7.56,Yes,Yes,Yes,Search Engine Marketing (SEM),$45277,No,Both,Yes,Tier 3,266
+China,Guangdong,United International College (Beijing Normal University-Hong Kong Baptist University),Public,Yes,Arts,Data Science,Full-time,14.18,No,No,Yes,Influencer Marketing,$39892,Yes,Both,No,Tier 1,186
+China,Guangdong,Shenzhen University (certain departments and colleges),Private,No,Science,IoT,Full-time,17.65,No,No,No,Print Media,$48260,Yes,Both,No,Tier 2,956
+China,Sichuan,Sichuan University,Public,Yes,Science,Cyber Security,Part-time,8.78,No,No,Yes,SEO,$46135,Yes,Training,No,Tier 2,923
+China,Shaanxi,Xi'an Jiaotong University,Private,Yes,Engineering,ML,Online,8.64,No,No,No,Email Marketing,$17463,No,Training,Yes,Tier 3,361
+China,Shandong,Shandong University,Public,No,Business,ML,Online,16.25,Yes,Yes,No,Print Media,$20131,Yes,Training,No,Tier 2,270
+China,Tianjin,Nankai University,Public,Yes,Business,AI,Part-time,10.7,No,No,Yes,Influencer Marketing,$37813,Yes,Consulting,Yes,Tier 3,8
+China,Heilongjiang,Harbin Institute of Technology,Public,No,Arts,AI,Online,12.5,No,Yes,Yes,Email Marketing,$22551,No,Consulting,No,Tier 2,443
+China,Fujian,Xiamen University,Public,Yes,Engineering,ML,Online,12.46,Yes,No,No,Community Engagement,$23096,No,Both,Yes,Tier 1,595
+China,Hunan,Central South University,Public,Yes,Business,Cyber Security,Online,17.19,No,Yes,No,Search Engine Marketing (SEM),$32177,No,Consulting,Yes,Tier 3,40
+China,Hangzhou,Hangzhou Dianzi University (certain departments),Private,No,Engineering,ML,Online,10.23,No,Yes,Yes,Community Engagement,$17088,Yes,Consulting,No,Tier 2,714
+Uzbekistan,Tashkent,Tashkent State Technical University,Public,No,Science,AI,Online,8.74,Yes,Yes,No,Community Engagement,$24212,No,Both,Yes,Tier 1,104
+Uzbekistan,Tashkent,Tashkent State University of Economics,Private,No,Engineering,ML,Full-time,10.34,No,No,No,Social Media Advertising,$46812,No,Both,Yes,Tier 1,210
+Uzbekistan,Tashkent,Tashkent University of Information Technologies,Public,Yes,Science,Cyber Security,Online,9.07,No,No,Yes,Direct Engagement,$39893,Yes,Consulting,Yes,Tier 2,442
+Uzbekistan,Tashkent,National University of Uzbekistan,Public,No,Arts,Cyber Security,Part-time,8.12,Yes,No,No,Social Media Advertising,$48321,No,Both,Yes,Tier 3,796
+Uzbekistan,Tashkent,Uzbekistan State World Languages University,Private,Yes,Engineering,Data Science,Full-time,18.29,Yes,No,Yes,SEO,$43363,No,Training,No,Tier 1,692
+Uzbekistan,Tashkent,Tashkent Medical Academy,Private,No,Business,AI,Online,19.22,No,Yes,Yes,SEO,$23098,Yes,Both,Yes,Tier 1,412
+Uzbekistan,Tashkent,Uzbek State Institute of Arts and Culture,Private,No,Science,AI,Full-time,12.86,No,No,Yes,Influencer Marketing,$28456,Yes,Consulting,Yes,Tier 1,954
+Uzbekistan,Tashkent,Urgench State University,Private,No,Science,Data Science,Online,9.56,No,No,No,Radio and tv advertising,$48558,No,Consulting,Yes,Tier 3,546
+Uzbekistan,Tashkent,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers,Private,Yes,Engineering,ML,Part-time,14.12,No,No,No,Radio and tv advertising,$11820,No,Training,No,Tier 3,993
+Uzbekistan,Tashkent,Institute of Nuclear Physics,Private,No,Arts,AI,Part-time,12.15,Yes,Yes,Yes,Search Engine Marketing (SEM),$14475,No,Consulting,Yes,Tier 1,583
+Uzbekistan,Tashkent,Uzbekistan State University of Law,Private,No,Science,ML,Full-time,7.37,Yes,Yes,No,Direct Engagement,$27173,No,Consulting,No,Tier 2,401
+Uzbekistan,Tashkent,Westminster International University in Tashkent,Private,No,Engineering,IoT,Online,13.76,No,Yes,Yes,Email Marketing,$28946,No,Both,Yes,Tier 2,494
+Uzbekistan,Tashkent,Inha University in Tashkent,Private,No,Business,Cyber Security,Part-time,14.61,Yes,Yes,No,Influencer Marketing,$21775,Yes,Consulting,No,Tier 1,843
+Uzbekistan,Tashkent,Tashkent International University of Technology,Private,Yes,Science,IoT,Online,7.46,Yes,Yes,Yes,Print Media,$12011,Yes,Both,No,Tier 3,946
+Uzbekistan,Tashkent,Tashkent Institute of Finance,Public,Yes,Science,Cyber Security,Part-time,19.78,Yes,No,Yes,Influencer Marketing,$33695,No,Consulting,No,Tier 1,764
+Uzbekistan,Tashkent,Uzbekistan-Japan Center for Human Development,Private,No,Engineering,Data Science,Part-time,6.0,No,No,No,Social Media Advertising,$47574,No,Training,Yes,Tier 2,589
+Uzbekistan,Tashkent,Korean University of International Studies,Private,Yes,Arts,IoT,Full-time,16.64,No,No,Yes,Influencer Marketing,$15090,No,Training,Yes,Tier 3,505
+Uzbekistan,Samarkand,Samarkand State University,Public,Yes,Business,AI,Part-time,5.97,Yes,Yes,No,Email Marketing,$18038,No,Both,Yes,Tier 3,679
+Uzbekistan,Bukhara,Bukhara State University,Private,No,Engineering,AI,Full-time,17.56,No,Yes,No,Direct Engagement,$20933,No,Consulting,No,Tier 1,414
+Uzbekistan,Andijan,Andijan State University,Private,Yes,Science,IoT,Part-time,11.33,No,No,No,Print Media,$24865,Yes,Consulting,Yes,Tier 1,136
+Uzbekistan,Fergana,Fergana State University,Public,Yes,Arts,Cyber Security,Part-time,13.68,Yes,Yes,Yes,Social Media Advertising,$26526,Yes,Consulting,No,Tier 1,160
+Uzbekistan,Namangan,Namangan State University,Public,Yes,Arts,AI,Online,11.3,No,Yes,Yes,SEO,$11575,Yes,Consulting,No,Tier 1,648
+Uzbekistan,Karshi,Karshi State University,Private,Yes,Arts,ML,Full-time,8.13,Yes,No,Yes,Direct Engagement,$43639,No,Training,Yes,Tier 2,170
+Cyprus,Nicosia,University of Cyprus,Private,Yes,Engineering,Cyber Security,Online,5.4,Yes,Yes,Yes,Direct Engagement,$24090,No,Both,Yes,Tier 2,399
+Cyprus,Nicosia,Open University of Cyprus,Private,No,Business,Data Science,Full-time,9.12,Yes,Yes,Yes,Influencer Marketing,$40640,No,Consulting,No,Tier 1,588
+Cyprus,Nicosia,European University Cyprus,Private,Yes,Engineering,Cyber Security,Full-time,17.35,No,No,Yes,Search Engine Marketing (SEM),$17849,Yes,Training,No,Tier 1,864
+Cyprus,Nicosia,University of Nicosia,Private,No,Business,ML,Part-time,14.78,Yes,Yes,Yes,Radio and tv advertising,$32979,No,Training,No,Tier 3,268
+Cyprus,Nicosia,Frederick University,Public,No,Business,IoT,Part-time,5.02,No,Yes,Yes,Email Marketing,$41162,No,Training,No,Tier 3,594
+Cyprus,Limassol,Cyprus University of Technology,Private,Yes,Science,AI,Full-time,14.55,No,No,No,Influencer Marketing,$47235,Yes,Training,Yes,Tier 1,495
+Cyprus,Limassol,Frederick University,Private,No,Arts,IoT,Part-time,6.51,No,No,Yes,Radio and tv advertising,$49840,Yes,Consulting,No,Tier 3,190
+Cyprus,Paphos,Neapolis University Pafos,Public,No,Arts,AI,Online,10.52,No,No,No,Radio and tv advertising,$20956,No,Both,Yes,Tier 1,743
+Cyprus,Larnaca,UCLan Cyprus (University of Central Lancashire),Private,No,Engineering,Data Science,Full-time,16.89,Yes,No,No,Community Engagement,$10497,Yes,Consulting,Yes,Tier 2,875
+United Arab Emirates,Al Ain,United Arab Emirates University (UAEU),Public,No,Business,IoT,Part-time,7.47,Yes,No,No,Community Engagement,$30703,No,Training,Yes,Tier 3,242
+United Arab Emirates,Al Ain,Al Ain University of Science and Technology,Private,Yes,Business,ML,Full-time,16.11,Yes,Yes,No,Email Marketing,$43629,No,Both,No,Tier 2,141
+United Arab Emirates,Sharjah,American University of Sharjah (AUS),Public,Yes,Arts,Cyber Security,Online,10.29,Yes,No,No,Community Engagement,$31064,No,Training,No,Tier 3,380
+United Arab Emirates,Sharjah,University of Sharjah,Private,Yes,Business,Cyber Security,Full-time,15.09,Yes,No,No,Influencer Marketing,$13413,No,Training,No,Tier 1,91
+United Arab Emirates,Abu Dhabi,Zayed University,Public,Yes,Arts,IoT,Part-time,7.62,No,Yes,No,Direct Engagement,$24401,Yes,Training,Yes,Tier 3,84
+United Arab Emirates,Abu Dhabi,Abu Dhabi University (ADU),Public,No,Engineering,Cyber Security,Part-time,12.12,No,Yes,No,Search Engine Marketing (SEM),$27381,Yes,Training,No,Tier 2,992
+United Arab Emirates,Abu Dhabi,Paris-Sorbonne University Abu Dhabi,Public,Yes,Engineering,Data Science,Full-time,6.22,No,No,No,Email Marketing,$48275,Yes,Training,Yes,Tier 1,774
+United Arab Emirates,Abu Dhabi,NYU Abu Dhabi,Private,No,Arts,ML,Full-time,9.09,Yes,Yes,No,Community Engagement,$11476,Yes,Both,No,Tier 1,232
+United Arab Emirates,Dubai,Dubai Islamic University,Public,No,Business,AI,Full-time,13.99,Yes,Yes,No,Direct Engagement,$23954,Yes,Consulting,Yes,Tier 1,733
+United Arab Emirates,Dubai,American University in Dubai (AUD),Public,No,Business,AI,Online,16.31,Yes,No,Yes,Search Engine Marketing (SEM),$11017,No,Consulting,Yes,Tier 3,126
+United Arab Emirates,Dubai,British University in Dubai (BUiD),Private,No,Business,IoT,Online,6.75,No,No,No,Community Engagement,$43081,Yes,Consulting,Yes,Tier 3,182
+United Arab Emirates,Dubai,Dubai University of Technology,Private,Yes,Business,ML,Full-time,9.99,No,Yes,No,Print Media,$46463,No,Training,Yes,Tier 3,6
+United Arab Emirates,Dubai,Canadian University Dubai (CUD),Public,No,Business,AI,Online,13.73,No,No,Yes,Radio and tv advertising,$40352,No,Both,No,Tier 2,213
+United Arab Emirates,Dubai,University of Wollongong in Dubai (UOWD),Public,Yes,Science,Data Science,Online,8.85,Yes,Yes,Yes,Community Engagement,$47720,Yes,Both,No,Tier 1,264
+United Arab Emirates,Dubai,Middlesex University Dubai,Private,No,Business,AI,Online,11.81,Yes,Yes,Yes,Email Marketing,$39011,No,Consulting,No,Tier 1,88
+United Arab Emirates,Dubai,Heriot-Watt University Dubai,Public,Yes,Engineering,IoT,Part-time,14.98,Yes,Yes,Yes,Influencer Marketing,$16565,Yes,Training,Yes,Tier 2,25
+Georgia,Tbilisi,Georgian State University of Physical Education and Sport,Public,Yes,Engineering,AI,Online,8.01,Yes,Yes,Yes,Influencer Marketing,$37378,Yes,Both,Yes,Tier 1,318
+Georgia,Batumi,Batumi Shota Rustaveli State University,Public,Yes,Engineering,Data Science,Online,11.27,Yes,No,Yes,SEO,$33605,No,Both,Yes,Tier 2,18
+Georgia,Kutaisi,Akaki Tsereteli State University,Public,No,Science,AI,Part-time,16.0,Yes,No,Yes,Radio and tv advertising,$19174,No,Both,No,Tier 3,487
+Georgia,Kutaisi,Kutaisi University,Public,No,Engineering,Cyber Security,Online,10.38,No,No,No,Social Media Advertising,$24061,No,Both,Yes,Tier 3,85
+Turkmenistan,Ashgabat,Turkmen State Institute of Business and Management,Private,No,Business,ML,Online,9.22,Yes,No,No,Influencer Marketing,$34409,Yes,Both,Yes,Tier 2,390
+Turkmenistan,Various locations,State Pedagogical Institute,Public,No,Science,Data Science,Online,13.87,Yes,No,No,Influencer Marketing,$11795,Yes,Training,No,Tier 2,736
+Indonesia,Depok,University of Indonesia (Universitas Indonesia),Private,No,Arts,Cyber Security,Full-time,8.82,No,No,Yes,Print Media,$43380,Yes,Training,No,Tier 3,354
+Indonesia,Depok,Gunadarma University,Public,No,Arts,Cyber Security,Part-time,14.32,Yes,Yes,Yes,SEO,$13323,Yes,Consulting,Yes,Tier 1,79
+Indonesia,Yogyakarta,Universitas Islam Indonesia,Private,Yes,Business,AI,Full-time,6.64,No,No,Yes,Search Engine Marketing (SEM),$13106,Yes,Both,No,Tier 3,2
+Indonesia,Bandung,Bandung Institute of Technology (Institut Teknologi Bandung),Public,No,Business,IoT,Full-time,5.79,No,Yes,Yes,Direct Engagement,$32367,No,Both,No,Tier 3,839
+Indonesia,Bandung,Padjadjaran University (Universitas Padjadjaran),Private,Yes,Engineering,IoT,Online,16.29,Yes,No,No,Influencer Marketing,$42483,No,Consulting,No,Tier 3,161
+Indonesia,Bandung,Telkom University,Public,No,Business,IoT,Online,12.43,Yes,No,No,Community Engagement,$39619,Yes,Both,Yes,Tier 2,433
+Indonesia,Bandung,Maranatha Christian University (Universitas Kristen Maranatha),Public,Yes,Arts,ML,Online,16.92,No,No,No,SEO,$23959,Yes,Consulting,No,Tier 1,115
+Indonesia,Bogor,Bogor Agricultural University (Institut Pertanian Bogor),Public,No,Arts,IoT,Full-time,17.46,No,No,No,Search Engine Marketing (SEM),$17791,Yes,Consulting,No,Tier 2,542
+Indonesia,Surabaya,Airlangga University (Universitas Airlangga),Public,Yes,Arts,IoT,Part-time,10.24,Yes,No,Yes,Radio and tv advertising,$27743,Yes,Training,Yes,Tier 2,590
+Indonesia,Surabaya,Sepuluh Nopember Institute of Technology (Institut Teknologi Sepuluh Nopember),Public,No,Business,IoT,Online,19.92,Yes,Yes,Yes,Email Marketing,$45443,Yes,Both,Yes,Tier 2,428
+Indonesia,Surabaya,Petra Christian University (Universitas Kristen Petra),Public,No,Engineering,Data Science,Online,15.87,Yes,No,No,Radio and tv advertising,$12503,No,Training,Yes,Tier 2,477
+Indonesia,Semarang,Diponegoro University (Universitas Diponegoro),Public,No,Science,Data Science,Part-time,11.05,Yes,No,Yes,Influencer Marketing,$31269,No,Training,No,Tier 2,531
+Indonesia,Makassar,Hasanuddin University (Universitas Hasanuddin),Public,Yes,Arts,ML,Part-time,14.06,No,No,No,Community Engagement,$37295,No,Consulting,Yes,Tier 1,397
+Indonesia,Malang,Brawijaya University (Universitas Brawijaya),Public,Yes,Engineering,Cyber Security,Full-time,16.76,No,Yes,No,Print Media,$39680,Yes,Training,Yes,Tier 2,358
+Indonesia,Padang,Andalas University (Universitas Andalas),Private,No,Engineering,Data Science,Online,5.92,No,No,No,Print Media,$29678,Yes,Both,No,Tier 1,27
+Indonesia,Palembang,Sriwijaya University (Universitas Sriwijaya),Private,No,Business,ML,Online,9.8,Yes,No,Yes,Email Marketing,$23903,Yes,Consulting,No,Tier 1,516
+Indonesia,Jakarta,Binus University (Bina Nusantara University),Private,No,Engineering,Cyber Security,Online,12.59,No,No,No,Community Engagement,$46154,Yes,Consulting,No,Tier 2,315
+Indonesia,Jakarta,Atma Jaya Catholic University of Indonesia (Universitas Katolik Indonesia Atma Jaya),Public,No,Business,IoT,Part-time,16.98,Yes,No,Yes,Email Marketing,$27012,Yes,Both,No,Tier 2,796
+Indonesia,Jakarta,Trisakti University (Universitas Trisakti),Private,No,Science,Data Science,Online,10.04,No,No,Yes,Search Engine Marketing (SEM),$17967,No,Training,No,Tier 1,768
+Indonesia,Tangerang,Pelita Harapan University (Universitas Pelita Harapan),Private,Yes,Arts,AI,Full-time,12.5,No,No,No,Radio and tv advertising,$40336,No,Consulting,No,Tier 1,823
+Indonesia,Tangerang,Swiss German University,Public,Yes,Science,ML,Full-time,11.44,No,No,Yes,Radio and tv advertising,$31056,No,Training,No,Tier 2,977
+Indonesia,Bekasi,President University,Private,No,Business,IoT,Full-time,18.77,No,Yes,No,Influencer Marketing,$16739,No,Training,Yes,Tier 1,716
+Turkey,Ankara,Ankara University,Private,Yes,Science,ML,Online,15.56,No,Yes,Yes,Radio and tv advertising,$21025,No,Training,Yes,Tier 2,735
+Turkey,Ankara,Middle East Technical University (METU),Private,No,Science,ML,Full-time,18.62,No,No,Yes,Print Media,$30083,No,Consulting,Yes,Tier 2,799
+Turkey,Ankara,Hacettepe University,Public,Yes,Business,AI,Full-time,18.12,No,No,No,Print Media,$29905,Yes,Both,Yes,Tier 3,366
+Turkey,Ankara,Gazi University,Private,Yes,Business,Cyber Security,Online,19.65,No,Yes,Yes,Social Media Advertising,$40084,No,Training,No,Tier 3,449
+Turkey,Ankara,Bilkent University,Private,No,Science,Data Science,Full-time,11.85,Yes,Yes,Yes,Direct Engagement,$16133,Yes,Consulting,No,Tier 1,455
+Turkey,Ankara,Kırıkkale University,Public,Yes,Business,IoT,Full-time,6.9,No,Yes,Yes,Community Engagement,$27718,Yes,Consulting,No,Tier 1,245
+Turkey,Ankara,Çukurova University,Private,Yes,Arts,IoT,Part-time,11.34,Yes,Yes,Yes,Print Media,$24326,Yes,Training,Yes,Tier 2,722
+Turkey,Istanbul,Boğaziçi University,Public,No,Business,ML,Full-time,11.27,No,No,No,Community Engagement,$31385,No,Consulting,No,Tier 2,646
+Turkey,Istanbul,Istanbul University,Private,Yes,Engineering,Cyber Security,Part-time,17.14,No,No,Yes,Radio and tv advertising,$10596,No,Consulting,Yes,Tier 2,399
+Turkey,Istanbul,Istanbul Technical University (ITU),Public,Yes,Engineering,AI,Online,14.13,No,No,No,Print Media,$42535,No,Training,Yes,Tier 1,545
+Turkey,Istanbul,Yeditepe University,Public,No,Arts,Cyber Security,Online,6.14,Yes,No,Yes,Direct Engagement,$38183,No,Training,Yes,Tier 2,113
+Turkey,Istanbul,Sabancı University,Public,No,Science,ML,Online,17.84,Yes,Yes,No,Influencer Marketing,$37021,No,Consulting,Yes,Tier 2,894
+Turkey,Istanbul,Koç University,Public,No,Engineering,AI,Full-time,19.69,No,Yes,Yes,Radio and tv advertising,$41151,Yes,Both,Yes,Tier 3,293
+Turkey,Istanbul,Istanbul Bilgi University,Public,Yes,Engineering,Data Science,Part-time,17.15,No,No,Yes,SEO,$28537,No,Training,No,Tier 1,392
+Turkey,Istanbul,Istanbul Sehir University,Public,No,Business,ML,Full-time,14.82,No,Yes,No,SEO,$28063,No,Training,No,Tier 1,236
+Turkey,Istanbul,Istanbul University - Cerrahpaşa,Public,No,Arts,Data Science,Full-time,12.82,No,No,No,Community Engagement,$35986,No,Consulting,Yes,Tier 1,444
+Turkey,Istanbul,Bahçeşehir University,Public,Yes,Business,IoT,Full-time,19.26,Yes,Yes,No,Social Media Advertising,$17286,No,Training,Yes,Tier 2,147
+Turkey,Istanbul,Üsküdar University,Public,No,Arts,Data Science,Full-time,7.31,No,Yes,Yes,Influencer Marketing,$48046,Yes,Consulting,No,Tier 2,283
+Turkey,Istanbul,Acıbadem University,Private,No,Arts,Cyber Security,Part-time,11.61,No,Yes,No,Community Engagement,$29771,Yes,Consulting,No,Tier 3,799
+Turkey,Istanbul,İstanbul Kültür University,Private,No,Business,Cyber Security,Online,16.19,Yes,Yes,No,Print Media,$24329,No,Training,Yes,Tier 3,123
+Turkey,Istanbul,Maltepe University,Private,Yes,Science,AI,Full-time,17.4,No,No,Yes,Radio and tv advertising,$29396,No,Consulting,Yes,Tier 3,951
+Turkey,Istanbul,Beykoz University,Private,Yes,Business,Data Science,Online,12.73,Yes,Yes,No,Direct Engagement,$13158,No,Both,No,Tier 3,913
+Turkey,Istanbul,Nişantaşı University,Public,No,Business,IoT,Part-time,8.35,No,Yes,No,Direct Engagement,$34278,No,Training,Yes,Tier 2,407
+Turkey,Istanbul,Doğuş University,Private,No,Arts,Data Science,Online,14.35,No,No,No,Email Marketing,$48162,No,Both,No,Tier 1,689
+Turkey,Istanbul,Kadir Has University,Public,No,Engineering,ML,Full-time,18.03,No,No,Yes,Social Media Advertising,$10884,No,Both,Yes,Tier 2,593
+Turkey,Istanbul,Altınbaş University,Public,No,Engineering,AI,Online,17.35,Yes,Yes,Yes,SEO,$35886,Yes,Training,No,Tier 2,772
+Turkey,Istanbul,American University of Turkey,Private,Yes,Business,Cyber Security,Full-time,16.5,No,Yes,Yes,Print Media,$43008,No,Consulting,Yes,Tier 2,759
+Turkey,Izmir,University of Izmir,Public,No,Science,Cyber Security,Full-time,9.9,No,Yes,No,Search Engine Marketing (SEM),$47477,Yes,Consulting,Yes,Tier 3,834
+Turkey,Izmir,Ege University,Public,No,Arts,AI,Full-time,9.74,No,No,No,Influencer Marketing,$32674,Yes,Training,Yes,Tier 2,542
+Turkey,Izmir,Dokuz Eylül University,Private,Yes,Arts,IoT,Full-time,5.9,Yes,No,No,Print Media,$45216,Yes,Training,No,Tier 3,677
+Turkey,Konya,Selçuk University,Public,No,Engineering,AI,Part-time,16.82,Yes,Yes,Yes,Print Media,$27728,Yes,Training,Yes,Tier 2,157
+Turkey,Sakarya,Sakarya University,Public,Yes,Science,ML,Online,15.56,Yes,Yes,Yes,Direct Engagement,$17600,Yes,Both,Yes,Tier 3,143
+Turkey,Kocaeli,Kocaeli University,Public,Yes,Arts,Data Science,Part-time,14.66,No,No,No,Direct Engagement,$37055,Yes,Training,No,Tier 1,663
+Turkey,Trabzon,Karadeniz Technical University,Private,Yes,Science,Data Science,Part-time,9.6,Yes,No,Yes,Direct Engagement,$18512,No,Both,No,Tier 2,525
+Turkey,Mardin,Mardin Artuklu University,Public,Yes,Business,AI,Online,10.54,Yes,No,No,Direct Engagement,$48854,Yes,Consulting,No,Tier 2,91
+Turkey,Kütahya,Kütahya Dumlupınar University,Public,No,Engineering,Data Science,Full-time,14.05,Yes,No,Yes,Influencer Marketing,$38201,No,Both,No,Tier 2,624
+Turkey,Aksaray,Aksaray University,Public,No,Science,Data Science,Online,8.73,No,Yes,Yes,Social Media Advertising,$17404,No,Both,No,Tier 1,232
+Iran,Tehran,Islamic Azad University,Private,No,Science,Data Science,Part-time,16.49,No,Yes,Yes,Search Engine Marketing (SEM),$41245,Yes,Training,Yes,Tier 2,631
+Iran,Tehran,Alzahra University,Public,No,Business,AI,Full-time,7.96,Yes,Yes,No,Social Media Advertising,$34440,No,Training,No,Tier 2,643
+Iran,Tehran,Imam Sadiq University,Public,No,Science,ML,Online,18.3,No,Yes,Yes,Print Media,$22335,No,Consulting,Yes,Tier 2,279
+Iran,Tehran,Shahid Rajaee Teacher Training University,Private,Yes,Arts,AI,Full-time,13.32,No,Yes,No,SEO,$13252,No,Consulting,No,Tier 2,658
+Iran,Tehran,University of Medical Sciences,Public,Yes,Business,Cyber Security,Full-time,12.92,Yes,No,No,Community Engagement,$30903,No,Both,Yes,Tier 1,661
+Iran,Tehran,Tehran University of Medical Sciences,Public,No,Arts,ML,Part-time,19.41,Yes,Yes,Yes,Print Media,$22759,No,Consulting,Yes,Tier 2,367
+Iran,Tehran,Shahid Beheshti University of Medical Sciences,Public,No,Arts,Cyber Security,Online,14.88,No,Yes,Yes,Social Media Advertising,$38545,No,Training,No,Tier 2,716
+Iran,Mashhad,Ferdowsi University of Mashhad,Public,No,Business,AI,Full-time,8.24,No,Yes,Yes,Print Media,$25426,No,Both,No,Tier 3,395
+Iran,Isfahan,Isfahan University of Technology,Private,Yes,Science,Cyber Security,Part-time,5.57,Yes,No,No,Email Marketing,$37391,No,Consulting,Yes,Tier 1,394
+Iran,Isfahan,University of Isfahan,Private,No,Science,IoT,Online,13.98,Yes,No,Yes,Influencer Marketing,$19216,Yes,Both,No,Tier 3,819
+Iran,Tabriz,University of Tabriz,Private,No,Science,ML,Full-time,17.37,Yes,No,Yes,Radio and tv advertising,$32598,Yes,Both,No,Tier 3,898
+Iran,Tabriz,Tabriz Islamic Art University,Public,No,Engineering,ML,Part-time,12.79,Yes,No,Yes,Email Marketing,$41671,No,Both,No,Tier 3,523
+Iran,Yazd,Yazd University,Public,Yes,Science,Data Science,Part-time,14.19,Yes,Yes,No,Radio and tv advertising,$45915,No,Both,Yes,Tier 2,66
+Iran,Zahedan,University of Sistan and Baluchestan,Public,No,Science,AI,Full-time,17.12,No,Yes,Yes,Direct Engagement,$38481,No,Training,No,Tier 1,953
+Iran,Hamedan,Bu-Ali Sina University,Private,No,Arts,AI,Part-time,10.36,Yes,Yes,No,Social Media Advertising,$25142,No,Training,Yes,Tier 1,605
+Iran,Rasht,University of Guilan,Private,No,Engineering,Data Science,Part-time,6.55,No,Yes,Yes,Radio and tv advertising,$48968,No,Training,Yes,Tier 2,802
+Iran,Karaj,Kharazmi University,Private,No,Engineering,ML,Online,16.79,Yes,Yes,Yes,Direct Engagement,$32256,Yes,Both,No,Tier 1,941
+Iran,Babolsar,University of Mazandaran,Public,Yes,Arts,IoT,Part-time,9.52,Yes,No,Yes,Influencer Marketing,$23204,No,Both,Yes,Tier 2,161
+Iran,Semnan,Semnan University,Private,Yes,Arts,AI,Online,5.28,No,No,Yes,SEO,$43124,No,Both,Yes,Tier 1,384
+Israel,Jerusalem,Hebrew University of Jerusalem,Private,No,Science,Data Science,Full-time,12.13,Yes,No,Yes,Direct Engagement,$48105,Yes,Training,No,Tier 3,251
+Israel,Jerusalem,The Jerusalem College of Technology,Public,No,Business,Data Science,Full-time,6.84,No,Yes,Yes,SEO,$35504,Yes,Consulting,Yes,Tier 2,652
+Israel,Jerusalem,Hadassah Academic College,Public,No,Business,IoT,Full-time,12.15,Yes,Yes,No,Influencer Marketing,$48904,Yes,Both,No,Tier 1,367
+Israel,Tel Aviv,Tel Aviv University,Public,Yes,Arts,Cyber Security,Part-time,14.08,No,Yes,No,Print Media,$27532,Yes,Both,Yes,Tier 3,136
+Israel,Tel Aviv,The Israel College of Applied Science,Private,Yes,Arts,ML,Online,11.7,Yes,No,Yes,Radio and tv advertising,$43562,Yes,Both,Yes,Tier 2,712
+Israel,Haifa,Technion – Israel Institute of Technology,Private,No,Arts,Data Science,Online,13.97,Yes,No,Yes,Email Marketing,$29768,Yes,Both,Yes,Tier 1,354
+Israel,Haifa,University of Haifa,Public,Yes,Business,Cyber Security,Part-time,9.76,No,No,No,Print Media,$31065,Yes,Training,Yes,Tier 2,238
+Israel,Be'er Sheva,Ben-Gurion University of the Negev,Private,Yes,Business,Cyber Security,Online,8.94,No,No,Yes,SEO,$25006,Yes,Training,No,Tier 1,777
+Israel,Ramat Gan,Bar-Ilan University,Private,Yes,Arts,Cyber Security,Full-time,7.62,No,Yes,No,Community Engagement,$13665,Yes,Both,Yes,Tier 1,947
+Israel,Ramat Gan,Shenkar College of Engineering and Design,Private,Yes,Arts,Cyber Security,Online,16.68,Yes,No,No,Search Engine Marketing (SEM),$11468,No,Training,No,Tier 1,196
+Israel,Ra'anana,Open University of Israel,Private,Yes,Arts,ML,Full-time,9.63,No,No,Yes,Email Marketing,$49091,Yes,Training,Yes,Tier 1,440
+Israel,Ariel,Ariel University,Public,Yes,Science,AI,Online,19.51,Yes,Yes,Yes,Social Media Advertising,$18678,No,Training,No,Tier 1,989
+Israel,Herzliya,Interdisciplinary Center (IDC) Herzliya,Public,Yes,Business,ML,Full-time,11.51,Yes,No,No,Influencer Marketing,$42190,Yes,Training,Yes,Tier 2,233
+Israel,Herzliya,"Efi Arazi School of Computer Science, IDC Herzliya",Private,Yes,Engineering,ML,Full-time,16.35,No,No,No,Print Media,$33109,Yes,Training,No,Tier 3,486
+Israel,Rishon LeZion,The College of Management Academic Studies,Private,Yes,Business,Data Science,Part-time,9.39,Yes,No,No,Direct Engagement,$31918,Yes,Consulting,Yes,Tier 3,759
+Israel,Kinneret,Kinneret Academic College,Private,Yes,Engineering,Data Science,Online,9.81,No,No,No,Search Engine Marketing (SEM),$48942,Yes,Consulting,Yes,Tier 2,460
+Timor-Leste,Dili,Universidade Nacional de Timor-Leste (UNTL),Private,No,Business,Data Science,Full-time,9.82,No,Yes,Yes,Print Media,$22129,Yes,Training,Yes,Tier 1,949
+Timor-Leste,Dili,Universidade de La Salle,Private,Yes,Business,ML,Online,5.85,Yes,No,Yes,Social Media Advertising,$34333,No,Training,No,Tier 2,64
+Thailand,Bangkok,Chulalongkorn University,Public,No,Arts,ML,Online,15.9,Yes,Yes,No,Influencer Marketing,$11915,Yes,Training,Yes,Tier 2,424
+Thailand,Bangkok,Kasetsart University,Public,No,Science,AI,Online,8.7,Yes,Yes,Yes,Print Media,$46287,No,Both,No,Tier 1,693
+Thailand,Bangkok,Thammasat University,Private,Yes,Science,IoT,Online,7.16,No,No,No,Email Marketing,$37195,No,Both,No,Tier 2,802
+Thailand,Bangkok,Srinakharinwirot University,Public,Yes,Business,IoT,Part-time,12.03,Yes,Yes,Yes,Print Media,$46464,Yes,Consulting,Yes,Tier 2,375
+Thailand,Bangkok,Assumption University (ABAC),Public,Yes,Science,Cyber Security,Full-time,7.49,No,No,No,Email Marketing,$45415,Yes,Consulting,Yes,Tier 3,139
+Thailand,Bangkok,Bangkok University,Private,Yes,Arts,AI,Full-time,15.21,No,Yes,No,Direct Engagement,$37989,No,Consulting,Yes,Tier 1,489
+Thailand,Bangkok,Dhurakij Pundit University,Private,No,Arts,AI,Online,13.7,No,No,Yes,SEO,$31983,Yes,Training,No,Tier 1,841
+Thailand,Bangkok,Mahanakorn University of Technology,Public,No,Business,Data Science,Full-time,15.19,Yes,No,Yes,SEO,$11120,Yes,Training,No,Tier 2,146
+Thailand,Bangkok,Siam University,Private,No,Arts,AI,Full-time,10.88,Yes,Yes,No,Search Engine Marketing (SEM),$26804,Yes,Consulting,Yes,Tier 2,859
+Thailand,Bangkok,Stamford International University,Public,Yes,Arts,AI,Part-time,14.03,Yes,Yes,Yes,Email Marketing,$39957,No,Both,Yes,Tier 2,276
+Thailand,Bangkok,University of the Thai Chamber of Commerce (UTCC),Private,No,Engineering,IoT,Full-time,7.23,No,Yes,No,Direct Engagement,$37493,No,Training,No,Tier 1,253
+Thailand,Nakhon Pathom,Mahidol University,Public,No,Science,IoT,Full-time,17.36,No,No,Yes,Radio and tv advertising,$43133,Yes,Consulting,Yes,Tier 1,234
+Thailand,Nakhon Pathom,Christian University of Thailand,Public,No,Science,Cyber Security,Full-time,8.77,Yes,Yes,No,Social Media Advertising,$29030,No,Both,Yes,Tier 2,619
+Thailand,Chiang Mai,Chiang Mai University,Public,No,Engineering,Cyber Security,Online,17.8,No,No,Yes,Direct Engagement,$34674,Yes,Both,Yes,Tier 2,898
+Thailand,Khon Kaen,Khon Kaen University,Public,No,Business,ML,Part-time,13.32,Yes,Yes,No,SEO,$31483,Yes,Consulting,Yes,Tier 1,721
+Thailand,Hat Yai,Prince of Songkla University,Private,Yes,Engineering,AI,Full-time,11.04,Yes,Yes,Yes,SEO,$45863,No,Training,Yes,Tier 2,703
+Thailand,Chonburi,Burapha University,Public,Yes,Business,AI,Online,12.9,No,No,No,Direct Engagement,$26544,No,Consulting,Yes,Tier 2,603
+Thailand,Chiang Rai,Mae Fah Luang University,Private,No,Business,Cyber Security,Part-time,11.7,Yes,No,Yes,Search Engine Marketing (SEM),$11134,Yes,Consulting,Yes,Tier 1,523
+Thailand,Phitsanulok,Naresuan University,Private,No,Arts,AI,Full-time,17.14,Yes,No,No,Social Media Advertising,$14204,No,Training,No,Tier 3,237
+Thailand,Pathum Thani,Asian Institute of Technology (AIT),Private,Yes,Business,Data Science,Part-time,19.13,Yes,No,Yes,Direct Engagement,$40331,Yes,Both,No,Tier 3,859
+Thailand,Pathum Thani,Rangsit University,Private,Yes,Arts,Data Science,Online,10.36,No,Yes,No,Radio and tv advertising,$16600,No,Consulting,No,Tier 3,648
+Thailand,Songkhla,Songkhla Rajabhat University,Private,Yes,Engineering,Data Science,Online,13.15,No,Yes,Yes,Social Media Advertising,$48489,No,Consulting,Yes,Tier 1,312
+Thailand,Chachoengsao,Eastern Asia University,Private,Yes,Science,AI,Full-time,19.46,Yes,Yes,Yes,Search Engine Marketing (SEM),$40587,Yes,Training,No,Tier 3,260
+Thailand,Hua Hin,Webster University Thailand,Private,No,Arts,IoT,Full-time,12.07,No,Yes,No,Social Media Advertising,$25729,Yes,Both,No,Tier 3,43
+Thailand,Various locations,Rajabhat University,Private,Yes,Business,Cyber Security,Full-time,16.88,No,Yes,Yes,Influencer Marketing,$10630,No,Training,No,Tier 3,88
+Thailand,Various locations,Rajamangala University of Technology,Public,Yes,Science,Cyber Security,Part-time,9.77,No,No,No,Community Engagement,$45380,No,Consulting,No,Tier 2,171
+Japan,Tokyo,University of Tokyo (Tokyo Daigaku),Public,Yes,Engineering,ML,Online,15.27,No,No,No,Community Engagement,$34786,No,Both,No,Tier 3,463
+Japan,Tokyo,Hitotsubashi University,Public,No,Business,ML,Online,6.48,Yes,No,Yes,Email Marketing,$20850,No,Training,Yes,Tier 1,466
+Japan,Tokyo,Tokyo Institute of Technology (Tokyo Kogyo Daigaku),Private,No,Arts,IoT,Online,11.48,Yes,No,No,Community Engagement,$16887,Yes,Training,No,Tier 2,739
+Japan,Tokyo,Tokyo University of Foreign Studies,Private,Yes,Engineering,AI,Online,17.79,Yes,Yes,No,Influencer Marketing,$42748,Yes,Both,Yes,Tier 2,832
+Japan,Tokyo,Nihon University,Public,Yes,Science,AI,Full-time,9.62,Yes,Yes,Yes,Print Media,$20026,Yes,Consulting,Yes,Tier 3,451
+Japan,Tokyo,Keio University,Private,No,Science,Cyber Security,Part-time,7.07,Yes,No,No,Direct Engagement,$41786,Yes,Consulting,No,Tier 3,999
+Japan,Tokyo,Waseda University,Private,Yes,Engineering,Data Science,Part-time,10.88,Yes,No,Yes,SEO,$49462,Yes,Both,No,Tier 3,870
+Japan,Tokyo,Sophia University,Private,No,Business,ML,Online,5.83,No,No,Yes,Influencer Marketing,$17718,Yes,Consulting,Yes,Tier 2,241
+Japan,Tokyo,Tokyo University of the Arts,Public,No,Arts,Data Science,Part-time,15.74,No,Yes,No,Email Marketing,$46756,Yes,Training,No,Tier 3,302
+Japan,Tokyo,Aoyama Gakuin University,Public,Yes,Science,IoT,Online,6.52,Yes,No,Yes,Search Engine Marketing (SEM),$27882,No,Training,No,Tier 1,210
+Japan,Tokyo,Chuo University,Public,No,Business,Cyber Security,Full-time,19.31,Yes,No,Yes,Radio and tv advertising,$46017,Yes,Training,Yes,Tier 1,82
+Japan,Tokyo,Tokyo University of Science,Public,No,Science,IoT,Full-time,6.31,Yes,No,Yes,Influencer Marketing,$37664,No,Both,No,Tier 1,120
+Japan,Tokyo,Showa Pharmaceutical University,Private,Yes,Business,Cyber Security,Full-time,6.61,Yes,Yes,Yes,Direct Engagement,$47424,Yes,Training,Yes,Tier 2,110
+Japan,Tokyo,Juntendo University,Public,No,Business,IoT,Online,6.16,No,No,No,SEO,$42928,Yes,Both,No,Tier 2,518
+Japan,Tokyo,Musashi University,Private,No,Business,IoT,Full-time,5.64,No,No,No,Influencer Marketing,$27743,Yes,Both,Yes,Tier 2,66
+Japan,Tokyo,Nihon University,Public,No,Business,Data Science,Full-time,14.08,No,No,Yes,Direct Engagement,$34434,Yes,Both,Yes,Tier 3,614
+Japan,Tokyo,International Christian University,Private,Yes,Engineering,AI,Full-time,5.58,Yes,No,Yes,SEO,$39362,Yes,Both,No,Tier 3,282
+Japan,Tokyo,Shibaura Institute of Technology,Private,No,Business,Cyber Security,Part-time,19.27,No,Yes,No,Influencer Marketing,$19014,Yes,Both,Yes,Tier 3,801
+Japan,Kyoto,Kyoto University,Public,Yes,Science,Cyber Security,Part-time,19.23,No,No,No,SEO,$21782,Yes,Consulting,No,Tier 3,121
+Japan,Kyoto,Ritsumeikan University,Private,No,Business,IoT,Part-time,18.84,No,Yes,No,Radio and tv advertising,$46282,No,Both,No,Tier 1,960
+Japan,Kyoto,Doshisha University,Public,Yes,Business,IoT,Online,19.35,Yes,Yes,No,Direct Engagement,$43124,Yes,Both,No,Tier 3,637
+Japan,Osaka,Osaka University,Private,Yes,Arts,AI,Online,12.49,No,No,Yes,Community Engagement,$27710,Yes,Consulting,No,Tier 1,20
+Japan,Osaka,Osaka University of Economics,Public,Yes,Engineering,Data Science,Part-time,7.78,No,No,No,Influencer Marketing,$24548,No,Both,No,Tier 2,946
+Japan,Osaka,Kinki University,Public,No,Engineering,ML,Part-time,12.92,Yes,Yes,No,Email Marketing,$31674,No,Both,No,Tier 2,979
+Japan,Sendai,Tohoku University,Private,Yes,Business,Cyber Security,Full-time,9.8,No,No,No,Social Media Advertising,$25073,No,Both,Yes,Tier 1,74
+Japan,Nagoya,Nagoya University,Private,Yes,Science,IoT,Full-time,9.15,No,No,Yes,SEO,$42347,Yes,Consulting,Yes,Tier 1,972
+Japan,Fukuoka,Kyushu University,Private,No,Business,IoT,Full-time,13.25,No,No,No,Influencer Marketing,$32498,Yes,Training,No,Tier 2,434
+Japan,Sapporo,Hokkaido University,Private,Yes,Business,Cyber Security,Full-time,16.77,No,No,No,Email Marketing,$36349,Yes,Both,No,Tier 2,117
+Japan,Kobe,Kobe University,Private,Yes,Engineering,Data Science,Full-time,6.69,Yes,No,No,Email Marketing,$23214,No,Training,Yes,Tier 1,222
+Japan,Okayama,Okayama University,Private,Yes,Engineering,IoT,Online,15.61,No,No,No,Email Marketing,$22903,No,Consulting,No,Tier 2,962
+Japan,Shizuoka,Shizuoka University,Private,No,Business,AI,Part-time,13.66,Yes,No,No,Email Marketing,$48448,No,Consulting,Yes,Tier 2,551
+Japan,Chiba,Chiba University,Private,No,Science,ML,Online,16.25,Yes,Yes,Yes,Search Engine Marketing (SEM),$49844,Yes,Both,Yes,Tier 1,219
+Japan,Yokohama,Yokohama National University,Private,Yes,Business,ML,Full-time,17.23,No,No,Yes,Print Media,$20571,Yes,Both,No,Tier 1,439
+Japan,Gifu,Gifu University,Private,No,Science,AI,Part-time,9.49,No,No,Yes,Influencer Marketing,$25029,No,Both,Yes,Tier 1,745
+Japan,Matsuyama,Ehime University,Public,Yes,Engineering,Cyber Security,Online,10.69,No,Yes,No,SEO,$47658,No,Both,Yes,Tier 1,784
+Japan,Nagasaki,Nagasaki University,Private,No,Science,AI,Full-time,19.21,No,No,No,Social Media Advertising,$31003,No,Consulting,Yes,Tier 3,342
+Japan,Tama,Tama Art University,Private,No,Engineering,ML,Part-time,7.47,Yes,Yes,No,Community Engagement,$33994,No,Training,No,Tier 1,107
+Jordan,Amman,University of Jordan,Public,No,Business,ML,Online,14.54,Yes,No,Yes,Print Media,$14663,Yes,Training,Yes,Tier 1,218
+Jordan,Amman,University of Petra,Private,Yes,Arts,Data Science,Part-time,6.78,Yes,No,Yes,Radio and tv advertising,$27177,Yes,Training,Yes,Tier 1,781
+Jordan,Amman,Princess Sumaya University for Technology,Public,No,Science,AI,Online,19.33,No,No,No,Direct Engagement,$49879,Yes,Training,No,Tier 2,752
+Jordan,Amman,The University of Applied Sciences,Public,Yes,Science,AI,Online,8.05,Yes,No,Yes,SEO,$12655,Yes,Both,Yes,Tier 2,439
+Jordan,Amman,Amman Arab University,Public,No,Engineering,IoT,Online,7.1,No,No,Yes,Email Marketing,$23575,No,Consulting,Yes,Tier 3,553
+Jordan,Amman,Abdullah II Design and Development Bureau University,Private,Yes,Arts,IoT,Full-time,18.67,Yes,Yes,Yes,SEO,$13703,No,Training,Yes,Tier 1,477
+Jordan,Amman,Al-Zaytoonah University of Jordan,Private,Yes,Arts,Cyber Security,Online,11.96,No,No,No,Print Media,$14695,Yes,Consulting,No,Tier 2,167
+Jordan,Amman,Arab Open University,Private,No,Arts,AI,Online,15.68,No,Yes,No,Direct Engagement,$41980,No,Training,Yes,Tier 2,259
+Jordan,Amman,International University for Science and Technology,Private,No,Science,AI,Online,7.83,Yes,No,Yes,Radio and tv advertising,$19706,No,Consulting,Yes,Tier 3,510
+Jordan,Amman,Al-Isra University,Private,No,Engineering,Cyber Security,Part-time,5.66,Yes,Yes,Yes,SEO,$27451,Yes,Consulting,Yes,Tier 1,933
+Jordan,Amman,University of Modern Sciences,Public,No,Science,Cyber Security,Full-time,14.29,No,Yes,Yes,Community Engagement,$47370,No,Consulting,No,Tier 3,877
+Jordan,Amman,Amman University for Technology,Public,No,Arts,Cyber Security,Part-time,15.02,No,Yes,No,Social Media Advertising,$34634,No,Consulting,No,Tier 3,42
+Jordan,Irbid,Jordan University of Science and Technology,Public,No,Business,IoT,Full-time,9.8,Yes,No,Yes,Community Engagement,$35928,No,Training,Yes,Tier 3,187
+Jordan,Irbid,Yarmouk University,Private,No,Science,ML,Part-time,5.55,No,Yes,No,Print Media,$42717,No,Training,Yes,Tier 1,980
+Jordan,Zarqa,Hashemite University,Public,Yes,Engineering,ML,Full-time,18.36,Yes,No,No,Search Engine Marketing (SEM),$36058,No,Consulting,Yes,Tier 1,203
+Jordan,Karak,Mutah University,Private,No,Science,AI,Full-time,9.26,No,Yes,Yes,SEO,$11952,Yes,Consulting,No,Tier 2,790
+Jordan,Salt,Al-Balqa Applied University,Private,Yes,Arts,IoT,Part-time,17.42,No,Yes,Yes,Radio and tv advertising,$17250,No,Both,No,Tier 3,863
+Jordan,Ma'an,University of Ma'an,Private,Yes,Arts,AI,Full-time,9.28,No,Yes,No,Social Media Advertising,$17642,No,Both,No,Tier 1,390
+Jordan,Ma'an,Al-Hussein Bin Talal University,Public,Yes,Science,AI,Full-time,10.79,No,No,Yes,Search Engine Marketing (SEM),$46755,No,Both,No,Tier 2,59
+Tajikistan,Dushanbe,Tajik National University,Public,No,Arts,ML,Part-time,17.89,Yes,No,Yes,SEO,$16439,Yes,Training,Yes,Tier 3,352
+Tajikistan,Dushanbe,Tajik Technical University,Public,No,Science,Cyber Security,Full-time,7.04,No,Yes,No,Email Marketing,$42878,No,Training,Yes,Tier 3,609
+Tajikistan,Dushanbe,Tajik State University of Law,Public,Yes,Science,ML,Online,10.67,No,No,Yes,Community Engagement,$47284,Yes,Training,No,Tier 3,224
+Tajikistan,Dushanbe,Tajik State University of Commerce,Public,Yes,Arts,IoT,Online,16.8,Yes,No,No,Influencer Marketing,$29041,No,Both,Yes,Tier 2,807
+Tajikistan,Dushanbe,Dushanbe Medical University,Private,No,Business,AI,Full-time,18.26,Yes,No,No,Direct Engagement,$23985,No,Consulting,No,Tier 2,796
+Tajikistan,Dushanbe,Agricultural University of Tajikistan,Private,No,Science,Cyber Security,Online,8.49,No,No,Yes,Influencer Marketing,$42029,No,Consulting,No,Tier 3,846
+Tajikistan,Dushanbe,Institute of Pedagogy and Psychology,Public,Yes,Science,IoT,Online,8.24,Yes,No,Yes,Direct Engagement,$18787,Yes,Consulting,No,Tier 2,39
+Tajikistan,Dushanbe,University of Central Asia,Private,Yes,Arts,Data Science,Full-time,18.7,No,No,No,Influencer Marketing,$12169,No,Training,No,Tier 2,183
+Tajikistan,Dushanbe,Tajik Institute of Entrepreneurship and Service,Private,No,Engineering,Data Science,Online,6.28,Yes,Yes,No,Radio and tv advertising,$27095,Yes,Both,No,Tier 1,205
+Tajikistan,Dushanbe,International University of Central Asia,Private,Yes,Arts,ML,Full-time,11.97,Yes,Yes,Yes,Email Marketing,$30820,Yes,Training,Yes,Tier 2,717
+Tajikistan,Khorog,Khorog State University,Public,No,Engineering,Data Science,Online,18.58,No,No,Yes,SEO,$22473,Yes,Training,Yes,Tier 3,256
+Tajikistan,Khorog,Pamir State University,Public,Yes,Science,AI,Full-time,5.71,Yes,Yes,Yes,Influencer Marketing,$32895,Yes,Consulting,No,Tier 3,241
+Tajikistan,Khujand,Khujand State University,Public,Yes,Arts,AI,Full-time,9.62,Yes,No,No,Influencer Marketing,$29596,Yes,Consulting,No,Tier 3,60
+Taiwan,Taipei,National Taiwan University (NTU),Private,Yes,Engineering,Cyber Security,Part-time,7.22,No,No,No,Direct Engagement,$44800,Yes,Both,Yes,Tier 1,283
+Taiwan,Taipei,National Yang Ming Chiao Tung University (NYCU),Private,No,Business,ML,Full-time,9.43,Yes,Yes,No,Direct Engagement,$39102,Yes,Both,Yes,Tier 2,531
+Taiwan,Taipei,National Taipei University (NTPU),Public,No,Business,AI,Full-time,8.52,Yes,No,No,Influencer Marketing,$46743,No,Both,Yes,Tier 3,704
+Taiwan,Taipei,National Taiwan University of Science and Technology (NTUST),Private,No,Science,Data Science,Full-time,16.4,Yes,No,Yes,Influencer Marketing,$16782,No,Training,Yes,Tier 3,835
+Taiwan,Taipei,National Taiwan Normal University (NTNU),Public,Yes,Engineering,ML,Online,10.99,Yes,Yes,No,Email Marketing,$46131,Yes,Consulting,Yes,Tier 2,997
+Taiwan,Taipei,Soochow University,Public,No,Business,Cyber Security,Online,7.54,Yes,Yes,Yes,Search Engine Marketing (SEM),$40208,No,Both,Yes,Tier 1,646
+Taiwan,Taipei,Ming Chuan University,Public,No,Engineering,ML,Full-time,18.54,Yes,Yes,No,Community Engagement,$45228,No,Training,No,Tier 2,57
+Taiwan,Tainan,National Cheng Kung University (NCKU),Public,No,Engineering,Data Science,Part-time,10.7,Yes,Yes,Yes,Influencer Marketing,$38265,No,Training,Yes,Tier 3,232
+Taiwan,Tainan,Chang Jung Christian University,Public,Yes,Business,Cyber Security,Online,8.6,Yes,Yes,No,Print Media,$32847,No,Both,No,Tier 1,457
+Taiwan,Hsinchu,National Tsing Hua University (NTHU),Private,No,Science,IoT,Full-time,17.65,No,Yes,Yes,Influencer Marketing,$41256,Yes,Training,Yes,Tier 2,85
+Taiwan,Taoyuan,National Central University (NCU),Private,No,Arts,AI,Online,6.98,No,No,Yes,Search Engine Marketing (SEM),$16056,No,Both,No,Tier 3,310
+Taiwan,Taoyuan,Chung Yuan Christian University (CYCU),Public,Yes,Business,Data Science,Part-time,12.0,No,No,Yes,Email Marketing,$20560,Yes,Consulting,Yes,Tier 3,634
+Taiwan,Kaohsiung,National Sun Yat-sen University (NSYSU),Private,No,Business,Data Science,Online,12.12,Yes,No,Yes,SEO,$10201,No,Training,No,Tier 3,420
+Taiwan,Kaohsiung,Shu-Te University,Public,Yes,Engineering,AI,Full-time,19.45,No,Yes,Yes,Radio and tv advertising,$20987,No,Consulting,Yes,Tier 2,393
+Taiwan,Kaohsiung,National Kaohsiung University of Science and Technology (NKUST),Public,No,Arts,ML,Online,14.39,Yes,No,No,Search Engine Marketing (SEM),$14794,Yes,Both,No,Tier 1,324
+Taiwan,Taichung,National Chung Hsing University (NCHU),Public,No,Engineering,AI,Full-time,18.81,No,Yes,Yes,Influencer Marketing,$10602,No,Both,No,Tier 1,831
+Taiwan,Taichung,Asia University,Public,No,Arts,Cyber Security,Full-time,9.73,No,No,No,Social Media Advertising,$37858,No,Consulting,Yes,Tier 1,137
+Taiwan,Hualien,National Dong Hwa University (NDHU),Private,No,Science,IoT,Part-time,11.33,No,No,No,Community Engagement,$21635,No,Training,Yes,Tier 3,440
+Taiwan,Pingtung,National Pingtung University (NPTU),Private,No,Science,Cyber Security,Full-time,10.3,Yes,No,No,Search Engine Marketing (SEM),$26847,Yes,Consulting,No,Tier 2,951
+Taiwan,Tamsui,Tamkang University,Public,Yes,Science,ML,Online,10.21,No,Yes,Yes,Print Media,$43141,No,Training,Yes,Tier 2,741
+Taiwan,Tamsui,Aletheia University,Private,Yes,Arts,AI,Full-time,10.34,No,No,No,Radio and tv advertising,$46975,No,Consulting,Yes,Tier 3,26
+Kazakhstan,Almaty,Al-Farabi Kazakh National University,Public,Yes,Arts,AI,Part-time,10.16,Yes,No,No,Community Engagement,$48501,No,Consulting,No,Tier 2,12
+Kazakhstan,Almaty,Kazakh National Technical University (KazNTU),Private,Yes,Science,AI,Part-time,10.4,No,Yes,No,Email Marketing,$19879,Yes,Both,No,Tier 1,946
+Kazakhstan,Almaty,Kazakh-British Technical University,Public,Yes,Engineering,AI,Part-time,16.47,Yes,No,No,Direct Engagement,$21340,Yes,Consulting,No,Tier 3,903
+Kazakhstan,Almaty,Kazakh National Medical University,Public,Yes,Business,Cyber Security,Full-time,17.98,Yes,Yes,Yes,Influencer Marketing,$38619,No,Consulting,No,Tier 1,988
+Kazakhstan,Almaty,Kazakh American University,Private,Yes,Engineering,Cyber Security,Online,10.13,No,No,No,Radio and tv advertising,$43046,Yes,Consulting,No,Tier 2,927
+Kazakhstan,Almaty,KIMEP University,Private,No,Arts,Data Science,Full-time,10.22,No,No,No,Email Marketing,$22299,Yes,Training,No,Tier 3,57
+Kazakhstan,Almaty,International University of Almaty,Private,Yes,Engineering,Cyber Security,Online,10.86,No,No,No,Radio and tv advertising,$42953,No,Both,No,Tier 3,761
+Kazakhstan,Almaty,Almaty Management University,Public,Yes,Science,Data Science,Part-time,15.28,No,Yes,No,Print Media,$10889,No,Consulting,Yes,Tier 1,831
+Kazakhstan,Almaty,Kazakh Humanitarian Law University,Public,Yes,Arts,AI,Part-time,10.9,Yes,Yes,No,Direct Engagement,$14736,Yes,Training,No,Tier 3,647
+Kazakhstan,Almaty,International School of Medicine,Private,No,Arts,ML,Full-time,19.56,Yes,Yes,No,Community Engagement,$13632,No,Both,Yes,Tier 2,304
+Kazakhstan,Nur-Sultan,L.N. Gumilyov Eurasian National University,Private,Yes,Business,AI,Full-time,5.6,No,Yes,No,Social Media Advertising,$46624,Yes,Both,No,Tier 3,850
+Kazakhstan,Nur-Sultan,Nazarbayev University,Private,No,Business,Cyber Security,Online,10.82,No,Yes,Yes,Direct Engagement,$32924,No,Training,No,Tier 2,297
+Kazakhstan,Nur-Sultan,Astana International University,Private,Yes,Arts,IoT,Full-time,9.19,No,Yes,No,SEO,$30017,Yes,Consulting,No,Tier 2,540
+Kazakhstan,Petropavl,North Kazakhstan State University,Private,No,Science,Data Science,Online,13.27,No,Yes,Yes,Email Marketing,$33249,Yes,Consulting,Yes,Tier 1,934
+Kazakhstan,Uralsk,West Kazakhstan Innovative Technological University,Private,No,Engineering,Data Science,Full-time,18.88,Yes,Yes,No,Social Media Advertising,$25615,No,Training,Yes,Tier 3,31
+Kazakhstan,Shymkent,South Kazakhstan State Pedagogical University,Private,No,Business,Data Science,Online,16.24,Yes,No,Yes,Search Engine Marketing (SEM),$49595,No,Training,No,Tier 2,118
+Kazakhstan,Aktobe,Aktobe Regional State University,Public,Yes,Engineering,IoT,Full-time,8.0,Yes,Yes,No,Print Media,$40117,Yes,Consulting,Yes,Tier 2,476
+Kazakhstan,Pavlodar,Pavlodar State University,Private,Yes,Business,Cyber Security,Full-time,19.97,Yes,No,No,Email Marketing,$20909,No,Training,Yes,Tier 2,393
+Kazakhstan,Karaganda,Karaganda State Technical University,Private,No,Business,Data Science,Part-time,17.01,Yes,Yes,No,Print Media,$10546,Yes,Both,Yes,Tier 1,174
+Kazakhstan,Taraz,Taraz Regional University,Public,No,Business,AI,Full-time,8.66,No,Yes,Yes,Direct Engagement,$22504,No,Both,No,Tier 3,804
+Kazakhstan,Semey,Semey Medical University,Private,No,Arts,Data Science,Part-time,13.93,Yes,Yes,No,Direct Engagement,$21688,Yes,Consulting,Yes,Tier 2,728
+Kazakhstan,Semey,Shakarim University,Private,Yes,Engineering,AI,Full-time,12.55,No,No,No,Community Engagement,$28298,No,Consulting,Yes,Tier 2,67
+Kazakhstan,Kokshetau,University of Kokshetau,Private,Yes,Business,AI,Part-time,9.66,No,No,No,Direct Engagement,$34711,No,Training,No,Tier 3,795
+Kazakhstan,Taldykorgan,Zhetysu State University,Private,No,Science,Cyber Security,Online,8.41,No,Yes,Yes,Social Media Advertising,$10088,Yes,Both,Yes,Tier 3,632
+Kazakhstan,Atyrau,Atyrau University of Oil and Gas,Public,Yes,Engineering,Cyber Security,Part-time,15.86,Yes,Yes,No,Search Engine Marketing (SEM),$42813,Yes,Both,No,Tier 3,821
+South Korea,Seoul,Seoul National University,Private,Yes,Science,Data Science,Online,9.25,No,No,Yes,Print Media,$49875,Yes,Consulting,No,Tier 2,931
+South Korea,Seoul,Konkuk University,Public,Yes,Engineering,Cyber Security,Part-time,11.04,Yes,Yes,Yes,Community Engagement,$49668,Yes,Training,Yes,Tier 2,706
+South Korea,Seoul,Kyung Hee University,Public,No,Business,IoT,Part-time,7.15,No,Yes,Yes,Email Marketing,$35943,Yes,Consulting,Yes,Tier 1,883
+South Korea,Seoul,Sungkyunkwan University,Public,No,Business,IoT,Full-time,6.24,No,No,No,Search Engine Marketing (SEM),$48870,Yes,Consulting,No,Tier 2,170
+South Korea,Seoul,Hanyang University,Private,Yes,Engineering,IoT,Full-time,8.27,No,Yes,No,Direct Engagement,$25375,Yes,Both,No,Tier 2,657
+South Korea,Seoul,Yonsei University,Public,Yes,Engineering,AI,Part-time,10.5,No,No,Yes,Community Engagement,$18485,No,Training,No,Tier 3,64
+South Korea,Seoul,Ewha Womans University,Private,Yes,Science,ML,Part-time,13.23,Yes,Yes,No,Community Engagement,$10214,Yes,Both,No,Tier 1,862
+South Korea,Seoul,Sogang University,Private,No,Engineering,IoT,Online,8.81,Yes,No,No,Print Media,$46492,Yes,Both,Yes,Tier 3,26
+South Korea,Seoul,Sejong University,Public,Yes,Arts,AI,Part-time,16.74,No,No,No,Print Media,$38272,Yes,Both,Yes,Tier 1,672
+South Korea,Seoul,Sookmyung Women's University,Private,No,Arts,AI,Online,11.54,Yes,No,No,SEO,$41730,Yes,Consulting,No,Tier 1,915
+South Korea,Seoul,Namseoul University,Public,Yes,Engineering,IoT,Online,13.76,Yes,No,No,SEO,$29656,Yes,Consulting,No,Tier 1,425
+South Korea,Seoul,Myongji University,Public,No,Arts,IoT,Full-time,19.82,Yes,Yes,Yes,Print Media,$48280,Yes,Consulting,Yes,Tier 2,545
+South Korea,Seoul,Seoul Women's University,Public,Yes,Engineering,AI,Full-time,18.83,No,No,Yes,Search Engine Marketing (SEM),$39261,No,Both,No,Tier 3,764
+South Korea,Seoul,Korea University,Private,Yes,Engineering,ML,Online,11.03,Yes,Yes,No,Email Marketing,$44421,Yes,Training,No,Tier 2,494
+South Korea,Seoul,University of Seoul,Private,No,Engineering,Cyber Security,Online,19.09,Yes,No,No,Influencer Marketing,$10794,No,Training,Yes,Tier 3,706
+South Korea,Seoul,Dongguk University,Private,Yes,Science,IoT,Part-time,15.01,No,No,Yes,Community Engagement,$46601,No,Consulting,No,Tier 3,617
+South Korea,Daejeon,Korea Advanced Institute of Science and Technology (KAIST),Public,Yes,Engineering,IoT,Online,7.12,No,Yes,Yes,Search Engine Marketing (SEM),$17764,No,Consulting,Yes,Tier 3,393
+South Korea,Daejeon,Chungnam National University,Public,Yes,Arts,Data Science,Full-time,11.13,Yes,No,Yes,SEO,$48097,Yes,Both,No,Tier 3,65
+South Korea,Pohang,Pohang University of Science and Technology (POSTECH),Public,No,Arts,Cyber Security,Full-time,15.41,Yes,No,No,Email Marketing,$15966,No,Training,Yes,Tier 2,519
+South Korea,Ulsan,University of Ulsan,Private,No,Science,ML,Online,18.37,Yes,No,Yes,Influencer Marketing,$39833,No,Consulting,Yes,Tier 1,214
+South Korea,Jinju,Gyeongsang National University,Private,Yes,Engineering,ML,Full-time,19.88,Yes,No,Yes,Email Marketing,$21816,Yes,Both,No,Tier 3,176
+South Korea,Jeju,Jeju National University,Public,No,Engineering,IoT,Part-time,19.58,No,Yes,No,Social Media Advertising,$32359,Yes,Consulting,No,Tier 2,412
+South Korea,Cheongju,Chungbuk National University,Private,Yes,Science,AI,Full-time,15.0,No,Yes,No,Social Media Advertising,$35834,Yes,Both,Yes,Tier 1,17
+South Korea,Incheon,Incheon National University,Private,No,Science,Cyber Security,Online,17.76,Yes,No,No,SEO,$10503,Yes,Both,Yes,Tier 1,967
+South Korea,Gangneung and Wonju,Gangneung-Wonju National University,Public,Yes,Business,Cyber Security,Online,14.34,No,Yes,Yes,SEO,$49640,Yes,Consulting,No,Tier 1,166
+South Korea,Chuncheon,Kangwon National University,Public,Yes,Engineering,ML,Part-time,12.78,Yes,Yes,No,Direct Engagement,$29233,No,Training,Yes,Tier 2,621
+South Korea,Seongnam,Seongnam University,Public,Yes,Engineering,IoT,Part-time,12.06,Yes,No,Yes,SEO,$27977,Yes,Both,No,Tier 1,520
+South Korea,Asan,Hoseo University,Public,No,Business,Cyber Security,Part-time,18.68,No,Yes,Yes,SEO,$42313,No,Consulting,No,Tier 1,305
+Singapore,Singapore,National University of Singapore (NUS),Private,Yes,Science,IoT,Part-time,7.53,No,Yes,No,Social Media Advertising,$49285,Yes,Training,No,Tier 2,678
+Singapore,Singapore,Nanyang Technological University (NTU),Private,No,Business,ML,Online,6.49,Yes,No,No,Influencer Marketing,$26357,No,Training,No,Tier 1,122
+Singapore,Singapore,Singapore Management University (SMU),Private,No,Arts,Cyber Security,Part-time,15.26,Yes,No,No,Print Media,$36704,Yes,Consulting,Yes,Tier 1,881
+Singapore,Singapore,Singapore University of Technology and Design (SUTD),Public,Yes,Engineering,Cyber Security,Online,19.09,No,Yes,Yes,Direct Engagement,$17449,No,Both,No,Tier 2,778
+Singapore,Singapore,Singapore University of Social Sciences (SUSS),Public,No,Engineering,AI,Part-time,18.45,No,Yes,No,Social Media Advertising,$45487,No,Consulting,Yes,Tier 2,69
+Singapore,Singapore,Singapore Institute of Technology (SIT),Public,No,Engineering,AI,Online,19.89,No,No,No,Influencer Marketing,$15744,No,Both,No,Tier 1,687
+Singapore,Singapore,Singapore Institute of Management (SIM),Private,No,Business,IoT,Full-time,8.85,Yes,Yes,Yes,Radio and tv advertising,$45467,Yes,Consulting,No,Tier 1,486
+Singapore,Singapore,Singapore University of Business and Technology (SUBT),Private,No,Arts,AI,Online,13.47,Yes,Yes,No,Search Engine Marketing (SEM),$16490,Yes,Both,No,Tier 3,550
+Singapore,Singapore,Singapore University of the Arts (SUA),Public,Yes,Arts,AI,Part-time,7.88,No,Yes,Yes,Search Engine Marketing (SEM),$47359,Yes,Consulting,Yes,Tier 2,458
+Singapore,Singapore,Shatec Institutes,Public,No,Business,Data Science,Online,6.78,No,Yes,Yes,Print Media,$40140,No,Both,No,Tier 1,93
+Singapore,Singapore,Raffles University,Private,No,Arts,Cyber Security,Part-time,14.42,Yes,No,No,Direct Engagement,$28246,Yes,Training,No,Tier 3,181
+Kyrgyzstan,Bishkek,Kyrgyz National University,Public,Yes,Business,Data Science,Part-time,15.92,Yes,Yes,No,SEO,$11387,Yes,Training,No,Tier 2,938
+Kyrgyzstan,Bishkek,Kyrgyz State Technical University,Private,Yes,Business,IoT,Full-time,8.6,Yes,Yes,Yes,Email Marketing,$45368,No,Both,No,Tier 2,560
+Kyrgyzstan,Bishkek,Kyrgyz State Medical Academy,Private,No,Engineering,AI,Full-time,5.42,No,No,No,SEO,$25276,Yes,Consulting,No,Tier 3,298
+Kyrgyzstan,Bishkek,Kyrgyz-Russian Slavic University,Public,No,Science,IoT,Online,17.06,No,No,Yes,Social Media Advertising,$43100,Yes,Training,No,Tier 3,677
+Kyrgyzstan,Bishkek,"Kyrgyz State University of Construction, Transport, and Architecture",Private,No,Science,Cyber Security,Full-time,13.96,Yes,Yes,No,Social Media Advertising,$33521,No,Training,No,Tier 1,503
+Kyrgyzstan,Bishkek,American University of Central Asia,Public,Yes,Engineering,Data Science,Online,9.54,Yes,No,Yes,Print Media,$11063,No,Training,No,Tier 2,18
+Kyrgyzstan,Bishkek,International University of Kyrgyzstan,Private,No,Engineering,ML,Online,5.21,No,Yes,Yes,Direct Engagement,$38259,No,Training,No,Tier 2,797
+Kyrgyzstan,Bishkek,Kyrgyz-Turkish Manas University,Private,No,Arts,Data Science,Online,9.46,Yes,No,Yes,Direct Engagement,$41333,No,Consulting,No,Tier 1,453
+Kyrgyzstan,Bishkek,University of Central Asia,Public,Yes,Engineering,Data Science,Online,9.89,Yes,Yes,No,Community Engagement,$20553,Yes,Training,Yes,Tier 3,552
+Kyrgyzstan,Bishkek,Kyrgyz Economic University,Public,Yes,Science,IoT,Online,12.26,Yes,No,Yes,Community Engagement,$20437,Yes,Both,No,Tier 3,588
+Kyrgyzstan,Bishkek,Bishkek Humanities University,Private,Yes,Science,ML,Full-time,11.2,Yes,No,Yes,Influencer Marketing,$27119,Yes,Training,Yes,Tier 1,308
+Kyrgyzstan,Bishkek,Slavonic University,Private,No,Business,ML,Full-time,17.12,Yes,Yes,No,Email Marketing,$12139,No,Training,No,Tier 2,523
+Kyrgyzstan,Bishkek,Istanbul University of Kyrgyzstan,Public,No,Science,IoT,Online,7.75,No,No,Yes,Direct Engagement,$38890,No,Both,No,Tier 3,219
+Kyrgyzstan,Bishkek,Kyrgyz National University of Arts,Private,No,Arts,Cyber Security,Full-time,19.75,Yes,No,Yes,Print Media,$12331,No,Training,Yes,Tier 1,956
+Kyrgyzstan,Osh,Osh State University,Public,No,Engineering,IoT,Full-time,14.6,No,No,Yes,Influencer Marketing,$31790,Yes,Consulting,Yes,Tier 1,499
+Kyrgyzstan,Karakol,Issyk-Kul State University,Private,Yes,Science,IoT,Online,14.33,No,No,Yes,Radio and tv advertising,$34167,No,Both,No,Tier 3,144
+Kyrgyzstan,Batken,Batken State University,Public,No,Engineering,AI,Full-time,14.37,No,No,No,Community Engagement,$43955,No,Training,No,Tier 2,834
+Kyrgyzstan,Naryn,Naryn State University,Public,Yes,Arts,ML,Full-time,9.56,Yes,Yes,No,Email Marketing,$22773,Yes,Consulting,Yes,Tier 2,507
+Kyrgyzstan,Talas,Talas State University,Public,No,Science,IoT,Part-time,17.95,No,Yes,Yes,Email Marketing,$29712,Yes,Training,Yes,Tier 2,289
+Laos,Vientiane,National University of Laos,Public,No,Arts,IoT,Part-time,12.86,No,No,No,Print Media,$11663,Yes,Consulting,No,Tier 1,864
+Laos,Vientiane,Lao National Institute of Public Health,Public,Yes,Arts,Cyber Security,Full-time,6.26,No,No,Yes,Search Engine Marketing (SEM),$13565,Yes,Both,Yes,Tier 3,845
+Laos,Vientiane,University of Health Sciences,Private,Yes,Engineering,Cyber Security,Part-time,18.75,No,No,No,Direct Engagement,$47352,Yes,Training,Yes,Tier 3,381
+Laos,Vientiane,RATANAK University,Private,Yes,Arts,AI,Part-time,7.69,No,Yes,No,Print Media,$21530,Yes,Consulting,Yes,Tier 3,979
+Laos,Vientiane,Vientiane College,Public,No,Engineering,AI,Online,9.48,No,Yes,Yes,Social Media Advertising,$28603,Yes,Training,Yes,Tier 2,253
+Laos,Vientiane,University of Laos,Private,Yes,Arts,Cyber Security,Online,9.32,Yes,No,No,Print Media,$32313,No,Training,No,Tier 1,558
+Laos,Vientiane,Khon Kaen University International College,Private,No,Science,IoT,Online,19.99,No,Yes,Yes,Radio and tv advertising,$36621,Yes,Consulting,No,Tier 3,140
+Laos,Vientiane,Lao-American College,Private,Yes,Science,IoT,Part-time,19.61,Yes,Yes,No,Search Engine Marketing (SEM),$43513,No,Both,No,Tier 3,171
+Laos,Vientiane,Asia-Pacific International University,Private,No,Science,Data Science,Part-time,9.42,Yes,Yes,No,Print Media,$17113,No,Both,Yes,Tier 3,574
+Laos,Vientiane,Lao University of Commerce,Public,No,Arts,Data Science,Online,19.18,No,Yes,No,SEO,$24901,No,Training,No,Tier 2,326
+Laos,Pakse,Champasak University,Private,Yes,Business,Data Science,Part-time,18.51,Yes,No,No,Radio and tv advertising,$13983,No,Training,No,Tier 2,629
+Laos,Savannakhet,Savannakhet University,Private,Yes,Engineering,AI,Full-time,14.19,No,Yes,Yes,SEO,$36202,No,Training,No,Tier 2,289
+Laos,Luang Prabang,Luang Prabang University,Private,Yes,Arts,ML,Part-time,12.57,Yes,No,No,Community Engagement,$20777,No,Training,No,Tier 3,356
+Laos,"Khong District, Champasak",Don Sahong University,Private,No,Science,Cyber Security,Online,11.25,Yes,No,Yes,SEO,$13820,No,Consulting,Yes,Tier 3,437
+Qatar,Doha,Qatar University (QU),Public,No,Engineering,ML,Part-time,8.85,No,Yes,Yes,Community Engagement,$42838,Yes,Training,Yes,Tier 3,71
+Qatar,Doha,College of the North Atlantic - Qatar (CNA-Q),Public,Yes,Science,Data Science,Part-time,7.91,No,No,No,Community Engagement,$47998,Yes,Consulting,No,Tier 2,596
+Qatar,Doha,Doha Institute for Graduate Studies (DI),Public,Yes,Business,Data Science,Full-time,15.18,No,Yes,Yes,Radio and tv advertising,$17198,Yes,Both,No,Tier 2,177
+Qatar,Doha,Qatar University of Science and Technology,Public,Yes,Engineering,AI,Online,7.18,No,Yes,Yes,SEO,$10311,Yes,Consulting,No,Tier 1,446
+Qatar,Doha,University of Calgary in Qatar (UCQ),Private,No,Arts,ML,Part-time,6.72,Yes,Yes,Yes,Search Engine Marketing (SEM),$43266,No,Both,Yes,Tier 1,702
+Qatar,Doha,Weill Cornell Medicine-Qatar (WCM-Q),Private,No,Business,Data Science,Part-time,12.68,No,No,Yes,Email Marketing,$49222,Yes,Training,Yes,Tier 1,318
+Qatar,Doha,Georgetown University in Qatar,Public,Yes,Arts,Data Science,Part-time,17.73,No,Yes,Yes,Community Engagement,$17359,No,Both,Yes,Tier 2,883
+Qatar,Doha,Northwestern University in Qatar,Private,No,Business,Data Science,Part-time,9.05,No,Yes,Yes,Community Engagement,$24024,No,Training,Yes,Tier 3,665
+Malaysia,Kuala Lumpur,University of Malaya (UM),Private,Yes,Business,Cyber Security,Part-time,6.71,Yes,Yes,Yes,Social Media Advertising,$11133,No,Training,Yes,Tier 2,2
+Malaysia,Kuala Lumpur,Asia Pacific University (APU),Private,Yes,Business,ML,Full-time,15.32,No,No,Yes,SEO,$47001,No,Both,No,Tier 2,612
+Malaysia,Kuala Lumpur,Malaysia University of Science and Technology (MUST),Private,Yes,Arts,AI,Part-time,19.3,No,Yes,No,SEO,$24453,No,Both,Yes,Tier 2,853
+Malaysia,Kuala Lumpur,Kuala Lumpur Metropolitan University (KLMU),Private,Yes,Arts,Data Science,Full-time,15.52,No,Yes,Yes,Community Engagement,$23984,Yes,Training,Yes,Tier 2,626
+Malaysia,Kuala Lumpur,UCSI University,Public,Yes,Business,ML,Part-time,6.79,No,Yes,Yes,SEO,$31062,Yes,Both,No,Tier 2,695
+Malaysia,Kuala Lumpur,HELP University,Public,No,Business,AI,Part-time,6.73,Yes,Yes,Yes,Print Media,$38565,Yes,Both,Yes,Tier 2,281
+Malaysia,Kuala Lumpur,OUM (Open University Malaysia),Public,No,Science,IoT,Online,12.26,No,No,Yes,Direct Engagement,$22827,No,Consulting,No,Tier 2,139
+Malaysia,Bangi,Universiti Kebangsaan Malaysia (UKM),Private,No,Science,Cyber Security,Online,14.43,No,Yes,Yes,Print Media,$15127,No,Training,Yes,Tier 1,387
+Malaysia,Serdang,Universiti Putra Malaysia (UPM),Public,No,Science,ML,Online,12.24,Yes,No,No,Search Engine Marketing (SEM),$18695,Yes,Consulting,No,Tier 2,52
+Malaysia,Penang,Universiti Sains Malaysia (USM),Private,No,Engineering,ML,Part-time,10.51,No,Yes,No,Influencer Marketing,$12138,Yes,Training,Yes,Tier 1,9
+Malaysia,Skudai,Universiti Teknologi Malaysia (UTM),Public,No,Arts,Cyber Security,Online,6.45,No,No,Yes,Search Engine Marketing (SEM),$12212,No,Both,Yes,Tier 2,666
+Malaysia,Kuching,Universiti Malaysia Sarawak (UNIMAS),Private,No,Arts,AI,Full-time,19.24,Yes,Yes,No,Community Engagement,$12601,No,Training,Yes,Tier 1,328
+Malaysia,Kota Kinabalu,Universiti Malaysia Sabah (UMS),Public,No,Engineering,ML,Online,5.05,Yes,No,No,Direct Engagement,$28889,Yes,Training,No,Tier 3,463
+Malaysia,Kuala Terengganu,Universiti Sultan Zainal Abidin (UniSZA),Public,Yes,Business,Data Science,Online,14.95,Yes,Yes,No,Radio and tv advertising,$20237,No,Consulting,Yes,Tier 3,281
+Malaysia,Perlis,Universiti Malaysia Perlis (UniMAP),Public,No,Arts,AI,Part-time,13.72,No,Yes,No,Search Engine Marketing (SEM),$22733,No,Consulting,Yes,Tier 1,181
+Malaysia,Putrajaya,Universiti Tenaga Nasional (UNITEN),Public,No,Engineering,AI,Part-time,16.58,Yes,Yes,Yes,Email Marketing,$34237,No,Both,Yes,Tier 2,117
+Malaysia,Sintok,Universiti Utara Malaysia (UUM),Public,No,Business,Cyber Security,Full-time,17.65,No,Yes,Yes,Search Engine Marketing (SEM),$12110,No,Both,Yes,Tier 3,622
+Malaysia,Pekan,Universiti Malaysia Pahang (UMP),Private,Yes,Engineering,IoT,Online,11.74,Yes,No,Yes,Community Engagement,$12501,Yes,Consulting,No,Tier 3,598
+Malaysia,Bandar Sunway,Monash University Malaysia,Private,No,Arts,IoT,Online,17.5,No,Yes,No,Print Media,$37590,Yes,Both,Yes,Tier 3,231
+Malaysia,Bandar Sunway,Sunway University,Public,Yes,Business,AI,Online,6.48,No,No,No,Email Marketing,$15165,Yes,Training,Yes,Tier 2,886
+Malaysia,Semenyih,University of Nottingham Malaysia,Public,No,Engineering,ML,Online,18.67,Yes,No,Yes,Influencer Marketing,$27262,No,Both,Yes,Tier 2,420
+Malaysia,Subang Jaya,Taylor's University,Public,Yes,Business,Cyber Security,Part-time,7.21,No,No,No,Direct Engagement,$11577,No,Consulting,No,Tier 1,373
+Malaysia,Nilai,INTI International University,Public,Yes,Engineering,Data Science,Online,7.4,No,Yes,Yes,Direct Engagement,$44107,Yes,Both,No,Tier 3,226
+Malaysia,Petaling Jaya,Heritage University,Private,No,Engineering,AI,Online,16.6,No,Yes,Yes,Direct Engagement,$14799,Yes,Training,No,Tier 2,979
+Malaysia,Kota Damansara,SEGi University,Public,Yes,Arts,Data Science,Online,9.03,Yes,Yes,No,Social Media Advertising,$23268,Yes,Both,No,Tier 3,751
+Malaysia,Cyberjaya,Limkokwing University of Creative Technology,Private,Yes,Business,Data Science,Full-time,6.2,No,Yes,No,Social Media Advertising,$46718,No,Both,Yes,Tier 3,723
+Philippines,Multiple campuses,"University of the Philippines (UP) (including Diliman, Manila, Los Baños, Baguio, Cebu, Mindanao)",Private,No,Business,AI,Part-time,12.3,No,Yes,No,Email Marketing,$31686,No,Both,Yes,Tier 2,877
+Philippines,Manila,Polytechnic University of the Philippines (PUP),Private,No,Engineering,ML,Part-time,8.02,No,Yes,Yes,Search Engine Marketing (SEM),$47957,No,Both,No,Tier 3,87
+Philippines,Manila,Philippine Normal University (PNU),Private,No,Engineering,AI,Part-time,16.08,Yes,Yes,Yes,Radio and tv advertising,$19728,No,Consulting,No,Tier 2,575
+Philippines,Manila,Technological University of the Philippines (TUP),Public,Yes,Business,Cyber Security,Full-time,9.2,Yes,Yes,No,Radio and tv advertising,$45722,No,Training,Yes,Tier 2,773
+Philippines,Manila,Ateneo de Manila University (ADMU),Public,No,Business,Cyber Security,Part-time,14.6,No,No,No,Print Media,$37214,Yes,Both,Yes,Tier 1,748
+Philippines,Manila,De La Salle University (DLSU),Private,Yes,Science,Cyber Security,Full-time,11.52,Yes,Yes,No,Radio and tv advertising,$26395,Yes,Consulting,No,Tier 2,498
+Philippines,Manila,University of Santo Tomas (UST),Private,Yes,Science,ML,Part-time,9.23,No,Yes,Yes,SEO,$30097,Yes,Consulting,No,Tier 3,58
+Philippines,Manila,San Beda University,Private,No,Science,IoT,Online,19.64,No,Yes,No,Print Media,$25937,No,Both,Yes,Tier 3,758
+Philippines,Manila,University of the East (UE),Public,Yes,Engineering,AI,Part-time,6.9,No,No,Yes,Email Marketing,$28331,No,Training,Yes,Tier 1,175
+Philippines,Manila,Mapúa University,Public,No,Engineering,Data Science,Part-time,14.91,Yes,No,No,Direct Engagement,$27108,Yes,Training,No,Tier 2,885
+Philippines,Manila,Philippine Christian University (PCU),Public,Yes,Science,AI,Part-time,14.25,No,Yes,Yes,Direct Engagement,$26012,Yes,Both,No,Tier 3,571
+Philippines,Manila,Centro Escolar University (CEU),Private,Yes,Business,AI,Online,16.66,Yes,Yes,Yes,Influencer Marketing,$25557,No,Consulting,Yes,Tier 1,818
+Philippines,Manila,La Consolacion College (LCC),Public,No,Engineering,IoT,Full-time,6.7,Yes,Yes,No,SEO,$19787,Yes,Both,No,Tier 2,157
+Philippines,Manila,Far Eastern University (FEU),Public,No,Business,Cyber Security,Part-time,8.11,No,No,No,SEO,$37407,Yes,Consulting,No,Tier 2,362
+Philippines,Marawi City,Mindanao State University (MSU),Public,Yes,Science,AI,Online,15.36,No,Yes,Yes,Community Engagement,$22255,No,Training,No,Tier 2,992
+Philippines,Legazpi City,Bicol University (BU),Private,No,Business,ML,Full-time,12.27,Yes,Yes,Yes,Social Media Advertising,$39696,Yes,Both,No,Tier 2,762
+Philippines,Science City of Muñoz,Central Luzon State University (CLSU),Private,Yes,Engineering,Cyber Security,Part-time,5.58,Yes,No,No,Radio and tv advertising,$11715,No,Training,No,Tier 2,227
+Philippines,Tuguegarao City,Cagayan State University (CSU),Private,No,Business,IoT,Full-time,16.98,No,Yes,No,Community Engagement,$40402,Yes,Both,No,Tier 1,800
+Philippines,Cagayan de Oro,University of Science and Technology of Southern Philippines (USTSP),Private,Yes,Arts,IoT,Full-time,17.38,No,Yes,No,Radio and tv advertising,$14732,Yes,Training,No,Tier 2,680
+Philippines,Catarman,University of Eastern Philippines (UEP),Public,No,Science,Cyber Security,Part-time,7.35,Yes,Yes,Yes,Community Engagement,$34349,No,Consulting,Yes,Tier 3,71
+Philippines,Sogod,Southern Leyte State University (SLSU),Public,Yes,Science,AI,Online,8.65,Yes,Yes,No,Influencer Marketing,$36460,No,Consulting,No,Tier 1,793
+Philippines,Bontoc,Mountain Province State Polytechnic College (MPSPC),Public,Yes,Science,IoT,Part-time,13.85,No,Yes,No,Influencer Marketing,$39725,Yes,Consulting,No,Tier 1,910
+Philippines,Dumaguete City,Negros Oriental State University (NORSU),Public,Yes,Business,ML,Online,17.71,Yes,No,No,Direct Engagement,$16789,Yes,Both,No,Tier 1,30
+Philippines,Dumaguete City,St. Paul University,Public,Yes,Business,ML,Online,18.53,No,Yes,Yes,Social Media Advertising,$32349,Yes,Training,No,Tier 3,422
+Philippines,Puerto Princesa City,Palawan State University (PSU),Private,Yes,Business,Cyber Security,Part-time,13.42,No,No,Yes,Search Engine Marketing (SEM),$30409,No,Both,Yes,Tier 2,809
+Philippines,Quezon City,St. Paul University,Public,No,Science,Cyber Security,Full-time,8.56,No,Yes,No,Social Media Advertising,$36172,Yes,Consulting,No,Tier 2,201
+Philippines,Quezon City,University of Perpetual Help System DALTA,Private,Yes,Business,ML,Part-time,19.28,Yes,No,Yes,Direct Engagement,$23633,No,Training,Yes,Tier 3,505
+Philippines,Bacolod City,University of Negros Occidental - Recoletos (UNO-R),Private,No,Engineering,Cyber Security,Full-time,6.62,Yes,No,No,Community Engagement,$43597,No,Consulting,No,Tier 3,742
+Philippines,San Fernando City,University of the Assumption (UA),Public,Yes,Science,Data Science,Part-time,7.99,Yes,Yes,Yes,Influencer Marketing,$34058,Yes,Training,Yes,Tier 2,640
+Philippines,Las Piñas City,University of Perpetual Help System DALTA,Public,Yes,Business,ML,Online,7.39,Yes,Yes,Yes,SEO,$47126,No,Consulting,No,Tier 3,28
+Philippines,Caloocan City,La Consolacion College (LCC),Private,No,Arts,Data Science,Part-time,17.17,No,Yes,No,Community Engagement,$38038,Yes,Consulting,Yes,Tier 1,493
+Palestine,Birzeit,Birzeit University,Public,Yes,Science,ML,Full-time,5.49,No,Yes,No,Community Engagement,$33473,No,Training,Yes,Tier 1,777
+Palestine,East Jerusalem,Al-Quds University,Public,No,Science,IoT,Full-time,7.73,No,No,Yes,Direct Engagement,$44511,No,Consulting,No,Tier 3,182
+Palestine,Hebron,Hebron University,Private,Yes,Business,IoT,Part-time,19.45,No,No,No,SEO,$30734,No,Training,Yes,Tier 1,535
+Palestine,Hebron,Palestine Polytechnic University,Public,No,Arts,Cyber Security,Online,17.23,No,No,No,Community Engagement,$34845,Yes,Consulting,Yes,Tier 3,66
+Palestine,Nablus,An-Najah National University,Private,Yes,Business,IoT,Full-time,11.56,No,No,Yes,Email Marketing,$48996,No,Training,Yes,Tier 1,359
+Palestine,Gaza City,The Islamic University of Gaza,Private,Yes,Arts,IoT,Part-time,10.55,No,No,No,Influencer Marketing,$11044,No,Consulting,No,Tier 2,817
+Palestine,Gaza City,University of Palestine,Private,No,Engineering,ML,Online,18.6,Yes,No,Yes,Radio and tv advertising,$16868,No,Both,No,Tier 2,593
+Palestine,Jenin,Arab American University,Public,Yes,Business,AI,Full-time,17.69,No,No,No,Community Engagement,$34839,Yes,Training,No,Tier 1,834
+Palestine,Abu Dis,Al-Quds Bard College for Arts and Sciences,Private,No,Arts,Cyber Security,Online,13.57,Yes,Yes,Yes,Search Engine Marketing (SEM),$46102,No,Consulting,Yes,Tier 1,362
+Palestine,Multiple campuses,Al-Quds Open University (West Bank and Gaza Strip),Public,Yes,Engineering,AI,Part-time,16.27,No,Yes,No,Radio and tv advertising,$15220,Yes,Both,Yes,Tier 3,550
+Pakistan,Lahore,University of the Punjab,Public,Yes,Arts,ML,Online,15.88,Yes,No,Yes,Community Engagement,$20560,Yes,Both,Yes,Tier 1,815
+Pakistan,Lahore,Lahore University of Management Sciences (LUMS),Public,No,Engineering,Cyber Security,Part-time,14.67,Yes,Yes,Yes,Influencer Marketing,$35057,Yes,Consulting,No,Tier 1,954
+Pakistan,Lahore,University of Engineering and Technology (UET) Lahore,Public,No,Arts,ML,Online,13.29,Yes,No,Yes,Direct Engagement,$24858,No,Both,No,Tier 1,590
+Pakistan,Lahore,American University of Pakistan,Private,Yes,Engineering,ML,Full-time,10.86,Yes,No,Yes,SEO,$20849,No,Consulting,Yes,Tier 3,125
+Pakistan,Lahore,Lahore College for Women University,Private,Yes,Business,AI,Online,18.09,No,Yes,Yes,Direct Engagement,$47728,Yes,Training,Yes,Tier 2,670
+Pakistan,Lahore,National College of Arts (NCA),Public,No,Business,Cyber Security,Online,7.43,No,Yes,Yes,Community Engagement,$20245,No,Consulting,No,Tier 1,469
+Pakistan,Lahore,University of Central Punjab,Private,Yes,Business,IoT,Part-time,12.55,No,Yes,Yes,Search Engine Marketing (SEM),$41892,Yes,Training,No,Tier 2,96
+Pakistan,Lahore,Virtual University of Pakistan,Public,No,Science,ML,Online,16.42,No,No,Yes,Search Engine Marketing (SEM),$47566,No,Training,No,Tier 1,138
+Pakistan,Karachi,University of Karachi,Private,No,Business,IoT,Part-time,8.01,No,Yes,No,Influencer Marketing,$10678,No,Both,Yes,Tier 3,826
+Pakistan,Karachi,Karachi Institute of Technology and Entrepreneurship,Private,Yes,Science,Cyber Security,Online,13.94,No,No,No,Print Media,$22309,Yes,Both,Yes,Tier 1,388
+Pakistan,Karachi,Institute of Business Administration (IBA),Public,No,Business,IoT,Part-time,11.06,Yes,No,Yes,SEO,$39382,No,Both,No,Tier 3,652
+Pakistan,Karachi,Karachi University of Management Sciences,Public,Yes,Arts,Cyber Security,Full-time,18.29,No,Yes,No,Social Media Advertising,$13096,No,Training,Yes,Tier 2,94
+Pakistan,Karachi,Umar Bin Khattab University,Public,No,Science,ML,Online,18.77,No,No,No,Radio and tv advertising,$20479,No,Both,No,Tier 2,916
+Pakistan,Karachi,Ziauddin University,Private,No,Arts,ML,Online,14.04,No,No,No,Print Media,$40485,Yes,Both,Yes,Tier 3,730
+Pakistan,Islamabad,National University of Sciences and Technology (NUST),Public,Yes,Engineering,IoT,Part-time,13.18,Yes,No,No,Direct Engagement,$27199,Yes,Training,No,Tier 2,145
+Pakistan,Islamabad,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Public,No,Engineering,Cyber Security,Online,8.2,Yes,No,No,Radio and tv advertising,$35205,Yes,Both,Yes,Tier 3,130
+Pakistan,Islamabad,University of Islamabad,Public,No,Business,Data Science,Part-time,18.03,Yes,Yes,No,Radio and tv advertising,$31563,No,Consulting,Yes,Tier 2,909
+Pakistan,Islamabad,Quaid-i-Azam University,Private,Yes,Arts,ML,Full-time,13.17,Yes,No,Yes,Social Media Advertising,$24077,Yes,Both,Yes,Tier 2,961
+Pakistan,Islamabad,Bahria University,Private,Yes,Arts,Cyber Security,Part-time,13.25,No,Yes,Yes,SEO,$22348,Yes,Training,No,Tier 3,144
+Pakistan,Islamabad,Comsats Institute of Information Technology,Public,Yes,Business,Cyber Security,Part-time,14.46,Yes,No,No,SEO,$34519,Yes,Training,Yes,Tier 2,371
+Pakistan,Peshawar,University of Peshawar,Public,No,Arts,Data Science,Full-time,12.33,Yes,Yes,No,Social Media Advertising,$34724,No,Consulting,No,Tier 3,680
+Pakistan,Peshawar,Abasyn University,Public,Yes,Science,Cyber Security,Full-time,14.42,No,No,Yes,Radio and tv advertising,$34028,Yes,Both,No,Tier 1,74
+Pakistan,Peshawar,Peshawar University,Public,No,Engineering,Cyber Security,Online,18.4,No,No,Yes,Radio and tv advertising,$48971,Yes,Training,No,Tier 3,598
+Pakistan,Gujranwala,"University of the Punjab, Gujranwala Campus",Public,No,Business,AI,Part-time,11.62,No,Yes,Yes,Community Engagement,$37122,Yes,Training,No,Tier 2,858
+Pakistan,Muzaffarabad,University of Azad Jammu and Kashmir,Private,Yes,Engineering,Data Science,Full-time,15.89,Yes,Yes,No,Email Marketing,$48667,No,Consulting,Yes,Tier 3,81
+Pakistan,Quetta,University of Balochistan,Public,Yes,Engineering,IoT,Full-time,18.43,Yes,Yes,Yes,Print Media,$39742,Yes,Both,Yes,Tier 3,405
+Pakistan,Dera Ismail Khan,Gomal University,Private,Yes,Engineering,Data Science,Full-time,11.31,No,No,Yes,Direct Engagement,$14607,No,Consulting,No,Tier 1,554
+Maldives,Malé,Maldives National University (MNU),Public,No,Engineering,Data Science,Online,15.48,Yes,No,Yes,Print Media,$44559,Yes,Both,Yes,Tier 2,939
+Maldives,Malé,University of the Maldives,Private,Yes,Science,AI,Part-time,11.71,No,Yes,Yes,Print Media,$20761,No,Consulting,No,Tier 1,550
+Maldives,Malé,Maldives Islamic University,Public,No,Engineering,Cyber Security,Online,9.06,No,No,No,Search Engine Marketing (SEM),$26660,Yes,Consulting,No,Tier 1,288
+Maldives,Malé,The Maldives Institute of Technology (MIT),Private,Yes,Engineering,Cyber Security,Part-time,19.9,Yes,Yes,No,Print Media,$47676,Yes,Consulting,Yes,Tier 3,901
+Maldives,Malé,The Maldives National College of Higher Education (MNCH),Private,No,Arts,Cyber Security,Online,15.29,No,No,Yes,SEO,$23979,No,Training,No,Tier 3,779
+Maldives,Malé,International University of Maldives,Private,No,Business,Cyber Security,Online,5.5,No,Yes,No,Print Media,$16203,Yes,Both,No,Tier 2,554
+Maldives,Malé,Amna International University,Private,Yes,Science,Data Science,Part-time,17.04,No,No,No,Radio and tv advertising,$24037,Yes,Consulting,No,Tier 2,555
+Mongolia,Ulaanbaatar,National University of Mongolia (NUM),Public,Yes,Arts,ML,Online,17.58,Yes,Yes,Yes,Community Engagement,$39260,No,Consulting,Yes,Tier 2,645
+Mongolia,Ulaanbaatar,Mongolian University of Science and Technology (MUST),Public,Yes,Science,IoT,Part-time,10.6,No,No,Yes,Community Engagement,$12874,No,Training,Yes,Tier 2,720
+Mongolia,Ulaanbaatar,Mongolian State University of Education,Private,No,Engineering,IoT,Online,5.49,No,No,No,SEO,$16167,No,Consulting,Yes,Tier 1,904
+Mongolia,Ulaanbaatar,Mongolian University of Life Sciences,Public,No,Science,Cyber Security,Full-time,19.27,No,No,Yes,Search Engine Marketing (SEM),$35312,Yes,Training,Yes,Tier 1,216
+Mongolia,Ulaanbaatar,Mongolian University of Arts and Culture,Public,No,Engineering,Cyber Security,Full-time,18.25,No,Yes,No,Influencer Marketing,$15601,Yes,Both,No,Tier 1,59
+Mongolia,Ulaanbaatar,University of the Humanities,Public,No,Engineering,Data Science,Full-time,5.38,Yes,Yes,No,Influencer Marketing,$35832,Yes,Training,No,Tier 1,176
+Mongolia,Ulaanbaatar,National Medical University of Mongolia,Private,No,Engineering,Data Science,Full-time,5.17,Yes,Yes,No,Direct Engagement,$38963,Yes,Both,Yes,Tier 1,478
+Mongolia,Ulaanbaatar,Mongolian National University of Education,Public,No,Science,IoT,Full-time,15.99,No,No,No,Influencer Marketing,$15792,Yes,Both,Yes,Tier 2,81
+Mongolia,Ulaanbaatar,University of Ulaanbaatar,Public,No,Business,Data Science,Full-time,9.03,No,Yes,No,Community Engagement,$28372,No,Training,No,Tier 3,973
+Mongolia,Ulaanbaatar,Royal International University,Private,No,Science,IoT,Online,8.27,No,Yes,Yes,Influencer Marketing,$34728,No,Both,Yes,Tier 2,984
+Mongolia,Ulaanbaatar,Huree University,Private,No,Engineering,Cyber Security,Part-time,18.38,Yes,Yes,Yes,Radio and tv advertising,$11003,No,Consulting,Yes,Tier 3,892
+Mongolia,Ulaanbaatar,Institute of Finance and Economics,Public,No,Engineering,ML,Online,12.33,No,Yes,No,Influencer Marketing,$26938,Yes,Both,Yes,Tier 1,449
+Mongolia,Ulaanbaatar,Mongolia International University,Public,Yes,Science,IoT,Full-time,12.98,No,No,No,Social Media Advertising,$47606,Yes,Both,Yes,Tier 2,493
+Mongolia,Ulaanbaatar,The Asia University,Private,No,Business,ML,Part-time,5.68,No,No,Yes,Influencer Marketing,$15724,No,Both,No,Tier 2,169
+Mongolia,Ulaanbaatar,International University of Mongolia,Private,Yes,Science,Cyber Security,Full-time,15.63,Yes,No,Yes,Search Engine Marketing (SEM),$33310,No,Training,No,Tier 1,113
+Mongolia,Ulaanbaatar,Mongolian University of Science and Technology,Private,Yes,Arts,AI,Part-time,17.71,Yes,Yes,Yes,Radio and tv advertising,$37509,Yes,Training,No,Tier 1,210
+Mongolia,Ulaanbaatar,Sukhbaatar University,Public,Yes,Science,ML,Full-time,13.61,No,No,Yes,Social Media Advertising,$24642,No,Training,Yes,Tier 3,236
+Oman,Muscat,Sultan Qaboos University,Public,Yes,Business,Data Science,Full-time,11.3,Yes,Yes,No,Print Media,$34619,No,Consulting,No,Tier 1,951
+Oman,Muscat,Sultan Qaboos University College of Medicine and Health Sciences,Public,No,Business,AI,Online,18.95,No,Yes,Yes,Influencer Marketing,$15502,No,Consulting,No,Tier 3,134
+Oman,Muscat,Muscat University,Public,Yes,Business,Cyber Security,Full-time,11.66,Yes,No,Yes,SEO,$46621,No,Training,No,Tier 1,42
+Oman,Muscat,The American University of Oman,Private,No,Science,Cyber Security,Online,9.32,Yes,Yes,Yes,Email Marketing,$27465,No,Consulting,No,Tier 3,473
+Oman,Muscat,Oman College of Management and Technology,Private,No,Arts,Data Science,Full-time,11.7,No,Yes,Yes,Social Media Advertising,$29127,Yes,Both,No,Tier 1,732
+Oman,Salalah,Dhofar University,Private,No,Science,Cyber Security,Part-time,19.81,No,Yes,No,Community Engagement,$13393,Yes,Both,No,Tier 2,771
+Oman,Nizwa,University of Nizwa,Private,Yes,Science,AI,Online,14.29,Yes,Yes,No,Community Engagement,$41278,Yes,Consulting,No,Tier 2,919
+Oman,Sohar,Oman Medical College,Private,Yes,Arts,IoT,Part-time,12.32,Yes,Yes,Yes,Community Engagement,$24659,No,Training,Yes,Tier 1,463
+Oman,Sohar,Sohar University,Public,Yes,Business,IoT,Online,14.21,Yes,Yes,Yes,Print Media,$21631,No,Training,Yes,Tier 1,927
+Oman,Sohar,International Maritime College Oman,Private,Yes,Engineering,Data Science,Part-time,5.92,Yes,No,Yes,Email Marketing,$45823,Yes,Training,No,Tier 3,524
+Oman,Al Buraimi,Al Buraimi University College,Private,Yes,Arts,ML,Part-time,15.66,Yes,Yes,No,Email Marketing,$40197,Yes,Consulting,Yes,Tier 1,24
+Myanmar,Yangon,University of Yangon,Private,No,Business,Data Science,Online,5.9,Yes,Yes,Yes,Community Engagement,$16722,Yes,Both,No,Tier 3,925
+Myanmar,Yangon,"University of Medicine 1, Yangon",Public,Yes,Arts,Cyber Security,Full-time,15.86,Yes,Yes,Yes,Social Media Advertising,$19820,No,Training,Yes,Tier 2,736
+Myanmar,Yangon,"University of Medicine 2, Yangon",Private,No,Engineering,Data Science,Full-time,11.08,No,Yes,Yes,Social Media Advertising,$34658,Yes,Training,No,Tier 3,95
+Myanmar,Yangon,Dagon University,Public,Yes,Engineering,Cyber Security,Full-time,12.47,Yes,Yes,Yes,Radio and tv advertising,$49921,Yes,Consulting,Yes,Tier 1,715
+Myanmar,Yangon,Rangoon Institute of Technology,Private,No,Engineering,Data Science,Online,15.1,No,Yes,Yes,SEO,$46607,No,Training,No,Tier 1,924
+Myanmar,Yangon,University of Social Sciences,Private,No,Engineering,ML,Part-time,8.62,Yes,Yes,Yes,Direct Engagement,$25118,No,Training,No,Tier 3,104
+Myanmar,Yangon,University of Education,Private,Yes,Arts,IoT,Online,16.9,No,Yes,Yes,Direct Engagement,$26849,Yes,Training,No,Tier 1,853
+Myanmar,Yangon,University of Distance Education (Yangon),Public,Yes,Engineering,AI,Online,7.17,No,Yes,No,SEO,$13838,Yes,Both,Yes,Tier 3,827
+Myanmar,Yangon,Myanmar Institute of Information Technology,Private,No,Engineering,AI,Online,11.88,Yes,No,No,Influencer Marketing,$16031,No,Consulting,No,Tier 2,789
+Myanmar,Yangon,American International School of Myanmar,Private,No,Engineering,Cyber Security,Online,8.66,Yes,Yes,Yes,Search Engine Marketing (SEM),$35563,Yes,Training,No,Tier 1,16
+Myanmar,Yangon,International University of Myanmar,Private,No,Science,IoT,Online,17.59,No,Yes,No,Radio and tv advertising,$25512,No,Both,Yes,Tier 3,692
+Myanmar,Yangon,"University of Computer Studies, Yangon",Private,Yes,Business,IoT,Full-time,12.37,Yes,No,No,Community Engagement,$40687,No,Consulting,Yes,Tier 1,307
+Myanmar,Yangon,Asia Pacific International University,Public,Yes,Engineering,Data Science,Full-time,15.99,No,Yes,No,Search Engine Marketing (SEM),$23123,Yes,Consulting,Yes,Tier 1,879
+Myanmar,Yangon,Myanmar Aerospace Engineering University,Public,Yes,Arts,Data Science,Online,6.82,No,No,No,Influencer Marketing,$36107,No,Training,Yes,Tier 3,207
+Myanmar,Yangon,Myanmar International University,Private,Yes,Arts,IoT,Online,9.34,Yes,Yes,No,Direct Engagement,$14821,Yes,Both,No,Tier 2,194
+Myanmar,Mandalay,Mandalay University,Public,Yes,Science,AI,Part-time,8.19,No,No,No,Print Media,$30947,Yes,Consulting,No,Tier 3,38
+Myanmar,Mandalay,University of Technology (Yatanarpon),Public,Yes,Science,IoT,Full-time,14.24,Yes,No,Yes,Radio and tv advertising,$24040,No,Both,No,Tier 2,140
+Myanmar,Mandalay,"University of Medicine 2, Mandalay",Public,Yes,Engineering,IoT,Part-time,18.61,Yes,Yes,Yes,Print Media,$48503,Yes,Both,Yes,Tier 1,724
+Myanmar,Mandalay,Myanmar Institute of Information Technology,Public,No,Science,Cyber Security,Part-time,14.34,Yes,Yes,Yes,SEO,$49882,Yes,Consulting,No,Tier 3,798
+Myanmar,Mandalay,"University of Computer Studies, Mandalay",Private,Yes,Engineering,IoT,Online,14.42,Yes,Yes,Yes,Influencer Marketing,$47601,Yes,Both,No,Tier 2,53
+Myanmar,Mandalay,"University of Foreign Languages, Mandalay",Private,Yes,Arts,Data Science,Part-time,14.71,No,Yes,Yes,Email Marketing,$17072,Yes,Training,Yes,Tier 2,210
+Myanmar,Mandalay,Mandalay University of Economics,Public,No,Engineering,AI,Part-time,7.54,Yes,No,No,Social Media Advertising,$41465,No,Both,No,Tier 3,436
+Myanmar,Yezin,University of Forestry,Public,Yes,Business,IoT,Full-time,15.87,No,Yes,Yes,Social Media Advertising,$11493,No,Training,No,Tier 1,999
+Myanmar,Yezin,University of Agriculture,Private,Yes,Arts,ML,Full-time,19.85,No,No,No,Community Engagement,$17111,Yes,Both,No,Tier 2,322
+Myanmar,Monywa,Monywa University,Public,No,Science,Cyber Security,Part-time,7.51,No,No,Yes,Radio and tv advertising,$40118,No,Training,Yes,Tier 3,291
+North Korea,Pyongyang,Kim Il-sung University,Private,Yes,Engineering,IoT,Online,7.48,No,No,Yes,Print Media,$48989,Yes,Training,No,Tier 3,468
+North Korea,Pyongyang,Kim Chaek University of Technology,Private,No,Science,ML,Full-time,16.8,Yes,Yes,Yes,SEO,$39213,Yes,Both,Yes,Tier 1,4
+North Korea,Pyongyang,Pyongyang University of Science and Technology,Public,No,Engineering,Data Science,Online,15.19,Yes,Yes,No,Search Engine Marketing (SEM),$49364,Yes,Training,Yes,Tier 3,291
+North Korea,Pyongyang,Pyongyang University of Foreign Studies,Public,Yes,Engineering,ML,Part-time,13.38,No,No,Yes,Email Marketing,$29768,No,Both,No,Tier 2,899
+North Korea,Pyongyang,University of Agriculture,Private,No,Arts,ML,Full-time,16.08,Yes,No,Yes,SEO,$17243,Yes,Both,Yes,Tier 3,142
+North Korea,Pyongyang,Kim Hyong-jik University of Education,Private,No,Business,AI,Part-time,14.98,Yes,Yes,Yes,Print Media,$22227,Yes,Consulting,Yes,Tier 2,282
+North Korea,Pyongyang,Koryo Medical University,Public,Yes,Business,Cyber Security,Full-time,9.56,Yes,No,No,Direct Engagement,$40861,No,Both,No,Tier 2,527
+North Korea,Wonsan,Kangwon National University,Public,Yes,Science,ML,Part-time,7.16,No,No,No,Influencer Marketing,$43198,Yes,Training,Yes,Tier 2,631
+North Korea,Hamhung,Northeast Asia University,Private,Yes,Arts,IoT,Part-time,8.84,No,No,Yes,SEO,$43488,No,Both,Yes,Tier 1,506
+North Korea,Hamhung,Hamhung University of Chemical Industry,Private,Yes,Science,Cyber Security,Online,9.1,No,No,No,Influencer Marketing,$34957,Yes,Training,No,Tier 3,507
+Nepal,Kathmandu,Tribhuvan University,Public,Yes,Science,Cyber Security,Full-time,13.42,Yes,Yes,Yes,Influencer Marketing,$16481,No,Both,Yes,Tier 3,601
+Nepal,Kathmandu,Bagmati University,Private,Yes,Arts,AI,Part-time,6.38,Yes,No,No,Radio and tv advertising,$25579,Yes,Training,Yes,Tier 1,26
+Nepal,Kathmandu,University of the Himalayas,Public,No,Business,AI,Full-time,12.62,No,Yes,No,Search Engine Marketing (SEM),$32887,Yes,Consulting,Yes,Tier 1,640
+Nepal,Kathmandu,South Asian University,Public,No,Business,Data Science,Part-time,10.96,No,No,Yes,Social Media Advertising,$37864,No,Both,Yes,Tier 3,783
+Nepal,Kathmandu,Royal University of Bhutan,Private,Yes,Engineering,IoT,Full-time,19.98,No,No,Yes,Community Engagement,$45121,Yes,Both,Yes,Tier 3,821
+Nepal,Kathmandu,Kathmandu Medical College,Private,Yes,Arts,ML,Full-time,10.47,Yes,No,Yes,Email Marketing,$33538,No,Training,Yes,Tier 1,732
+Nepal,Kathmandu,Nepal Medical College,Private,No,Engineering,AI,Online,8.19,No,No,Yes,Social Media Advertising,$25064,Yes,Training,Yes,Tier 2,710
+Nepal,Kathmandu,Shree Harsha University,Public,No,Business,Cyber Security,Full-time,13.49,Yes,No,No,Community Engagement,$43044,No,Training,Yes,Tier 2,905
+Nepal,Kathmandu,Himalayan WhiteHouse International College,Public,No,Business,AI,Full-time,8.87,Yes,No,No,Direct Engagement,$18375,Yes,Consulting,Yes,Tier 1,560
+Nepal,Kathmandu,The British College,Private,Yes,Science,AI,Full-time,10.84,Yes,No,Yes,SEO,$24435,No,Training,Yes,Tier 3,417
+Nepal,Kathmandu,Islington College,Public,Yes,Science,ML,Part-time,17.13,No,No,Yes,Direct Engagement,$46986,No,Consulting,No,Tier 1,58
+Nepal,Kathmandu,Ace Institute of Management,Private,No,Science,ML,Part-time,6.55,Yes,No,Yes,Email Marketing,$20838,Yes,Training,No,Tier 3,937
+Nepal,Kathmandu,Samriddhi College,Public,Yes,Business,IoT,Online,16.42,Yes,No,Yes,Social Media Advertising,$41414,No,Consulting,Yes,Tier 3,576
+Nepal,Pokhara,Pokhara University,Private,No,Engineering,IoT,Full-time,13.75,Yes,Yes,Yes,Search Engine Marketing (SEM),$26812,Yes,Both,Yes,Tier 3,558
+Nepal,Lalitpur,Nepal Engineering College,Private,Yes,Science,Data Science,Part-time,11.33,No,No,Yes,Email Marketing,$39617,Yes,Both,Yes,Tier 2,695
+Nepal,Dhulikhel,Kathmandu University,Private,Yes,Arts,AI,Online,13.61,Yes,Yes,No,Influencer Marketing,$11330,Yes,Consulting,Yes,Tier 3,364
+Nepal,Birendranagar,Mid-Western University ,Private,No,Engineering,AI,Full-time,12.65,No,Yes,No,Direct Engagement,$40734,Yes,Training,No,Tier 3,736
+Nepal,Mahendranagar,Far Western University ,Private,No,Engineering,ML,Part-time,17.91,Yes,Yes,No,Direct Engagement,$15389,No,Both,Yes,Tier 2,884
