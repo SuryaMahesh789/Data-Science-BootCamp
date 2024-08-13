@@ -1,0 +1,22 @@
+mongosh "mongodb+srv://cluster0.q6dog16.mongodb.net/" --apiVersion 1 --username Surya
+Mahesh@991
+
+
+db
+use TVS
+show collections
+
+
+db.collection_name.insertOne({“field_name":"value"})
+
+db.branches.insertOne({"branch_name":"electronics","director":"srinivas","block_name":"CVR","no_sec":4})
+
+
+db.collection_name.insertMany([{“field_name”:”value”}, {“field_name”:”value”}, …{“field_name”:”value”}])
+
+insert many should be with array of documents 
+
+db.collection_name.insertMany([{"branch_name":"cse","director":"nivas","block_name":"VR","no_sec":3}, {"branch_name":"electronics","director":"sri","block_name":"CV","no_sec":5},
+{"branch_name":"robotics","director":"sreenu","block_name":"ABCD","no_sec":1}])
+
+

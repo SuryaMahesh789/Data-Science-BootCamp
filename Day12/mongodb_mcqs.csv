@@ -1,0 +1,32 @@
+Question,Option1,Option2,Option3,Option4,Correct Answer,Difficulty
+What is MongoDB?,A database,A programming language,A web framework,A text editor,A database,easy
+Which data format does MongoDB use?,JSON,XML,CSV,YAML,JSON,easy
+What is a document in MongoDB?,A row in a table,A column in a table,A JSON-like object,A database schema,A JSON-like object,easy
+Which method is used to insert a document in MongoDB?,insert(),add(),insertOne(),push(),insertOne(),easy
+Which command is used to view all databases in MongoDB?,show databases,list databases,db.getDatabases(),db.show(),show databases,easy
+What is a collection in MongoDB?,A database,A table,A field,A function,A table,easy
+How do you update a document in MongoDB?,update(),updateOne(),modify(),set(),updateOne(),medium
+Which of the following is true about MongoDB's schema design?,Schema is rigid,Schema is flexible,Schema is non-existent,Schema is predefined,Schema is flexible,medium
+What is the default port for MongoDB?,27017,3306,5432,8080,27017,medium
+Which of the following is a valid data type in MongoDB?,String,Date,ObjectId,All of the above,All of the above,medium
+Which command is used to remove a document in MongoDB?,delete(),remove(),deleteOne(),erase(),deleteOne(),medium
+How do you retrieve documents in MongoDB?,get(),find(),retrieve(),fetch(),find(),medium
+What is sharding in MongoDB?,Data replication,Data partitioning,Data backup,Data indexing,Data partitioning,medium
+Which function is used to join collections in MongoDB?,join(),merge(),aggregate(),link(),aggregate(),medium
+What is the purpose of an index in MongoDB?,To backup data,To replicate data,To improve query performance,To enforce schema,To improve query performance,medium
+What is a replica set in MongoDB?,A set of related documents,A set of related collections,A group of MongoDB servers,A set of indexes,A group of MongoDB servers,hard
+Which command is used to start the MongoDB server?,mongod,mongo,mongodb,startmongo,mongod,hard
+How do you create a text index in MongoDB?,db.collection.createIndex({field: 'text'}),db.collection.createTextIndex({field: 1}),db.collection.createIndex({field: 'text'}),db.collection.addIndex({field: 'text'}),db.collection.createIndex({field: 'text'}),hard
+Which command is used to back up a MongoDB database?,mongobackup,mongodump,mongorestore,mongosave,mongodump,hard
+What is the role of the config servers in a MongoDB sharded cluster?,Store data,Store metadata and configuration settings,Backup data,Handle queries,Store metadata and configuration settings,hard
+Which method is used to perform a bulk insert in MongoDB?,insertMany(),bulkInsert(),insertMultiple(),insertAll(),insertMany(),hard
+How do you list all collections in a MongoDB database?,show collections,list collections,db.getCollections(),db.showCollections(),show collections,hard
+What is the storage engine used by default in MongoDB?,WiredTiger,InnoDB,MyISAM,LevelDB,WiredTiger,hard
+Which MongoDB utility is used for monitoring and managing MongoDB deployments?,mongodump,mongoimport,mongostat,mongotop,mongostat,hard
+What is a capped collection in MongoDB?,A fixed-size collection,A read-only collection,A collection without indexes,A collection with unlimited size,A fixed-size collection,hard
+How do you enable authentication in MongoDB?,Use --auth option,Use --secure option,Use --enableAuth option,Use --login option,Use --auth option,hard
+Which command is used to restore a MongoDB database?,mongorestore,mongobackup,mongoload,mongorecover,mongorestore,hard
+What is the oplog in MongoDB?,Operational log for tracking changes,Error log for MongoDB,Performance log for queries,Transaction log,Operational log for tracking changes,hard
+Which MongoDB operator is used for pattern matching?,$match,$search,$regex,$find,$regex,hard
+What is the purpose of the `$lookup` operator in MongoDB?,To join collections,To filter documents,To sort documents,To group documents,To join collections,hard
+Which method is used to convert a JSON string to a BSON object in MongoDB?,JSON.parse(),BSON.convert(),ObjectId(),toBSON(),ObjectId(),hard
