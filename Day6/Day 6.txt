@@ -1,0 +1,8 @@
+Standard SQL Statement Groups
+
+
+
+lsnrctl start
+sqlplus sys as sysdba
+password or Oracle$
+

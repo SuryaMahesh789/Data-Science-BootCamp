@@ -1,0 +1,6 @@
+lsnrctl start
+sqlplus sys as sysdba
+startup
+Oracle123$
+lsnrctl start
+lsnrctl status

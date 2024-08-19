@@ -1,0 +1,35 @@
+SELECT lower('Oracle') FROM dual;
+SELECT instr('Oracle','a') FROM dual;
+SELECT concat('Oracle','for') FROM dual;
+SELECT concat(concat('Oracle',' for'),' developers') FROM dual;
+SELECT substr('Oracle',2) FROM dual;
+SELECT substr('Oracle',2,2) FROM dual;
+SELECT length('Oracle for Developers') FROM dual;
+SELECT ltrim('    Oracle for Developers') FROM dual;
+SELECT rtrim('    Oracle for Developers         ') FROM dual;
+SELECT lpad('Oracle',10,'*') FROM dual;
+SELECT ceil(24.567) FROM dual;
+SELECT round(24.567) FROM dual;
+SELECT trunc(24.567,1) FROM dual;
+SELECT power(5,2) FROM dual;
+SELECT sqrt(16) FROM dual;
+SELECT ADD_MONTHS(sysdate,3) FROM dual;
+SELECT MONTHS_BETWEEN(sysdate,'20-MAY-2024') FROM dual;
+SELECT LAST_DAY(sysdate) FROM dual;
+SELECT NEXT_DAY(sysdate,3) FROM dual;
+
+SELECT NEXT_DAY(sysdate,'friday') FROM dual;
+
+SELECT EXTRACT(year FROM sysdate) FROM dual;
+
+SELECT EXTRACT(month FROM sysdate) FROM dual;
+
+SELECT EXTRACT(day FROM sysdate) FROM dual;
+
+
+
+
+CREATE TABLE TestTable AS
+SELECT customername, contactname
+FROM customers;
+
