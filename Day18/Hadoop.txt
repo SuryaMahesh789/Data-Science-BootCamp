@@ -1,0 +1,343 @@
+What is Hadoop?
+
+Hadoop is an open-source framework developed by the Apache Software Foundation 
+that allows for the distributed processing of large data sets across clusters 
+of computers using simple programming models. It is designed to scale up from 
+a single server to thousands of machines, each offering local computation and 
+storage. Hadoop is highly fault-tolerant and is designed to detect and handle 
+failures at the application layer, delivering a highly available service on top 
+of a cluster of computers.
+
+
+What Can We Do with Hadoop?
+
+Store Large Data Sets:
+
+HDFS (Hadoop Distributed File System) allows you to store massive amounts of data 
+across multiple machines. It is designed to handle large files (gigabytes to petabytes) 
+and supports high-throughput access to data.
+
+
+Process Large Data Sets:
+
+MapReduce is Hadoop`s core processing model that allows you to process large data sets
+ in parallel across a distributed cluster.
+It breaks down tasks into smaller sub-tasks and processes them concurrently.
+
+
+Data Analysis:
+
+Hadoop supports various data analysis tools like Apache Hive for SQL-like querying 
+and Apache Pig for scripting,
+making it easier to analyze large volumes of data.
+
+
+Data Warehousing:
+
+Hadoop can be used as a data warehouse with tools like Hive and HBase,
+ which support structured and semi-structured data storage and querying.
+
+
+Data Integration:
+
+Tools like Apache Sqoop and Flume can be used to import data from relational databases
+or streaming sources into Hadoop for further processing and analysis.
+
+
+Machine Learning and Data Mining:
+
+Hadoop can integrate with tools like Apache Mahout or Spark MLlib 
+to perform machine learning tasks on large data sets.
+
+
+Summary
+
+Hadoop is a powerful framework for distributed storage and processing of big data.
+With Hadoop, you can store large volumes of data across multiple machines,
+process it using parallel computation, analyze it using tools like Hive and Pig,
+and integrate data from various sources. Hadoop commands allow you to interact with HDFS,
+submit and monitor jobs, query data, and manage resources within a Hadoop cluster.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Distributed processing of large data sets across clusters of computers
+
+refers to the method by which large volumes of data are processed simultaneously 
+across multiple machines (nodes) in a computing cluster.
+
+
+Key Points:
+
+
+Data Distribution:
+
+The data is split into smaller chunks and distributed across multiple machines in the cluster.
+Each machine stores a portion of the data, ensuring that no single machine becomes a bottleneck.
+
+
+Parallel Processing:
+
+Tasks are divided and executed in parallel on different nodes.
+For example, with Hadoop`s MapReduce framework,
+the "Map" function processes data in parallel across all nodes,
+and the "Reduce" function aggregates the results.
+
+
+
+Scalability:
+
+This approach allows the system to scale horizontally.
+As the volume of data grows, more machines can be added to the cluster to handle the increased load.
+
+
+Fault Tolerance:
+
+The system is designed to handle node failures without data loss or interruption in processing.
+Copies of data (replicas) are stored on multiple nodes, so if one node fails,
+the data can be retrieved from another.
+
+
+Efficiency:
+
+By distributing both the data and the computation,
+the overall processing time is significantly reduced, making it feasible to work with very large datasets.
+
+
+Example:
+In Hadoop, HDFS (Hadoop Distributed File System) is used to store large data files across multiple nodes.
+A MapReduce job can then process these files concurrently, with each node handling a portion of the data.
+This distributed processing allows for faster and more efficient data analysis,
+even with datasets that are terabytes or petabytes in size.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Data Warehousing is the process of collecting, storing, and managing large volumes of data
+from various sources to provide meaningful business insights.
+It involves the consolidation of data from multiple disparate sources into a centralized repository,
+designed to support query and analysis rather than transaction processing.
+
+
+
+Key Components of Data Warehousing:
+
+Data Sources:
+
+Data comes from various operational systems, external sources, and databases.
+This data might be structured (e.g., relational databases) or unstructured (e.g., text files, logs).
+
+
+ETL Process (Extract, Transform, Load):
+
+Extract: Data is extracted from different sources.
+Transform: Data is cleaned, formatted, and transformed to fit the schema of the data warehouse.
+Load: The transformed data is loaded into the data warehouse.
+
+
+Data Warehouse:
+
+A large-scale database that stores the integrated data in a structured format.
+It is optimized for fast query performance and supports complex queries and analysis.
+
+
+Data Marts:
+
+Subsets of the data warehouse that focus on specific business areas,
+such as finance, sales, or marketing, to provide more targeted analysis.
+
+
+OLAP (Online Analytical Processing):
+
+A technology that enables users to perform multidimensional analysis of data,
+such as slicing, dicing, drilling down, and rolling up data.
+
+
+Metadata:
+
+Information about the data, including its source, transformation rules, and structure.
+Metadata helps in understanding and managing the data in the warehouse.
+
+
+Reporting and Analysis Tools:
+
+Tools like Tableau, Power BI, or custom applications are used to create dashboards, reports,
+and visualizations based on the data stored in the warehouse.
+
+
+Purpose of Data Warehousing:
+
+Business Intelligence:
+
+Data warehouses provide a foundation for business intelligence activities,
+allowing organizations to generate reports, dashboards, and visualizations that inform decision-making.
+
+
+Historical Data Analysis:
+
+They store historical data, enabling trend analysis over time,
+which is critical for forecasting and strategy development.
+
+
+Data Integration:
+
+By integrating data from various sources, a data warehouse provides a unified view of the organization`s data,
+eliminating inconsistencies and improving data quality.
+
+
+Performance Optimization:
+
+Data warehouses are designed to handle complex queries and large datasets efficiently, providing faster access
+to data for analytical purposes compared to traditional databases.
+
+
+
+Example Use Case:
+
+A retail company might use a data warehouse to consolidate data from its online store, physical stores,
+and customer loyalty program. By analyzing this data, the company can gain insights into customer behavior,
+optimize inventory levels, and create targeted marketing campaigns.
+
+
+Summary:
+
+Data warehousing is a critical component of data management that enables organizations to centralize
+and analyze large volumes of data. It supports decision-making processes by providing quick access to
+integrated, historical, and accurate data, allowing businesses to gain insights, optimize operations,
+and improve overall performance.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Hadoop commands
+
+
+Ls command to list the files/folders
+
+ls
+
+
+mkdir Hadoop: to create a folder
+
+mkdir 
+
+
+cd     : to change the directory
+cd Hadoop/ 
+
+
+Now create a file inside this hadoop folder as below:
+Vi command to create a new file.
+
+
+Press `i` to go on edit mode in this file and type any content as per your wish.
+
+Once text is typed, press `escape` and then :wq
+
+esc and ":wq"
+
+To see the content of the file do as below: use cat command
+
+cat hi.txt 
+
+The above are all simple commands. 
+Now let`s create a folder on our HDFS system (Hadoop file system) and learn the new commands:
+
+
+hdfs dfs is Hadoop specific commands. (Hadoop Distributed File system)
+
+
+hdfs dfs -mkdir /hadoopFolder
+
+hdfs dfs -mkdir /newFolder
+
+
+Lets copy the local file hello.txt onto the HDFS system as below:
+hdfs dfs -put hello.txt /hadoopFolder/hadoopFile.txt
+here we are copying the data of hello.txt onto a new file on HDFS system called hadoopFile.txt
+put: command to copy a file from local machine to HDFS system.
+
+
+hdfs dfs -put hello.txt/hadoopFolder/hadoopFile.txt
+
+This way we were able to move a local file of our computer onto the HDFS system.
+
+open hdfs file 
+
+hdfs dfs -cat /hadoopFolder/hadoopFile.txt 
+
+get command: to move the file from HDFS to local system.
+
+hdfs dfs -get /hadoopFolder/hadoopFile.txt
+
+The below commands are similar to that of put command which copies the local file into hdfs system.
+
+hadoop fs -copyFromLocal hello.txt /hadoopFolder
+
+hadoop fs -ls /hadoopFolder
+
+
+
+HADOOP MAPREDUCE example using a WordCount program:
+---------------------------------------------------
+
+
+
+We need to now create a simple text file for Word counting purpose:
+Create a WCFile.txt using cat command as below.
+Once done with entering the text , press ctrl-z to exit.
+--------------------------------------------------------------------
+
+
+cat > /home/cloudera/WCFile.txt 
+
+
+
+
+hdfs dfs -mkdir /inputWC 
+
+hdfs dfs -ls /
+
+
+
+
+Now lets create a folder in the hdfs system to store this WCFile.txt
+Named the folder as inputWC
+-----------------------------------------------------------------------------
+
+
+hdfs dfs -put /home/cloudera/WCFile.txt /inputWC/
+
+
+
+Lets put this WCFile.txt onto the HDFS system:
+Use the put command as below and also cross check the data using cat command
+-----------------------------------------------------------------------------
+
+hdfs dfs -cat /inputWC/WCFile.txt
+
+
+
+Now lets execute the jar file for wordCounting
+--------------------------------------------------------------
+
+
+hadoop jar /home/cloudera/WordCount.jar  WCDriver /inputWC/WCFile.txt /outWC
+-----------------------------------------------------------------------------
+
+
+The command to execute the jar file
+hadoop jar /home/cloudera/WordCount.jar  WCDriver /inputWC/WCFile.txt /outWC
+Explaining the above command:
+Hadoop jar -> this is a command to execute the jar file
+/home/cloudera/WordCount.jar -> this is the location where our jar is located. WordCount.jar is the one which had exported from eclipse.
+WCDriver -> This is a main java class which will be executed. [Refer the below code in eclipse]
+/inputWC/WCFile.txt -> this is the file on hdfs which has the data to be counted.
+/outWC -> this folder gets created once the below command is processed and stores the output.
+
+
+To check the output execute as below
+------------------------------------
+
+hdfs dfs -ls /outWC
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
