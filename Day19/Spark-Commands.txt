@@ -1,0 +1,336 @@
+We can launch interactive shell using
+
+Scala = spark-shell
+Python = pyspark
+SparkR
+
+--------------------------------------------------------------------------------------------
+
+We will go with - pyspark 
+
+--------------------------------------------------------------------------------------------
+
+Open ur cloudera terminal
+
+
+0. work on spark using Python
+
+--pyspark
+
+// Explaination
+
+    pyspark - work on spark using Python
+
+--------------------------------------------------------------------------------------------
+
+1. Using dataframe in pyspark
+
+    data = [("Java","1"),("Scala","2"),("Python","3")]
+    df=spark.createDataFrame(data)
+    df.show()
+
+
+    data2 = [("Java",1),("Scala",2),("Python",3)]
+    df2=spark.createDataFrame(data2)
+    df2.show()
+
+
+// Explaination 
+
+Define Data:
+
+--data = [("Java", "1"), ("Scala", "2"), ("Python", "3")]
+
+    A list of tuples representing programming languages and numbers
+
+Create DataFrame:
+
+--df = spark.createDataFrame(data)
+
+    Converts the list into a Spark DataFrame.
+
+Display DataFrame:
+
+--df.show()
+
+--------------------------------------------------------------------------------------------
+
+
+2. Using SparkContext and SparkSession
+
+
+    from pyspark.sql import SparkSession
+
+    spark = SparkSession.builder.master("local[1]") \ 
+    .appName('SparkByExamples.com') \
+    .getOrCreate()
+
+    print(spark.sparkContext)
+
+    print("Spark App Name : "+spark.sparkContext.appName)
+
+
+// Explaination
+
+--from pyspark.sql import SparkSession
+    
+    imports the SparkSession class from the pyspark.sql module in PySpark.
+    SparkSession: This is the entry point to work with DataFrames and Datasets in PySpark.
+
+    By importing SparkSession, you're preparing to initialize a session that will allow you 
+    to work with data in a distributed environment using Spark's capabilities.
+
+
+--spark = SparkSession.builder.master("local[1]") \ 
+  .appName('SparkByExamples.com') \
+  .getOrCreate()
+
+
+  initializes a SparkSession in PySpark
+  SparkSession.builder: Creating a SparkSession.
+  master("local[1]"): Specifies that Spark will run locally with a single thread.
+  appName('SparkByExamples.com'): Sets the name of the Spark application.
+  getOrCreate(): Creates the SparkSession if it doesn't exist; otherwise, it retrieves the existing session.
+
+  This code sets up a SparkSession named "SparkByExamples.com" to run locally with one thread, enabling you to use Spark's DataFrame
+  and SQL functionality in a single-node environment.
+
+--------------------------------------------------------------------------------------------
+
+3. SparkContext:
+
+from pyspark import SparkContext
+sc = SparkContext("local","Spark_Example_App")
+print(sc.appName)
+
+
+// Explaination
+
+--from pyspark import SparkContext
+    initializes a SparkContext in PySpark:
+
+--sc = SparkContext("local","Spark_Example_App")
+    SparkContext("local", "Spark_Example_App"):
+    "local": Runs the application locally on a single machine.
+    "Spark_Example_App": Sets the name of the Spark application.
+
+--print(sc.appName)
+    Prints the name of the Spark application.
+
+--------------------------------------------------------------------------------------------
+
+4.Different ways of creating SpringContext
+
+from pyspark import SparkConf , SparkContext
+conf = SparkConf()
+conf.setMaster("local").setAppName("Spark Example App")
+sc = SparkContext.getOrCreate(conf)
+print(sc.appName)
+
+
+// Explaination
+
+--from pyspark import SparkConf , SparkContext
+     initializes a SparkContext with custom configuration in PySpark:
+    
+--conf = SparkConf()
+
+    SparkConf(): Creates a SparkConf object to configure the Spark application.
+
+--conf.setMaster("local").setAppName("Spark Example App")
+
+    setMaster("local"): Configures the application to run locally.
+    setAppName("Spark Example App"): Sets the application's name.
+
+--sc = SparkContext.getOrCreate(conf)
+
+    Creates a SparkContext using the provided configuration, or retrieves an existing one if it already exists.
+
+--print(sc.appName)
+    Prints the name of the Spark application.
+
+
+--------------------------------------------------------------------------------------------
+
+5.Creating pyspark RDD:
+
+rdd = spark.sparkContext.range(1,5)
+print(rdd.collect())
+
+//Explaination
+
+--spark.sparkContext.range(1, 5):
+
+    Creates an RDD containing a range of numbers from 1 to 4 (the range is inclusive of the start value and exclusive of the end value).
+
+--rdd.collect():
+
+    Collects the RDD elements into a list and brings them to the driver program.
+
+--print(rdd.collect()):
+
+    Prints the list of elements in the RDD, which will be [1, 2, 3, 4].
+
+--------------------------------------------------------------------------------------------
+
+6.Create a RDD using Parallelize
+
+rdd = spark.sparkContext.parallelize([1,2,3,4,5,6])
+rdd.collect()
+
+//Explaination
+
+--spark.sparkContext.parallelize([1,2,3,4,5,6]):
+
+    parallelize([1,2,3,4,5,6]): Converts the local list [1,2,3,4,5,6] into an RDD.
+    This method distributes the list's elements across the Spark cluster.
+
+--rdd.collect():
+
+    collect(): Retrieves all elements of the RDD 
+    and brings them to the driver program as a list.
+
+--------------------------------------------------------------------------------------------
+
+7.DataFrame example
+
+data = [('James','','Smith','1991-04-01','M',3000),
+        ('Michael','Rose','','2000-05-19','M',4000),
+        ('Robert','','Williams','1978-09-05','M',4000),
+        ('Maria','Anne','Jones','1967-12-01','F',4000),
+        ('Jen','Mary','Brown','1980-02-17','F',-1)
+        ]
+
+columns = ["firstname","middlename","lastname","dob","gender","salary"]
+
+df = spark.createDataFrame(data=data, schema = columns)
+
+df.show()
+
+--------------------------------------------------------------------------------------------
+
+8.Sorting a Dataframe:
+
+import pyspark
+
+from pyspark.sql import SparkSession 
+
+simpleData = [("James","Sales","NY",90000,34,10000),
+              ("Michael","Sales","NY",86000,56,20000),
+              ("Robert","Sales","CA",81000,30,23000),
+              ("Maria","Finance","CA",99000,24,23000),
+              ("Roman","Finance","CA",90000,34,10000),
+              ("Scott","Finance","NY",90000,34,10000),
+              ("Jen","Finance","NY",90000,34,10000),
+              ("Jeff","Marketing","CA",90000,34,10000),
+              ("Kumar","Marketing","NY",91000,50,10000)
+            ]
+
+columns = ["Employee_Name","Department","State","Salary","Age","Bonus"]
+
+df = spark.createDataFrame(data = simpleData,schema = columns)
+
+df.printSchema()
+
+df.show()
+
+df.show(truncate=False)
+
+df.sort("department","state").show(truncate=False)
+
+df.sort("department")
+
+--------------------------------------------------------------------------------------------
+
+
+9.PySpark example to filter null values
+
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col
+
+spark = SparkSession.builder.master("local[1]").appName("SparkByExamples.com").getOrCreate()
+
+data = [
+    ("James",None,"M"),
+    ("Anna","NY","F"),
+    ("Julia",None,None)
+]
+
+columns = ["name","state","gender"]
+
+df = spark.createDataFrame(data,columns)
+
+df.printSchema()
+
+df.show()
+
+
+//filter null values
+
+df.createOrReplaceTempView("DATA")
+
+spark.sql("SELECT * FROM DATA where STATE IS NULL").show()
+
+spark.sql("SELECT * FROM DATA where STATE IS NULL AND GENDER IS NULL").show()
+
+spark.sql("SELECT * FROM DATA where STATE IS NOT NULL").show()
+
+df.filter("state is not NULL").show()
+
+df.filter("NOT state is NULL").show()
+
+df.filter(df.state.isNotNull()).show()
+
+df.filter(col("state").isNotNull()).show()
+
+df.filter("state is NULL").show()
+
+df.filter("state is NULL").show()
+
+df.filter(df.state.isNull()).show()
+
+df.filter(col("state").isNull()).show()
+--------------------------------------------------------------------------------------------
+
+10. pyspark SQL 
+
+data = [("Alice",25),("Bob",30),("Carol",35)]
+
+schema = ["name","age"]
+
+df = spark.createDataFrame(data,schema=schema)
+
+df.show()
+
+#register as a temporary table
+
+df.createOrReplaceTempView("people")
+
+# select rows where age is greater than 30 
+
+result = spark.sql("SELECT * FROM people WHERE age >30")
+
+result.show()
+
+result = spark.sql("SELECT * FROM people WHERE age <30")
+
+result.show()
+
+
+--------------------------------------------------------------------------------------------
+
+Joining 2 Tables 
+
+#create second data frame 
+
+data2 = [("Alice","Engineer"),("Bob","Data Scientist"),("Eve","Designer")]
+schema2 = ["name","occupation"]
+df2=spark.createDataFrame(data2,schema=schema2)
+
+df2.createOrReplaceTempView("occupations")
+
+result = spark.sql("SELECT p.name, p.age, o.occupation FROM people p JOIN occupations o ON p.name = o.name")
+
+result.show()
+--------------------------------------------------------------------------------------------
