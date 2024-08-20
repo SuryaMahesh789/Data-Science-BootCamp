@@ -1,0 +1,120 @@
+yt - https://youtu.be/v_uodKAywXA?si=RbV76LHuAvnJsRfT
+
+----------------------------------------------------------------------------------------------------------
+
+
+What is Apache Spark?
+Apache Spark is an open-source, distributed computing system designed for processing large datasets
+quickly and efficiently. It extends the MapReduce model with a more flexible data processing framework
+that supports in-memory computations, allowing for faster processing compared to traditional disk-based
+processing systems like Hadoop MapReduce.
+
+----------------------------------------------------------------------------------------------------------
+
+Key Features of Apache Spark:
+
+
+Speed: Spark processes data in-memory,
+        which significantly reduces the time for processing large datasets compared to disk-based systems.
+
+Ease of Use: It provides high-level APIs in Java, Scala, Python, and R,
+            making it easier for developers and data scientists to work with data.
+
+General-Purpose Engine: Spark supports a wide range of workloads,
+                        including batch processing, interactive queries,
+                        real-time streaming, machine learning, and graph processing.
+
+Distributed Computing: Spark can be scaled across multiple nodes in a cluster,
+                        enabling parallel processing of tasks.
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+Components of Apache Spark:
+
+
+Spark Core: The foundation of Spark, responsible for basic I/O functionalities, task scheduling, and memory management.
+
+Spark SQL: Allows users to execute SQL queries, interact with DataFrames and Datasets, and integrates with databases.
+
+Spark Streaming: Facilitates real-time processing of streaming data.
+
+MLlib: A library for machine learning algorithms that run on top of Spark.
+
+GraphX: A library for graph processing and computation.
+
+
+----------------------------------------------------------------------------------------------------------
+
+Use Cases of Apache Spark:
+
+Data Processing: Batch processing large datasets from various sources (e.g., Hadoop HDFS, Apache Cassandra).
+Commands in Apache Spark:
+Basic Commands:
+
+Create RDD: rdd = spark.sparkContext.parallelize([1, 2, 3, 4, 5])
+Transformations: rdd.map(lambda x: x*2)
+Actions: rdd.collect()
+DataFrame Operations:
+
+Create DataFrame: df = spark.createDataFrame(data)
+Show Data: df.show()
+SQL Queries: df.createOrReplaceTempView("table"), spark.sql("SELECT * FROM table")
+Spark SQL:
+
+Start Session: spark = SparkSession.builder.appName("App").getOrCreate()
+Query: df = spark.sql("SELECT * FROM table")
+Summary:
+Apache Spark is a versatile and powerful tool for distributed data processing, enabling fast computations on large datasets across various domains like data processing, real-time analytics, machine learning, and graph computation.Real-Time Data Processing: Analyzing streaming data in real-time (e.g., log monitoring, fraud detection).
+Data Warehousing: Running SQL queries on large data lakes using Spark SQL.
+Graph Processing: Analyzing complex networks like social graphs using GraphX.
+
+----------------------------------------------------------------------------------------------------------
+
+
+from pyspark.sql import SparkSession
+spark=SparkSession.builder.getOrCreate()
+spark
+
+file_path="D:\OneDrive - TVS Motor Company Ltd\Desktop\TRAINING\Day20\Educational_Universities_data.csv"
+
+tips=spark.read.csv(file_path,header=True)
+tips.show()
+
+type(tips)
+
+tips.createOrReplaceTempView("tips")
+
+QUERY_TIPS= "SELECT * from tips LIMIT 10"
+
+tips10=spark.sql(QUERY_TIPS)
+
+tips10.show()
+
+tips10_df=tips10.toPandas()
+
+tips10_df
+
+university_query = "SELECT Country,State,School,Ranking FROM tips order by Ranking ASC"
+
+tips_university = spark.sql(university_query)
+
+pd_university=tips_university.toPandas()
+
+pd_university.head()
+
+----------------------------------------------------------------------------------------------------------
+
+goto anaconda prompt - type jupyter notebook
+
+PySpark DataFrames
+
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+
