@@ -1,0 +1,96 @@
+https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/1-introduction
+
+https://learn.microsoft.com/en-us/kusto/query/queries?view=azure-data-explorer&preserve-view=true
+
+https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference?view=azure-data-explorer&preserve-view=true
+
+https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-kql/7-exercise?tabs=azure-data-explorer
+------------------------------------------------------------------------------------------------------------------------------
+
+What's a Kusto query?
+A Kusto query is a read-only request to process data and return results. The request is stated in plain text that's easy to read, author, and automate. A Kusto query has one or more query statements and returns data in a tabular or graph format.
+
+Tabular query statements contain zero or more operators. Each operator starts with a tabular input and returns a tabular output. Operators are sequenced by a pipe (|). Data flows, or is piped, from one operator to the next. The data is filtered or manipulated at each step and fed into the following step.
+
+Think of it like a funnel, where you start out with an entire data table. Each time the data passes through another operator, it's filtered, rearranged, or summarized. Because the piping of information from one operator to another is sequential, the query's operator order is important. At the end of the funnel, you're left with a refined output.
+
+These operators are KQL-specific, although they often have parallels to SQL or other languages.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Count the number of records by using the count operator.
+Return a specific number or rows by using the take operator.
+Select columns to return by using the project operator.
+Filter data by using the where operator.
+Reorder returned data by using the sort operator.
+Build queries by using multiple operators.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+What if you want to remove a few select columns?
+
+
+StormEvents
+| project-away EpisodeId, EventId
+| take 10
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+StormEvents
+| where DamageProperty > 0
+| where StartTime > ago(365d)
+| project State, EventType, DamageProperty
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Use the top operator
+
+StormEvents
+| where State == "FLORIDA"
+| top 10 by DamageProperty
+| project State, EventType, DamageProperty
+
+------------------------------------------------------------------------------------------------------------------------------
+
+let state = "TEXAS";
+let injuryThreshold = 10;
+StormEvents
+| where State == state and InjuriesDirect + InjuriesIndirect > injuryThreshold
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Run sample query
+The following query answers the question, "What were the top 10 most recently enabled storage resources?"
+
+Kusto
+
+Copy
+resources
+| where type contains 'storage'
+| sort by todatetime(properties.encryption.services.blob.LastEnabledTime)
+| take 10
+Here's a step-by-step analysis of how the query processes the data.
+
+The query begins with the Resources table as the tabular input.
+It filters on records for which the type column contains the term storage.
+The resulting list is sorted in descending order based on the LastEnabledTime value in the dynamic field called properties.
+Finally, the top 10 records are returned.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+What will we be doing?
+You'll write queries in the Kusto Query Language (KQL) to explore and gain insights from a sample dataset. You'll learn how to:
+
+Group data using aggregation functions.
+Count events using the count(), dcount(), countif() functions.
+Summarize data using sum(), avg(), min(), max(), and percentiles() functions.
+Visualize data using the render operator.
+Introduce variables using the let statement.
+
+------------------------------------------------------------------------------------------------------------------------------
+
