@@ -1,0 +1,98 @@
+.show databases
+
+.show tables 
+
+Educational_Universities_data
+
+Educational_Universities_data
+| take 10
+
+// ordering data 
+
+Educational_Universities_data
+| sort by State desc
+| take 10
+
+Educational_Universities_data
+| sort by Ranking asc
+| take 10
+
+
+// filtering with where
+
+Educational_Universities_data | where Country == "Australia" and State == "New South Wales"
+
+Educational_Universities_data | where Country == "Australia" and State == "New South Wales" | take 10
+
+Educational_Universities_data | where Country == "Australia" and State == "New South Wales" | sort by School asc | take 10
+
+// counting 
+
+Educational_Universities_data | count
+
+// grouping and summarizing data
+
+Educational_Universities_data | summarize  Count = count() by State
+
+Educational_Universities_data | summarize  Count = count() by Country
+
+Educational_Universities_data | summarize  SchoolCount = count() by School
+
+// Render data in columnchart
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | render columnchart 
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount > 10 | render columnchart
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | project School,SchoolCount
+
+
+
+
+// joining tables
+
+Educational_Universities_data | join universities_data on $left.Country == $right.Country
+
+Educational_Universities_data | join universities_data on $left.Country == $right.Country | take 10
+
+Educational_Universities_data | join universities_data on $left.Country == $right.Country | sort by State | take 10
+
+Educational_Universities_data | join Educational_Institutions on $left.State == $right.State
+
+Educational_Universities_data | join Educational_Institutions on $left.State == $right.State | take 10
+
+Educational_Universities_data | join Educational_Institutions on $left.State == $right.State | sort by Country | take 10
+
+// distinct values 
+
+Educational_Universities_data | distinct State
+
+Educational_Universities_data | distinct Country
+
+Educational_Universities_data | distinct State | count
+
+Educational_Universities_data | distinct Country | count 
+
+// get only specific columns 
+
+Educational_Universities_data | project Country,State,Ranking
+
+// display 10 rows and specific columns 
+
+Educational_Universities_data | take 10 | project Country,State,Ranking 
+
+Educational_Universities_data | sort by Ranking | project Country,State,Ranking
+
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | render columnchart
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | sort by SchoolCount asc | render columnchart
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | sort by SchoolCount asc | render areachart
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | sort by SchoolCount asc | render linechart 
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | sort by SchoolCount asc | render barchart 
+
+Educational_Universities_data | summarize  SchoolCount = count() by School | where SchoolCount >= 0 | sort by SchoolCount asc | render piechart  
+
