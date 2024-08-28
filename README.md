@@ -20,6 +20,14 @@
 ### 10.Web Scraping
 ### 11.Hadoop
 ### 12.Spark - PySpark
+### 13.Azure
+      i.   Azure Data Explorer
+      ii.  statistics
+      iii. Data Preprocessing
+      iv.  Data Analysis
+            I. Anomaly Detection in Transactions
+            II. Water Quality Analysis
+      
 
 
 
