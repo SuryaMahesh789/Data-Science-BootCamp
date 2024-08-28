@@ -23,10 +23,7 @@
 ### 13.Azure
       i.   Azure Data Storage
       ii.  Azure Data Explorer
-      iii. Data Preprocessing
-      iv.  Data Analysis
-            I. Anomaly Detection in Transactions
-            II. Water Quality Analysis
+      iii. Azure Data Bricks
       
 
 
