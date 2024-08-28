@@ -1,0 +1,248 @@
+Country,State,University Name,Type of University,Tie Up with University,School,Technologies/Courses Offered,Course Types,Unplaced %,Corporate Tie Up,Job Offering,Internship,Marketing Strategy,Costing,Hackathons,Services Offered,Scholarships,Tier,Ranking
+Australia,Australian Capital Territory,Australian National University (ANU),Public,No,Science,Cyber Security,Full-time,6.59,No,Yes,No,Traditional,$41874,Yes,Consulting,No,Tier 3,24
+Australia,Australian Capital Territory,University of Canberra,Public,Yes,Science,ML,Online,6.87,No,No,No,Traditional,$18404,Yes,Training,No,Tier 1,336
+Australia,New South Wales,University of Sydney,Private,Yes,Engineering,AI,Full-time,10.78,Yes,No,No,Both,$39218,Yes,Both,No,Tier 1,19
+Australia,New South Wales,University of New South Wales (UNSW Sydney),Private,Yes,Arts,IoT,Part-time,5.23,No,No,No,Both,$19648,Yes,Consulting,No,Tier 1,429
+Australia,New South Wales,University of Newcastle,Private,Yes,Engineering,Cyber Security,Part-time,16.04,No,Yes,No,Traditional,$21278,Yes,Both,Yes,Tier 2,132
+Australia,New South Wales,University of Wollongong,Private,No,Arts,AI,Full-time,7.88,Yes,Yes,No,Traditional,$15774,Yes,Both,Yes,Tier 1,56
+Australia,New South Wales,Macquarie University,Private,No,Business,Cyber Security,Part-time,19.41,No,Yes,Yes,Digital,$34490,Yes,Both,Yes,Tier 1,648
+Australia,New South Wales,University of Technology Sydney (UTS),Private,No,Science,Data Science,Part-time,5.95,Yes,No,Yes,Traditional,$32846,Yes,Both,Yes,Tier 1,940
+Australia,New South Wales,Charles Sturt University,Public,No,Science,Data Science,Full-time,15.63,No,Yes,Yes,Both,$22312,No,Both,No,Tier 1,9
+Australia,New South Wales,Southern Cross University,Private,No,Arts,IoT,Part-time,7.97,Yes,No,No,Traditional,$28211,Yes,Both,No,Tier 1,650
+Australia,New South Wales,University of Divinity,Public,No,Business,ML,Full-time,19.61,No,No,Yes,Digital,$36941,Yes,Both,No,Tier 1,868
+Australia,Victoria,University of Melbourne,Public,Yes,Arts,Cyber Security,Online,9.17,Yes,No,No,Traditional,$14584,Yes,Both,Yes,Tier 1,722
+Australia,Victoria,Monash University,Private,Yes,Science,Cyber Security,Online,15.64,No,Yes,No,Both,$33250,No,Consulting,Yes,Tier 1,505
+Australia,Victoria,RMIT University,Public,No,Arts,AI,Full-time,12.7,No,No,No,Both,$37466,Yes,Both,No,Tier 2,240
+Australia,Victoria,Deakin University,Private,Yes,Business,ML,Part-time,16.72,Yes,Yes,No,Both,$45827,Yes,Training,Yes,Tier 2,957
+Australia,Victoria,La Trobe University,Public,Yes,Business,AI,Full-time,15.72,Yes,Yes,Yes,Both,$49984,No,Consulting,No,Tier 2,250
+Australia,Victoria,Victoria University,Private,No,Science,Data Science,Online,10.62,Yes,No,No,Digital,$34270,Yes,Consulting,No,Tier 2,43
+Australia,Queensland,University of Queensland (UQ),Private,No,Business,Cyber Security,Online,7.73,Yes,No,Yes,Digital,$13507,No,Both,No,Tier 1,202
+Australia,Queensland,Queensland University of Technology (QUT),Public,No,Science,IoT,Online,9.03,No,No,No,Traditional,$15391,No,Training,Yes,Tier 1,879
+Australia,Queensland,Griffith University,Public,Yes,Engineering,IoT,Online,8.22,Yes,No,Yes,Digital,$41341,Yes,Training,No,Tier 2,480
+Australia,Queensland,Bond University,Private,No,Engineering,ML,Online,5.93,No,Yes,Yes,Both,$28163,Yes,Training,No,Tier 1,350
+Australia,Queensland,Central Queensland University,Public,No,Arts,AI,Full-time,8.33,Yes,No,No,Both,$14362,No,Both,No,Tier 3,205
+Australia,Queensland,University of the Sunshine Coast,Private,Yes,Business,AI,Online,7.82,No,No,No,Traditional,$44559,No,Training,No,Tier 1,431
+Australia,Western Australia,University of Western Australia (UWA),Public,Yes,Arts,IoT,Full-time,18.43,Yes,Yes,Yes,Traditional,$40115,No,Both,No,Tier 1,784
+Australia,Western Australia,Curtin University,Private,No,Science,Cyber Security,Part-time,14.07,Yes,No,Yes,Digital,$36047,Yes,Consulting,Yes,Tier 1,726
+Australia,Western Australia,Edith Cowan University (ECU),Private,No,Engineering,Cyber Security,Full-time,11.01,Yes,No,No,Traditional,$31792,No,Consulting,Yes,Tier 2,213
+Australia,South Australia,University of Adelaide,Public,Yes,Arts,Cyber Security,Online,15.66,No,No,No,Digital,$31060,No,Consulting,Yes,Tier 3,266
+Australia,South Australia,University of South Australia (UniSA),Private,No,Business,Cyber Security,Part-time,12.55,No,No,Yes,Digital,$29157,No,Training,No,Tier 1,799
+Australia,South Australia,Flinders University,Private,Yes,Engineering,ML,Online,13.7,Yes,Yes,No,Digital,$48784,Yes,Training,Yes,Tier 3,587
+Australia,Tasmania,University of Tasmania,Public,Yes,Science,Cyber Security,Full-time,12.93,Yes,Yes,No,Both,$27654,Yes,Consulting,No,Tier 3,35
+Australia,Northern Territory,Charles Darwin University,Public,No,Engineering,Data Science,Online,16.29,Yes,No,No,Traditional,$22273,Yes,Training,Yes,Tier 3,922
+Australia,Multi-State,Australian Catholic University (ACU),Private,No,Science,ML,Full-time,19.74,No,Yes,No,Digital,$38849,Yes,Training,No,Tier 3,371
+UAE,Dubai,American University in Dubai (AUD),Public,Yes,Science,Data Science,Online,17.44,Yes,Yes,Yes,Traditional,$31907,No,Consulting,No,Tier 1,217
+UAE,Dubai,University of Dubai,Public,No,Science,IoT,Online,8.59,No,No,No,Traditional,$22843,No,Both,No,Tier 1,292
+UAE,Dubai,Mohammed bin Rashid University of Medicine and Health Sciences,Public,Yes,Arts,Data Science,Online,10.18,Yes,Yes,Yes,Traditional,$23316,Yes,Consulting,No,Tier 3,537
+UAE,Dubai,Dubai Institute of Design and Innovation (DIDI),Public,Yes,Business,IoT,Part-time,18.05,No,Yes,Yes,Traditional,$15114,No,Training,No,Tier 3,179
+UAE,Dubai,University of the Arts London - Dubai,Private,Yes,Arts,ML,Online,15.2,Yes,No,No,Traditional,$10037,Yes,Consulting,No,Tier 1,729
+UAE,Dubai,British University in Dubai,Private,No,Arts,Data Science,Online,7.61,No,No,Yes,Both,$33876,No,Consulting,No,Tier 1,923
+UAE,Dubai,Dubai Medical College,Public,No,Engineering,IoT,Full-time,15.91,No,Yes,Yes,Both,$49307,No,Both,No,Tier 3,353
+UAE,Dubai,Heriot-Watt University - Dubai,Public,No,Science,IoT,Online,13.86,Yes,Yes,Yes,Traditional,$13666,No,Both,Yes,Tier 2,929
+UAE,Abu Dhabi,Khalifa University,Private,Yes,Engineering,Cyber Security,Part-time,11.73,No,No,No,Digital,$38678,No,Both,No,Tier 3,749
+UAE,Abu Dhabi,Zayed University,Public,No,Engineering,Data Science,Full-time,12.7,Yes,Yes,No,Digital,$30609,Yes,Training,Yes,Tier 2,509
+UAE,Abu Dhabi,Abu Dhabi University,Private,Yes,Arts,AI,Full-time,15.02,No,Yes,Yes,Traditional,$49091,Yes,Both,No,Tier 2,680
+UAE,Sharjah,American University of Sharjah (AUS),Private,Yes,Science,AI,Online,5.5,Yes,No,No,Traditional,$35819,No,Both,No,Tier 2,441
+UAE,Sharjah,University of Sharjah,Public,No,Science,ML,Full-time,6.86,Yes,Yes,No,Both,$40783,Yes,Training,No,Tier 3,399
+UAE,Sharjah,Skyline University College,Public,No,Science,Cyber Security,Online,5.68,Yes,Yes,No,Digital,$19992,Yes,Both,No,Tier 2,518
+UAE,Ajman,Gulf Medical University,Public,No,Business,AI,Online,6.56,Yes,No,No,Traditional,$37255,Yes,Both,No,Tier 1,761
+UAE,Ajman,Gulf University,Private,Yes,Engineering,ML,Online,8.33,No,No,Yes,Traditional,$33607,No,Consulting,Yes,Tier 2,322
+UAE,Ras Al Khaimah,American University of Ras Al Khaimah,Private,Yes,Business,Data Science,Online,5.38,No,Yes,Yes,Both,$38524,No,Training,No,Tier 3,427
+UAE,Fujairah,University of Fujairah,Private,No,Arts,Cyber Security,Online,9.66,Yes,No,Yes,Both,$45055,Yes,Training,No,Tier 2,589
+Saudi Arabia,Riyadh,King Saud University,Private,Yes,Engineering,ML,Online,9.4,No,Yes,Yes,Both,$32198,No,Training,No,Tier 2,664
+Saudi Arabia,Riyadh,Prince Sultan University,Private,No,Arts,ML,Part-time,14.01,Yes,No,Yes,Traditional,$24836,No,Training,No,Tier 3,335
+Saudi Arabia,Riyadh,King Saud bin Abdulaziz University for Health Sciences,Private,Yes,Science,ML,Full-time,12.49,Yes,No,No,Digital,$37260,Yes,Consulting,Yes,Tier 2,193
+Saudi Arabia,Riyadh,Al-Yamamah University,Public,No,Engineering,ML,Part-time,16.27,Yes,Yes,Yes,Digital,$49673,No,Consulting,No,Tier 3,951
+Saudi Arabia,Riyadh,Saudi Electronic University,Public,No,Business,ML,Online,15.33,Yes,No,No,Traditional,$38323,No,Consulting,Yes,Tier 2,611
+Saudi Arabia,Riyadh,Al-Faisal University,Public,Yes,Science,IoT,Full-time,5.93,No,No,Yes,Traditional,$45570,No,Training,No,Tier 1,136
+Saudi Arabia,Riyadh,King Saud University College of Engineering,Public,No,Science,ML,Part-time,8.4,No,No,Yes,Traditional,$12132,No,Both,No,Tier 3,892
+Saudi Arabia,Riyadh,King Saud University College of Medicine,Private,Yes,Arts,Cyber Security,Online,16.96,Yes,No,No,Digital,$19813,Yes,Both,No,Tier 3,724
+Saudi Arabia,Riyadh,King Saud University College of Business Administration,Private,Yes,Arts,Cyber Security,Part-time,8.73,Yes,Yes,Yes,Both,$38970,Yes,Both,No,Tier 1,636
+Saudi Arabia,Jeddah,King Abdulaziz University,Public,No,Business,ML,Full-time,12.81,Yes,No,No,Traditional,$13623,No,Both,Yes,Tier 2,905
+Saudi Arabia,Jeddah,Dar Al-Hekma University,Private,No,Business,Data Science,Online,10.65,No,No,Yes,Traditional,$24645,No,Training,Yes,Tier 2,785
+Saudi Arabia,Jeddah,University of Business and Technology,Private,No,Science,ML,Part-time,13.06,No,Yes,No,Digital,$11083,No,Consulting,Yes,Tier 2,463
+Saudi Arabia,Jeddah,King Abdulaziz University for Health Sciences,Private,No,Business,Data Science,Online,7.47,Yes,Yes,Yes,Digital,$35018,No,Consulting,Yes,Tier 1,368
+Saudi Arabia,Dhahran,King Fahd University of Petroleum and Minerals,Private,No,Business,IoT,Full-time,17.52,Yes,Yes,Yes,Traditional,$44881,No,Both,No,Tier 3,672
+Saudi Arabia,Abha,King Khalid University,Private,No,Engineering,IoT,Online,19.75,Yes,Yes,Yes,Both,$47781,Yes,Both,Yes,Tier 1,898
+Saudi Arabia,Dammam,Imam Abdulrahman Bin Faisal University,Private,Yes,Engineering,IoT,Full-time,13.7,No,No,No,Digital,$21270,No,Both,Yes,Tier 2,980
+Saudi Arabia,Dammam,University of Dammam,Public,No,Arts,IoT,Part-time,16.16,Yes,No,Yes,Digital,$42379,Yes,Training,Yes,Tier 3,970
+Saudi Arabia,Dammam,Prince Mohammad Bin Fahd University,Public,No,Science,IoT,Part-time,17.54,No,No,Yes,Digital,$15340,No,Both,No,Tier 1,108
+Saudi Arabia,Tabuk,University of Tabuk,Public,No,Arts,IoT,Full-time,8.68,No,No,Yes,Traditional,$27509,No,Training,Yes,Tier 3,173
+Saudi Arabia,Hail,University of Hail,Private,No,Science,ML,Online,19.8,No,Yes,No,Traditional,$12700,Yes,Consulting,No,Tier 2,516
+Saudi Arabia,Jazan,University of Jazan,Public,No,Engineering,AI,Part-time,6.6,Yes,No,No,Both,$27493,No,Consulting,No,Tier 2,218
+Saudi Arabia,Jubail,Jubail University College,Private,Yes,Arts,Data Science,Online,5.1,Yes,Yes,No,Digital,$47869,Yes,Consulting,No,Tier 2,761
+Saudi Arabia,Buraydah,Qassim University,Public,No,Science,AI,Full-time,19.44,Yes,Yes,No,Digital,$29171,Yes,Consulting,Yes,Tier 3,436
+Kuwait,Kuwait City,Kuwait University,Private,Yes,Business,ML,Online,16.14,No,No,Yes,Traditional,$31131,Yes,Both,Yes,Tier 2,120
+Kuwait,Kuwait City,American University of Kuwait,Public,Yes,Business,Data Science,Full-time,14.61,Yes,Yes,Yes,Traditional,$36861,No,Consulting,Yes,Tier 3,260
+Kuwait,Kuwait City,University of the Middle East,Public,No,Science,AI,Online,14.78,No,Yes,No,Both,$28658,No,Consulting,No,Tier 1,634
+Kuwait,Kuwait City,Gulf University for Science and Technology,Private,Yes,Arts,AI,Part-time,16.41,No,Yes,Yes,Traditional,$45737,Yes,Consulting,No,Tier 3,179
+Kuwait,Kuwait City,Kuwait Institute for Scientific Research,Public,Yes,Engineering,Cyber Security,Full-time,8.97,Yes,No,No,Both,$48327,No,Consulting,Yes,Tier 3,855
+Kuwait,Kuwait City,Kuwait College of Science and Technology,Private,Yes,Arts,AI,Full-time,19.32,Yes,Yes,Yes,Digital,$46721,No,Training,No,Tier 2,433
+Kuwait,Kuwait City,Kuwait College of Business Administration,Private,No,Science,ML,Part-time,19.98,No,No,Yes,Digital,$48712,Yes,Both,Yes,Tier 3,646
+Kuwait,Kuwait City,Kuwait College of Medicine,Private,Yes,Arts,ML,Part-time,12.62,Yes,Yes,Yes,Traditional,$41239,Yes,Both,Yes,Tier 1,605
+Kuwait,Kuwait City,Kuwait College of Engineering,Public,Yes,Arts,IoT,Part-time,13.25,Yes,Yes,Yes,Digital,$48600,No,Training,No,Tier 1,546
+Kuwait,Kuwait City,Kuwait College of Art and Design,Private,No,Engineering,Data Science,Online,11.59,Yes,Yes,No,Both,$44661,No,Consulting,Yes,Tier 3,368
+Egypt,Giza,Cairo University,Private,Yes,Arts,AI,Full-time,19.04,Yes,No,No,Digital,$19574,No,Consulting,Yes,Tier 1,774
+Egypt,Cairo,American University in Cairo (AUC),Public,No,Engineering,Data Science,Full-time,8.23,No,Yes,Yes,Digital,$40233,Yes,Consulting,No,Tier 1,826
+Egypt,Cairo,Ain Shams University,Public,No,Science,ML,Part-time,14.04,Yes,Yes,No,Digital,$26903,No,Training,Yes,Tier 3,133
+Egypt,Cairo,Helwan University,Private,No,Arts,ML,Online,19.71,Yes,Yes,No,Both,$44497,No,Both,No,Tier 1,466
+Egypt,Alexandria,Alexandria University,Private,No,Arts,AI,Full-time,6.99,Yes,Yes,No,Traditional,$14716,No,Both,No,Tier 1,433
+Egypt,Zagazig,University of Zagazig,Public,Yes,Arts,IoT,Full-time,12.7,Yes,No,Yes,Digital,$34967,Yes,Consulting,No,Tier 2,48
+Egypt,Mansoura,University of Mansoura,Private,No,Engineering,ML,Online,15.98,Yes,No,Yes,Traditional,$47805,No,Consulting,No,Tier 1,497
+Egypt,Assiut,University of Assiut,Public,Yes,Arts,IoT,Full-time,7.57,Yes,Yes,Yes,Traditional,$48550,Yes,Training,No,Tier 3,4
+Egypt,Minya,University of Minya,Private,Yes,Engineering,AI,Full-time,15.38,Yes,No,Yes,Both,$20062,Yes,Consulting,No,Tier 2,777
+Egypt,Ismailia,Suez Canal University,Private,No,Arts,Data Science,Part-time,9.84,No,No,Yes,Digital,$16788,Yes,Consulting,No,Tier 3,748
+Egypt,South Valley,South Valley University,Public,Yes,Engineering,AI,Online,17.04,No,No,Yes,Both,$37639,No,Consulting,No,Tier 2,730
+Lebanon,Beirut,American University of Beirut (AUB),Private,Yes,Arts,ML,Full-time,16.87,Yes,No,No,Digital,$21072,Yes,Training,No,Tier 3,982
+Lebanon,Beirut,Lebanese University,Public,No,Engineering,Data Science,Full-time,13.64,Yes,Yes,Yes,Traditional,$45147,No,Consulting,No,Tier 2,715
+Lebanon,Beirut,University of Saint Joseph (USJ),Private,No,Engineering,IoT,Full-time,13.46,Yes,Yes,No,Traditional,$38719,No,Training,No,Tier 2,817
+Lebanon,Beirut,Lebanese American University (LAU),Private,No,Engineering,ML,Full-time,10.97,No,Yes,No,Digital,$17684,No,Consulting,No,Tier 2,613
+Lebanon,Beirut,Saint George University,Private,No,Arts,Cyber Security,Part-time,5.98,Yes,No,Yes,Traditional,$41407,Yes,Both,Yes,Tier 1,766
+Lebanon,Beirut,Holy Spirit University of Kaslik (USEK),Public,No,Arts,ML,Full-time,13.24,Yes,Yes,No,Traditional,$19705,No,Consulting,No,Tier 2,595
+Lebanon,Beirut,Beirut Arab University,Public,Yes,Business,ML,Full-time,13.58,Yes,No,No,Traditional,$25844,Yes,Consulting,No,Tier 3,616
+Lebanon,Beirut,International College,Private,Yes,Business,AI,Online,8.84,Yes,No,Yes,Traditional,$17633,Yes,Training,Yes,Tier 2,129
+Lebanon,Beirut,Lebanese International University,Private,No,Science,AI,Full-time,18.79,Yes,No,No,Traditional,$10476,Yes,Both,No,Tier 3,117
+Lebanon,Beirut,American University of Science and Technology,Public,Yes,Engineering,IoT,Full-time,12.71,No,No,No,Traditional,$28675,No,Consulting,Yes,Tier 3,468
+Lebanon,Beirut,Institut des Sciences Politiques et Relations Internationales (ISPRI),Private,No,Science,Data Science,Part-time,12.81,Yes,Yes,Yes,Both,$18104,No,Training,Yes,Tier 3,114
+Lebanon,Beirut,Université Libanaise de Sciences Appliquées (ULSA),Public,No,Arts,ML,Full-time,17.75,Yes,No,No,Both,$46557,No,Consulting,Yes,Tier 3,373
+Lebanon,Beirut,Institut Superieur de Gestion (ISG),Public,No,Arts,Cyber Security,Part-time,19.95,Yes,Yes,No,Traditional,$28969,No,Consulting,Yes,Tier 1,58
+Lebanon,Beirut,Institut National de Gestion,Public,No,Arts,AI,Full-time,9.99,Yes,Yes,Yes,Both,$20361,Yes,Both,Yes,Tier 3,799
+Lebanon,Beirut,Institut des Beaux-Arts,Private,Yes,Engineering,ML,Online,11.63,Yes,No,Yes,Traditional,$12326,No,Consulting,No,Tier 2,924
+Lebanon,Beirut,Université Saint-Esprit de Kaslik,Private,Yes,Business,IoT,Online,17.62,No,No,Yes,Both,$29801,Yes,Both,Yes,Tier 3,736
+Lebanon,Beirut,Université de la Méditerranée,Public,Yes,Engineering,IoT,Online,17.63,No,Yes,No,Traditional,$31324,No,Both,Yes,Tier 3,164
+Lebanon,Beirut,Université des Sciences et Technologies du Liban (USTL),Public,No,Science,Data Science,Full-time,17.3,No,No,Yes,Digital,$10295,Yes,Consulting,Yes,Tier 2,259
+Lebanon,Beirut,Université des Arts de Beyrouth,Public,No,Engineering,IoT,Full-time,10.92,Yes,No,Yes,Both,$43474,Yes,Training,Yes,Tier 3,657
+Lebanon,Beirut,Université des Langues et Sciences Sociales,Public,Yes,Business,AI,Part-time,9.13,Yes,Yes,No,Traditional,$12763,No,Consulting,No,Tier 3,561
+Lebanon,Beirut,Université de Technologie et de Sciences Appliquées,Private,No,Science,ML,Online,8.74,Yes,No,No,Digital,$11326,No,Training,No,Tier 1,556
+Lebanon,Beirut,Université des Sciences et Technologies de Tripoli,Private,No,Arts,Data Science,Full-time,9.14,No,Yes,No,Both,$40773,Yes,Both,No,Tier 2,69
+Lebanon,Beirut,Université de Gestion de Tripoli,Public,Yes,Engineering,Cyber Security,Part-time,8.6,No,Yes,Yes,Digital,$16426,No,Training,Yes,Tier 3,660
+Lebanon,Beirut,Université de Damas,Private,Yes,Business,AI,Online,7.99,No,No,No,Digital,$43301,No,Training,No,Tier 3,664
+Lebanon,Beirut,Université de Science de Baabda,Public,Yes,Science,AI,Part-time,17.89,Yes,Yes,No,Both,$39135,Yes,Both,No,Tier 3,387
+Lebanon,Beirut,Université de l'Institut de Management de la Méditerranée,Public,No,Business,IoT,Part-time,16.66,Yes,No,Yes,Digital,$18230,Yes,Training,No,Tier 3,818
+Lebanon,Beirut,Université de Recherche Appliquée,Private,Yes,Science,Cyber Security,Full-time,18.76,No,Yes,No,Both,$30898,No,Training,No,Tier 1,803
+Lebanon,Beirut,Université des Sciences de la Vie,Private,Yes,Engineering,Cyber Security,Online,8.38,No,No,Yes,Both,$21374,Yes,Consulting,No,Tier 3,331
+Lebanon,Beirut,Université des Sciences de l'Ingénieur,Public,Yes,Engineering,AI,Online,16.13,Yes,Yes,Yes,Digital,$37345,Yes,Training,No,Tier 3,41
+Lebanon,Beirut,Université des Sciences de l'Information,Private,No,Arts,IoT,Online,18.84,Yes,Yes,No,Digital,$26489,No,Training,No,Tier 3,438
+Lebanon,Beirut,Université des Sciences de la Communication,Private,Yes,Arts,AI,Online,6.74,No,Yes,Yes,Both,$41778,Yes,Training,No,Tier 2,806
+Lebanon,Beirut,Université des Sciences de la Technologie,Public,Yes,Arts,Cyber Security,Online,8.72,Yes,No,Yes,Traditional,$13550,No,Consulting,Yes,Tier 1,254
+Lebanon,Beirut,Université des Sciences de l'Éducation,Private,Yes,Engineering,AI,Full-time,12.63,Yes,No,Yes,Digital,$46100,Yes,Training,Yes,Tier 1,144
+Lebanon,Beirut,Université des Sciences de la Santé,Public,Yes,Business,Data Science,Full-time,10.67,No,Yes,Yes,Traditional,$43842,No,Both,No,Tier 1,662
+Lebanon,Beirut,Université des Sciences de l'Environnement,Public,No,Arts,ML,Part-time,12.58,No,No,Yes,Digital,$48755,Yes,Training,No,Tier 2,856
+Lebanon,Beirut,Université des Sciences de l'Agriculture,Private,No,Science,Data Science,Part-time,10.69,Yes,No,No,Digital,$42192,Yes,Both,No,Tier 2,818
+Lebanon,Zouk Mosbeh,Notre Dame University (NDU),Public,Yes,Arts,Data Science,Full-time,16.8,Yes,Yes,Yes,Both,$34252,No,Both,Yes,Tier 1,924
+Lebanon,Balamand,University of Balamand,Public,No,Science,ML,Part-time,19.52,Yes,Yes,No,Both,$19072,No,Consulting,Yes,Tier 3,95
+Lebanon,Tripoli,Al Manar University of Tripoli,Public,No,Science,AI,Full-time,16.51,Yes,Yes,Yes,Digital,$40485,Yes,Consulting,No,Tier 1,802
+Lebanon,Tripoli,Université des Sciences et Technologies de Tripoli,Public,No,Engineering,Data Science,Online,18.81,No,No,No,Traditional,$13460,No,Consulting,No,Tier 1,741
+Lebanon,Tripoli,Université de Gestion de Tripoli,Private,Yes,Business,IoT,Online,8.52,No,Yes,Yes,Digital,$33550,Yes,Training,No,Tier 3,251
+Lebanon,Kaslik,Université Saint-Esprit de Kaslik,Public,No,Science,AI,Part-time,19.14,Yes,Yes,No,Traditional,$26813,No,Both,No,Tier 3,311
+Syria,Damascus,Damascus University,Private,Yes,Arts,Data Science,Part-time,19.06,No,No,No,Digital,$23818,No,Training,Yes,Tier 2,717
+Syria,Aleppo,Aleppo University,Private,Yes,Engineering,IoT,Part-time,18.75,No,No,Yes,Both,$44758,Yes,Both,No,Tier 2,571
+Syria,Latakia,Tishreen University,Private,Yes,Business,Cyber Security,Full-time,19.42,Yes,No,Yes,Digital,$11555,Yes,Both,No,Tier 2,896
+Syria,Homs,University of Homs,Public,No,Arts,AI,Full-time,7.07,No,Yes,Yes,Traditional,$26526,No,Training,Yes,Tier 1,309
+Syria,Homs,University of Al-Baath,Public,No,Arts,AI,Full-time,16.63,No,Yes,Yes,Both,$22339,No,Consulting,Yes,Tier 3,34
+Syria,Daraa,University of Daraa,Private,No,Science,AI,Online,15.6,Yes,No,Yes,Both,$49522,Yes,Training,Yes,Tier 1,889
+Syria,Tartous,University of Tartous,Private,Yes,Business,IoT,Online,17.68,No,Yes,No,Traditional,$19920,Yes,Both,Yes,Tier 1,194
+Syria,Idlib,University of Idlib,Public,Yes,Arts,AI,Full-time,6.35,No,Yes,No,Both,$44544,Yes,Consulting,Yes,Tier 1,562
+Syria,Lattakia,University of Lattakia,Public,No,Arts,Cyber Security,Online,13.42,No,No,Yes,Both,$27394,No,Consulting,Yes,Tier 3,318
+Syria,Suwayda,University of Suwayda,Public,Yes,Science,Cyber Security,Full-time,18.94,Yes,Yes,Yes,Traditional,$30990,No,Consulting,Yes,Tier 3,804
+Syria,Deir ez-Zor,University of Deir ez-Zor,Public,No,Engineering,Data Science,Full-time,10.29,No,No,Yes,Traditional,$31044,No,Both,Yes,Tier 3,550
+Syria,Raqqa,University of Raqqa,Public,No,Science,ML,Part-time,5.52,Yes,No,Yes,Digital,$49416,Yes,Consulting,No,Tier 2,922
+Syria,Hasakah,University of Hasakah,Private,No,Science,Cyber Security,Part-time,15.71,No,No,No,Traditional,$29054,No,Consulting,No,Tier 1,633
+Syria,Qamishli,University of Qamishli,Private,Yes,Science,IoT,Full-time,18.05,Yes,No,Yes,Traditional,$11574,No,Both,Yes,Tier 1,411
+Syria,Maarrat al-Nu'man,University of Maarrat al-Nu'man,Private,Yes,Arts,Data Science,Full-time,14.2,Yes,Yes,Yes,Traditional,$15315,Yes,Both,Yes,Tier 1,280
+Syria,Palmyra,University of Palmyra,Private,No,Arts,IoT,Part-time,17.84,Yes,No,No,Traditional,$17170,No,Both,No,Tier 3,997
+Syria,Sheikh Said,University of Sheikh Said,Private,No,Engineering,AI,Part-time,18.46,No,No,Yes,Traditional,$12484,Yes,Consulting,Yes,Tier 3,855
+Syria,Al-Munir,University of Al-Munir,Private,No,Arts,ML,Online,15.2,No,No,Yes,Both,$17644,Yes,Consulting,Yes,Tier 1,976
+Syria,Al-Salihiyah,University of Al-Salihiyah,Public,Yes,Business,Cyber Security,Full-time,9.0,Yes,No,Yes,Traditional,$33590,No,Consulting,Yes,Tier 3,494
+Syria,Al-Ashrafiyah,University of Al-Ashrafiyah,Public,No,Business,Data Science,Online,11.62,No,Yes,No,Digital,$14960,Yes,Training,No,Tier 1,865
+Syria,Al-Jabal,University of Al-Jabal,Public,No,Science,ML,Online,17.33,No,Yes,No,Both,$16845,No,Training,Yes,Tier 2,904
+Syria,Al-Raqqa,University of Al-Raqqa,Private,No,Engineering,Data Science,Full-time,12.0,No,No,No,Traditional,$18428,No,Training,No,Tier 1,784
+Syria,Al-Mahfouz,University of Al-Mahfouz,Private,No,Engineering,Data Science,Full-time,7.46,Yes,Yes,No,Digital,$15988,Yes,Consulting,Yes,Tier 3,18
+Syria,Al-Quneitra,University of Al-Quneitra,Public,Yes,Arts,IoT,Full-time,8.05,Yes,No,No,Both,$16074,No,Consulting,Yes,Tier 2,565
+Syria,Al-Nabek,University of Al-Nabek,Private,No,Science,AI,Online,5.96,Yes,Yes,No,Traditional,$16983,Yes,Training,Yes,Tier 3,451
+Syria,Al-Tal,University of Al-Tal,Public,No,Engineering,IoT,Full-time,17.85,Yes,Yes,No,Digital,$10813,No,Training,No,Tier 3,576
+Syria,Al-Zabadani,University of Al-Zabadani,Private,No,Engineering,Data Science,Full-time,8.7,Yes,No,Yes,Traditional,$20516,Yes,Training,Yes,Tier 2,155
+Syria,Al-Maad,University of Al-Maad,Private,Yes,Science,Data Science,Online,19.44,Yes,Yes,No,Digital,$36684,Yes,Training,No,Tier 2,289
+Syria,Al-Safira,University of Al-Safira,Public,Yes,Engineering,AI,Full-time,18.05,Yes,No,No,Traditional,$13659,No,Training,Yes,Tier 1,147
+Syria,Al-Bukamal,University of Al-Bukamal,Public,No,Business,IoT,Full-time,17.94,No,Yes,No,Both,$13821,Yes,Consulting,Yes,Tier 2,177
+Syria,Al-Khishta,University of Al-Khishta,Public,Yes,Engineering,Cyber Security,Online,13.62,No,Yes,No,Both,$41816,Yes,Training,Yes,Tier 2,367
+Iraq,Baghdad,University of Baghdad,Public,No,Arts,Cyber Security,Full-time,11.52,No,Yes,Yes,Digital,$31533,Yes,Both,No,Tier 3,443
+Iraq,Mosul,University of Mosul,Public,No,Science,Data Science,Full-time,17.53,Yes,Yes,No,Digital,$14460,Yes,Consulting,No,Tier 1,532
+Iraq,Basra,University of Basra,Public,Yes,Business,IoT,Full-time,18.52,No,Yes,Yes,Traditional,$41760,Yes,Training,Yes,Tier 3,546
+Iraq,Erbil,University of Erbil,Private,No,Engineering,ML,Full-time,9.25,Yes,Yes,Yes,Digital,$34211,Yes,Both,Yes,Tier 2,69
+Iraq,Sulaimani,Sulaimani University,Public,No,Business,Data Science,Full-time,9.59,No,Yes,Yes,Traditional,$39919,Yes,Training,Yes,Tier 3,650
+Iraq,Duhok,University of Duhok,Private,Yes,Science,AI,Full-time,6.68,No,Yes,Yes,Traditional,$39715,Yes,Both,No,Tier 2,823
+Iraq,Kufa,University of Kufa,Private,No,Business,Cyber Security,Part-time,10.19,Yes,Yes,Yes,Digital,$18764,Yes,Consulting,Yes,Tier 3,928
+Iraq,Nassiriya,University of Nassiriya,Public,Yes,Science,AI,Online,7.95,No,No,No,Traditional,$13375,No,Training,No,Tier 3,425
+Iraq,Babylon,University of Babylon,Public,Yes,Science,Data Science,Full-time,19.32,No,No,Yes,Digital,$12956,No,Consulting,No,Tier 2,506
+Iraq,Amara,University of Amara,Public,Yes,Engineering,Cyber Security,Online,12.6,Yes,Yes,Yes,Traditional,$38773,No,Consulting,No,Tier 2,216
+Iraq,Anbar,University of Anbar,Private,Yes,Arts,AI,Full-time,12.82,Yes,No,Yes,Digital,$20695,Yes,Training,Yes,Tier 2,515
+Iraq,Kirkuk,University of Kirkuk,Private,Yes,Engineering,IoT,Online,14.75,No,Yes,Yes,Digital,$17497,Yes,Consulting,Yes,Tier 3,641
+Iraq,Najaf,University of Najaf,Private,No,Business,IoT,Full-time,12.77,No,Yes,Yes,Digital,$21647,No,Training,No,Tier 1,51
+Iraq,Qadissiyah,University of Qadissiyah,Public,Yes,Engineering,IoT,Online,16.3,No,No,Yes,Traditional,$25535,No,Consulting,No,Tier 2,543
+Iraq,Samawah,University of Samawah,Private,Yes,Science,ML,Full-time,6.41,No,Yes,Yes,Digital,$27355,No,Consulting,Yes,Tier 3,765
+Iraq,Tikrit,University of Tikrit,Public,No,Arts,IoT,Part-time,9.68,Yes,Yes,No,Digital,$42677,No,Consulting,No,Tier 1,481
+Iraq,Thi-Qar,University of Thi-Qar,Public,No,Business,IoT,Part-time,17.02,No,No,Yes,Digital,$26812,No,Both,No,Tier 3,341
+Iraq,Wasit,University of Wasit,Private,Yes,Arts,ML,Full-time,14.67,Yes,Yes,Yes,Traditional,$47449,Yes,Both,Yes,Tier 3,119
+Iraq,Sulaymaniyah,Sulaymaniyah University,Private,No,Science,ML,Full-time,10.85,No,No,Yes,Both,$13328,Yes,Training,No,Tier 3,479
+Palestine,Gaza,Islamic University of Gaza,Public,No,Arts,AI,Full-time,14.03,No,No,No,Both,$13701,Yes,Both,Yes,Tier 1,617
+Palestine,Gaza,Al-Azhar University - Gaza,Public,No,Science,ML,Part-time,15.39,No,Yes,Yes,Traditional,$16038,Yes,Both,No,Tier 3,76
+Palestine,Ramallah,Birzeit University,Public,Yes,Arts,ML,Online,14.62,Yes,No,No,Digital,$45913,Yes,Training,No,Tier 2,996
+Palestine,Nablus,An-Najah National University,Private,No,Business,ML,Part-time,5.68,Yes,Yes,No,Both,$35347,Yes,Consulting,Yes,Tier 2,777
+Palestine,Hebron,Hebron University,Private,No,Business,Cyber Security,Part-time,6.13,No,No,No,Both,$40780,Yes,Both,No,Tier 1,595
+Palestine,Jericho,Al-Quds University,Private,Yes,Engineering,Data Science,Online,9.0,Yes,Yes,No,Both,$27088,No,Both,Yes,Tier 3,797
+Palestine,Bethlehem,Bethlehem University,Public,No,Business,IoT,Full-time,14.57,Yes,No,No,Both,$20327,Yes,Training,No,Tier 3,332
+Palestine,Jenin,Arab American University,Private,Yes,Engineering,AI,Part-time,13.08,No,Yes,Yes,Both,$30830,No,Consulting,No,Tier 1,951
+Palestine,Tulkarm,Palestine Technical University - Kadoorie,Private,Yes,Science,ML,Full-time,15.79,No,No,Yes,Traditional,$18282,Yes,Both,No,Tier 3,136
+Qatar,Doha,Qatar University,Public,Yes,Science,Data Science,Online,14.71,No,No,Yes,Traditional,$28433,Yes,Both,Yes,Tier 1,132
+Qatar,Doha,Carnegie Mellon University in Qatar,Private,Yes,Business,Data Science,Full-time,13.38,Yes,Yes,No,Digital,$34726,Yes,Both,No,Tier 2,620
+Qatar,Doha,Weill Cornell Medicine - Qatar,Private,Yes,Science,ML,Full-time,17.17,Yes,Yes,Yes,Digital,$48714,Yes,Consulting,No,Tier 1,768
+Qatar,Doha,Texas A&M University at Qatar,Private,No,Business,AI,Full-time,12.31,Yes,No,Yes,Both,$42556,No,Consulting,No,Tier 3,913
+Qatar,Doha,Georgetown University in Qatar,Private,No,Arts,ML,Online,18.39,Yes,No,Yes,Both,$49085,No,Both,No,Tier 3,944
+Qatar,Doha,Northwestern University in Qatar,Public,No,Business,Data Science,Part-time,9.14,No,Yes,Yes,Both,$42311,No,Consulting,No,Tier 2,213
+Qatar,Doha,Virginia Commonwealth University in Qatar,Public,Yes,Business,AI,Full-time,18.73,No,Yes,Yes,Both,$25413,Yes,Training,Yes,Tier 1,533
+Qatar,Doha,College of the North Atlantic - Qatar,Public,No,Engineering,AI,Full-time,6.17,Yes,No,No,Traditional,$19367,Yes,Both,No,Tier 2,922
+Qatar,Doha,University of Calgary in Qatar,Private,Yes,Science,AI,Full-time,9.14,No,Yes,No,Digital,$47999,Yes,Training,No,Tier 3,234
+Qatar,Doha,Hamad Bin Khalifa University,Private,Yes,Arts,Cyber Security,Part-time,11.34,No,Yes,Yes,Both,$24514,No,Both,Yes,Tier 3,295
+Bahrain,Manama,University of Bahrain,Private,Yes,Science,AI,Part-time,17.46,No,Yes,No,Digital,$10856,Yes,Consulting,No,Tier 3,786
+Bahrain,Manama,Ahlia University,Public,No,Science,IoT,Part-time,14.55,Yes,Yes,No,Digital,$17006,Yes,Training,No,Tier 3,969
+Bahrain,Manama,Arabian Gulf University,Public,No,Science,IoT,Part-time,16.6,No,No,No,Digital,$45516,Yes,Consulting,No,Tier 3,700
+Bahrain,Manama,Royal University for Women,Public,Yes,Engineering,Cyber Security,Online,13.3,Yes,No,No,Digital,$43574,Yes,Both,Yes,Tier 2,762
+Bahrain,Manama,Bahrain Polytechnic,Public,No,Arts,Cyber Security,Full-time,11.51,Yes,Yes,Yes,Traditional,$18593,No,Training,Yes,Tier 2,676
+Bahrain,Manama,Applied Science University - Bahrain,Private,Yes,Business,AI,Full-time,18.35,Yes,Yes,Yes,Traditional,$49931,No,Training,No,Tier 3,161
+Bahrain,Manama,Gulf University,Private,Yes,Arts,Cyber Security,Online,18.87,No,Yes,No,Digital,$13270,Yes,Training,No,Tier 3,28
+Bahrain,Manama,University College of Bahrain,Public,Yes,Arts,Cyber Security,Full-time,12.7,No,Yes,No,Traditional,$42205,Yes,Training,Yes,Tier 2,175
+Bahrain,Manama,Bahrain Institute of Banking and Finance (BIBF),Public,Yes,Business,ML,Online,9.68,Yes,No,No,Both,$49727,No,Both,No,Tier 3,600
+Bahrain,Manama,Royal College of Surgeons in Ireland - Bahrain,Private,No,Business,IoT,Part-time,8.79,Yes,No,Yes,Both,$31836,No,Consulting,Yes,Tier 2,250
+Bahrain,Manama,American University of Bahrain (AUBH),Private,No,Arts,Data Science,Part-time,7.13,No,No,Yes,Traditional,$25682,No,Both,No,Tier 1,483
+Bahrain,Manama,Arab Open University - Bahrain,Public,Yes,Science,Data Science,Full-time,13.77,Yes,No,Yes,Both,$16822,Yes,Consulting,No,Tier 2,895
+Oman,Muscat,Sultan Qaboos University,Public,No,Engineering,Cyber Security,Part-time,10.68,No,Yes,No,Traditional,$35705,No,Consulting,Yes,Tier 3,424
+Oman,Muscat,Oman Medical College,Public,No,Arts,Data Science,Online,5.06,Yes,No,Yes,Traditional,$28028,Yes,Training,Yes,Tier 3,702
+Oman,Muscat,Middle East College,Private,No,Science,AI,Part-time,14.04,No,Yes,Yes,Both,$21741,No,Both,No,Tier 1,734
+Oman,Muscat,Majan University College,Private,No,Engineering,Data Science,Part-time,14.13,No,No,No,Digital,$28231,Yes,Both,No,Tier 3,271
+Oman,Muscat,German University of Technology in Oman,Private,Yes,Science,AI,Part-time,5.69,Yes,No,Yes,Digital,$25086,Yes,Consulting,No,Tier 3,346
+Oman,Muscat,Oman College of Management & Technology,Public,Yes,Engineering,ML,Online,12.96,Yes,No,Yes,Both,$32676,No,Consulting,No,Tier 3,413
+Oman,Salalah,Dhofar University,Public,No,Science,ML,Full-time,19.61,No,No,Yes,Traditional,$19622,No,Training,Yes,Tier 1,756
+Oman,Salalah,Salalah College of Applied Sciences,Private,No,Engineering,AI,Full-time,11.59,No,No,No,Both,$40600,No,Training,No,Tier 3,333
+Oman,Nizwa,University of Nizwa,Private,Yes,Business,AI,Part-time,12.4,Yes,Yes,Yes,Digital,$29602,Yes,Both,No,Tier 2,510
+Oman,Sohar,Sohar University,Private,Yes,Science,Cyber Security,Full-time,10.51,Yes,No,Yes,Traditional,$18564,Yes,Consulting,No,Tier 2,106
+Oman,Sur,Sur University College,Public,Yes,Business,Data Science,Online,7.13,No,Yes,Yes,Digital,$17369,Yes,Consulting,No,Tier 2,751
+Oman,Barka,Al Buraimi University College,Public,Yes,Business,Cyber Security,Part-time,14.71,No,No,Yes,Both,$27818,Yes,Training,No,Tier 2,86
+Oman,Ibra,Ibra College of Technology,Public,Yes,Business,IoT,Online,11.92,No,Yes,Yes,Digital,$10053,No,Both,Yes,Tier 2,348
+Jordan,Amman,University of Jordan,Private,No,Science,IoT,Online,11.61,No,No,Yes,Traditional,$25293,No,Training,Yes,Tier 1,361
+Jordan,Amman,Princess Sumaya University for Technology,Private,No,Business,AI,Full-time,15.27,No,Yes,Yes,Both,$40984,Yes,Consulting,Yes,Tier 2,791
+Jordan,Amman,German-Jordanian University,Public,Yes,Arts,ML,Full-time,13.76,No,Yes,Yes,Traditional,$27044,No,Consulting,No,Tier 2,168
+Jordan,Amman,Al-Zaytoonah University of Jordan,Private,Yes,Science,ML,Part-time,9.16,No,No,No,Traditional,$31742,No,Both,No,Tier 2,163
+Jordan,Amman,Philadelphia University - Jordan,Public,No,Science,Cyber Security,Full-time,10.91,No,No,Yes,Traditional,$30027,No,Both,No,Tier 3,9
+Jordan,Amman,Al Ahliyya Amman University,Private,No,Arts,Cyber Security,Full-time,12.1,No,Yes,No,Traditional,$28668,No,Training,No,Tier 3,633
+Jordan,Amman,Middle East University - Jordan,Public,No,Engineering,ML,Full-time,19.89,Yes,Yes,Yes,Digital,$41161,Yes,Training,Yes,Tier 3,483
+Jordan,Amman,Applied Science Private University,Private,Yes,Business,ML,Full-time,5.82,No,No,No,Both,$33875,No,Training,Yes,Tier 2,803
+Jordan,Amman,Jordan University of Science and Technology,Public,Yes,Arts,ML,Full-time,18.4,Yes,No,Yes,Digital,$15722,No,Consulting,Yes,Tier 2,824
+Jordan,Irbid,Yarmouk University,Public,Yes,Arts,AI,Full-time,19.3,No,No,No,Digital,$19912,Yes,Training,Yes,Tier 3,641
+Jordan,Aqaba,Aqaba University of Technology,Private,Yes,Arts,AI,Part-time,10.61,Yes,Yes,No,Digital,$36370,No,Consulting,No,Tier 1,987
+Jordan,Zarqa,Hashemite University,Private,No,Science,Cyber Security,Online,14.14,No,No,No,Traditional,$11603,Yes,Both,Yes,Tier 2,21
+Jordan,Zarqa,Al-Zarqa Private University,Public,No,Arts,Cyber Security,Part-time,14.49,No,Yes,Yes,Digital,$21300,Yes,Both,No,Tier 3,270
+Jordan,Madaba,American University of Madaba,Private,No,Arts,AI,Online,17.82,Yes,Yes,No,Traditional,$28886,No,Training,No,Tier 3,869
+Jordan,Ajloun,Ajloun National University,Private,Yes,Engineering,IoT,Part-time,10.07,No,No,No,Traditional,$28004,Yes,Training,Yes,Tier 1,463
+Jordan,Mafraq,Al al-Bayt University,Private,No,Arts,AI,Full-time,7.76,Yes,Yes,Yes,Digital,$22407,No,Consulting,No,Tier 1,650
+Jordan,Karak,Mutah University,Public,Yes,Arts,IoT,Part-time,16.13,Yes,No,Yes,Digital,$39328,Yes,Consulting,No,Tier 3,360
