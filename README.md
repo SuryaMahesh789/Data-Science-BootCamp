@@ -21,8 +21,8 @@
 ### 11.Hadoop
 ### 12.Spark - PySpark
 ### 13.Azure
-      i.   Azure Data Explorer
-      ii.  statistics
+      i.   Azure Data Storage
+      ii.  Azure Data Explorer
       iii. Data Preprocessing
       iv.  Data Analysis
             I. Anomaly Detection in Transactions
