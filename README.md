@@ -24,6 +24,7 @@
       i.   Azure Data Storage
       ii.  Azure Data Explorer
       iii. Azure Data Bricks
+      iv.  Azure Cosmos
       
 
 
