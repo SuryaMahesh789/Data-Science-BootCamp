@@ -26,6 +26,8 @@
       iii. Azure Data Bricks
       iv.  Azure Cosmos
 ### 14. Youtube Dataset Analysis using PySpark - DataBricks
+      i.  PySpark Real Time Project with Azure DataBricks & Data Storage Account
+
       
       
 
