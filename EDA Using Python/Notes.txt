@@ -1,0 +1,10 @@
+# There are many columns which have null values such as date_added, job_type, organization, salary, and sector.
+# We cannot predict anything in Machine Learning with the dirty data.
+# Before applying any Machine Learning technique, we need to deal with the missing data and outliers.
+# There are some columns which are useless and very obvious.
+# For example, country, country code, has_expired, and job_board.
+# We are analysing this problem for US and Monster.com. And, Has_expired has only one value
+# i.e. NO. So there is no point to use these columns further.
+
+
+
